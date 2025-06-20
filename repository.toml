@@ -1,0 +1,37 @@
+[repository]
+name = "sevilla-imd-website"
+managed_by_uv = false
+changelog = "CHANGELOG.md"
+version = "version.txt"
+compose = "docker-compose.yml"
+
+[repository.towncrier]
+section = "Project"
+settings = "towncrier.toml"
+
+[backend]
+path = "backend"
+
+[backend.package]
+name = "sevilla.imd.website"
+path = "backend"
+changelog = "backend/CHANGELOG.md"
+towncrier_settings = "backend/pyproject.toml"
+base_package = "Products.CMFPlone"
+publish = false
+
+[frontend]
+path = "frontend"
+
+[frontend.package]
+name = "volto-sevilla-imd-website"
+path = "frontend/packages/volto-sevilla-imd-website"
+changelog = "frontend/packages/volto-sevilla-imd-website/CHANGELOG.md"
+towncrier_settings = "frontend/packages/volto-sevilla-imd-website/towncrier.toml"
+base_package = "@plone/volto"
+publish = false
+
+[cookieplone]
+template = "project"
+template_version = "3e8fbc360e69cc1a6304184896e462e7f08e3abb"
+generated_date = "2025-06-20 16:49:32"
