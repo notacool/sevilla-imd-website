@@ -26,8 +26,12 @@
     "release-major-alpha": "release-it major --preRelease=alpha",
     "release-alpha": "release-it --preRelease=alpha"
   },
-  "addons": [],
-  "dependencies": {},
+  "addons": [
+    "@kitconcept/volto-light-theme"
+  ],
+  "dependencies": {
+    "@kitconcept/volto-light-theme": "6.2.0"
+  },
   "peerDependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0"
