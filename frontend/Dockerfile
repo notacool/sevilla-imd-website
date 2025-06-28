@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 ARG VOLTO_VERSION
-FROM plone/frontend-builder:${VOLTO_VERSION} AS builder
+FROM plone/frontend-builder:${VOLTO_VERSION:-18.23.0} AS builder
 
 COPY --chown=node packages/volto-sevilla-imd-website /app/packages/volto-sevilla-imd-website
 COPY --chown=node volto.config.js /app/
@@ -18,7 +18,7 @@ RUN --mount=type=cache,id=pnpm,target=/app/.pnpm-store,uid=1000 <<EOT
     pnpm install --prod
 EOT
 
-FROM plone/frontend-prod-config:${VOLTO_VERSION}
+FROM plone/frontend-prod-config:${VOLTO_VERSION:-18.23.0}
 
 LABEL maintainer="Instituto Municipal de Deportes de Sevilla <leonardocaballero@gmail.com>" \
       org.label-schema.name="sevilla-imd-website-frontend" \
