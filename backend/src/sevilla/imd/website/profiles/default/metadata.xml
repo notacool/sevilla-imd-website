@@ -5,5 +5,7 @@
     <dependency>profile-plone.volto:default</dependency>
     <dependency>profile-plone.app.caching:default</dependency>
     <dependency>profile-plone.app.caching:with-caching-proxy</dependency>
+    <dependency>profile-plone.app.dexterity:default</dependency>
+    <dependency>profile-plone.app.iterate:default</dependency>
   </dependencies>
 </metadata>

@@ -2,5 +2,16 @@
 <rolemap>
   <permissions>
     <!-- -*- extra stuff goes here -*- -->
+
+    <permission acquire="True"
+                name="sevilla.imd.website: Add District"
+    >
+      <role name="Manager" />
+      <role name="Site Administrator" />
+      <role name="Owner" />
+      <role name="Contributor" />
+    </permission>
+
+
   </permissions>
 </rolemap>
