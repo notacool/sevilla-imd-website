@@ -1,0 +1,1 @@
+Added the '@mbarde/volto-fullcalendar-block' block for the frontend #12 [macagua]

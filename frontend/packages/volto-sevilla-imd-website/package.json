@@ -33,9 +33,11 @@
     "@kitconcept/volto-highlight-block",
     "@kitconcept/volto-separator-block",
     "@kitconcept/volto-slider-block",
+    "@mbarde/volto-fullcalendar-block",
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {
+    "@mbarde/volto-fullcalendar-block": "*",
     "@kitconcept/volto-light-theme": "6.2.0"
   },
   "peerDependencies": {
