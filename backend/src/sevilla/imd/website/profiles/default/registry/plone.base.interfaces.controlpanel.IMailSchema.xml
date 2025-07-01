@@ -4,6 +4,11 @@
            prefix="plone"
            purge="false"
   >
-    <value key="email_from_name">Sevilla IMD Website</value>
+    <value key="email_from_name">Instituto Municipal de Deportes</value>
+    <value key="smtp_host">smtp-relay.gmail.com</value>
+    <value key="smtp_port">25</value>
+    <value key="smtp_userid">notacool</value>
+    <value key="smtp_pass" />
+    <value key="email_from_address">informacion@imd.sevilla.org</value>
   </records>
 </registry>

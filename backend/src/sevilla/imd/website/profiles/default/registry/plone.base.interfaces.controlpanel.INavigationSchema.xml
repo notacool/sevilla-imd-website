@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<registry>
+  <records interface="plone.base.interfaces.controlpanel.INavigationSchema"
+           prefix="plone"
+  >
+    <value key="displayed_types"
+           purge="false"
+    >
+      <element>Folder</element>
+      <element>Collection</element>
+      <element>District</element>
+      <element>Link</element>
+      <element>Event</element>
+      <element>Document</element>
+    </value>
+  </records>
+</registry>

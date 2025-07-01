@@ -1,0 +1,1 @@
+Add configurations via registries records for the website [macagua]

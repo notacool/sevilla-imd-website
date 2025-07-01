@@ -4,6 +4,8 @@
            prefix="plone"
            purge="false"
   >
-    <value key="site_title">Sevilla IMD Website</value>
+    <value key="site_title">Instituto Municipal de Deportes - Ayuntamiento de Sevilla</value>
+    <value key="enable_sitemap">True</value>
+    <value key="exposeDCMetaTags">True</value>
   </records>
 </registry>
