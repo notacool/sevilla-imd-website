@@ -6,14 +6,17 @@
 
   <i18n:registerTranslations directory="locales" />
 
+  <!-- include the Products.CMFCore package permissions. -->
   <include
       package="Products.CMFCore"
       file="permissions.zcml"
       />
 
-
+  <!-- dependencies packages. -->
   <include file="dependencies.zcml" />
+  <!-- genericsetup profiles. -->
   <include file="profiles.zcml" />
+  <!-- has to be loaded before permissions are used, so keep above views aso. -->
   <include file="permissions.zcml" />
 
   <include package=".controlpanel" />

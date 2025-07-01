@@ -26,7 +26,7 @@
     <!--
     <element value="Document" />
     <element value="File" />
-  -->
+    -->
   </property>
   <!-- Schema, class and security -->
   <property name="add_permission">sevilla.imd.website.AddDistrict</property>
@@ -39,8 +39,8 @@
   <property name="behaviors"
             purge="false"
   >
-    <!-- Details about all standard behaviors following can be read at
-         https://docs.plone.org/external/plone.app.dexterity/docs/reference/standard-behaviours.html
+    <!-- Details about all built-in behaviors following can be read at
+         https://6.docs.plone.org/backend/behaviors.html#built-in-behaviors
     -->
     <element value="plone.basic" />
     <element value="plone.namefromtitle" />
