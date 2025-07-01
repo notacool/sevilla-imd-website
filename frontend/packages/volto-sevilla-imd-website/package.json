@@ -32,6 +32,7 @@
     "@kitconcept/volto-introduction-block",
     "@kitconcept/volto-highlight-block",
     "@kitconcept/volto-separator-block",
+    "@kitconcept/volto-slider-block",
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {

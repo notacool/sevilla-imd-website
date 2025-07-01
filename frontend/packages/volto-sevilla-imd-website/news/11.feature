@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-slider-block' block for the frontend #11 [macagua]
