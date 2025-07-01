@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-button-block' block for the frontend #6 [macagua]
