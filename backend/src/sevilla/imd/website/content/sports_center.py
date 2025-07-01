@@ -23,9 +23,9 @@ class ISportsCenter(model.Schema):
 
     # model.load('sports_center.xml')
 
-    # fieldset('Images', fields=['imagen', 'advertisement'])
-    imagen = namedfile.NamedBlobImage(
-        title=_("Imagen"),
+    # fieldset('Images', fields=['Image', 'advertisement'])
+    image = namedfile.NamedBlobImage(
+        title=_("Image"),
         description=_("Please, load a Sports Center image."),
         required=False,
     )
