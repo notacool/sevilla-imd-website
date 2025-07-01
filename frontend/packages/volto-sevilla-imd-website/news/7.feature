@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-heading-block' block for the frontend #7 [macagua]
