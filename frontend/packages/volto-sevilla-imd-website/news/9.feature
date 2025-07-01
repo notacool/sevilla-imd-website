@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-highlight-block' block for the frontend #9 [macagua]

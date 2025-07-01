@@ -30,6 +30,7 @@
     "@kitconcept/volto-button-block",
     "@kitconcept/volto-heading-block",
     "@kitconcept/volto-introduction-block",
+    "@kitconcept/volto-highlight-block",
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {
