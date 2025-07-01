@@ -9,6 +9,12 @@
     <!-- -*- extra stuff goes here -*- -->
 
     <permission
+        id="sevilla.imd.website.AddSportsCenter"
+        title="sevilla.imd.website: Add SportsCenter"
+        />
+
+
+    <permission
         id="sevilla.imd.website.AddDistrict"
         title="sevilla.imd.website: Add District"
         />

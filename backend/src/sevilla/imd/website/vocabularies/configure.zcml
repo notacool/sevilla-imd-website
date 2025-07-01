@@ -2,4 +2,11 @@
 
   <!-- -*- extra stuff goes here -*- -->
 
+
+  <!-- Sports Centers -->
+  <utility
+      name="sevilla.imd.website.vocabularies.management_models"
+      component=".sports_center.management_models"
+      />
+
 </configure>

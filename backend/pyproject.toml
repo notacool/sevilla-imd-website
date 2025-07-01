@@ -144,6 +144,8 @@ lint.select = [
 lint.ignore = [
     # DoNotAssignLambda
     "E731",
+    # Possible hardcoded password assigned to argument
+    "S106",
 ]
 
 [tool.ruff.lint.isort]

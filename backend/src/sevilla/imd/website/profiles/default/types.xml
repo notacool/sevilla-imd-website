@@ -2,9 +2,12 @@
 <object meta_type="Plone Types Tool"
         name="portal_types"
 >
-  <property name="title">Controls the available contenttypes in your portal</property>
+  <property name="title">Controls the available content types in your portal</property>
   <!--<object meta_type="Dexterity FTI" name="MyType"/>-->
   <object meta_type="Dexterity FTI"
           name="District"
+  />
+  <object meta_type="Dexterity FTI"
+          name="SportsCenter"
   />
 </object>

@@ -1,46 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <object xmlns:i18n="http://xml.zope.org/namespaces/i18n"
         meta_type="Dexterity FTI"
-        name="District"
+        name="SportsCenter"
         i18n:domain="sevilla.imd.website"
 >
 
   <!-- Basic properties -->
   <property name="title"
             i18n:translate=""
-  >District</property>
+  >Sports Center</property>
   <property name="description"
             i18n:translate=""
-  >A sports district</property>
+  >A sports center</property>
 
   <property name="allow_discussion">False</property>
-  <property name="factory">District</property>
-  <property name="icon_expr">string:diagram-3-fill</property>
+  <property name="factory">SportsCenter</property>
+  <property name="icon_expr">string:buildings-fill</property>
   <property name="link_target" />
 
   <!-- Hierarchy control -->
-  <property name="global_allow">True</property>
-  <property name="filter_content_types">True</property>
-  <property name="allowed_content_types">
-    <element value="SportsCenter" />
-    <!--
-    <element value="Document" />
-    <element value="File" />
-  -->
-  </property>
+  <property name="global_allow">False</property>
   <!-- Schema, class and security -->
-  <property name="add_permission">sevilla.imd.website.AddDistrict</property>
-  <property name="klass">sevilla.imd.website.content.district.District</property>
+  <property name="add_permission">sevilla.imd.website.AddSportsCenter</property>
+  <property name="klass">sevilla.imd.website.content.sports_center.SportsCenter</property>
   <property name="model_file" />
   <property name="model_source" />
-  <property name="schema">sevilla.imd.website.content.district.IDistrict</property>
+  <property name="schema">sevilla.imd.website.content.sports_center.ISportsCenter</property>
 
   <!-- Enabled behaviors -->
   <property name="behaviors"
             purge="false"
   >
-    <!-- Details about all standard behaviors following can be read at
-         https://docs.plone.org/external/plone.app.dexterity/docs/reference/standard-behaviours.html
+    <!-- Details about all built-in behaviors following can be read at
+         https://6.docs.plone.org/backend/behaviors.html#built-in-behaviors
     -->
     <element value="plone.basic" />
     <element value="plone.namefromtitle" />
@@ -57,14 +49,11 @@
     <!--<element value="plone.tableofcontents"/>-->
     <element value="plone.versioning" />
     <!--<element value="plone.translatable" />-->
-    <!--<element value="plone.nextprevioustoggle" />-->
     <element value="plone.nextpreviousenabled" />
-    <!--<element value="plone.navigationroot" />-->
-    <!--<element value="plone.constraintypes" />-->
   </property>
 
   <!-- View information -->
-  <property name="add_view_expr">string:${folder_url}/++add++District</property>
+  <property name="add_view_expr">string:${folder_url}/++add++SportsCenter</property>
   <property name="default_view">view</property>
   <property name="default_view_fallback">False</property>
   <property name="immediate_view">view</property>
