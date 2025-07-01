@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-introduction-block' block for the frontend #8 [macagua]
