@@ -1,4 +1,3 @@
-# from plone.app.textfield import RichText
 from plone.app.textfield import RichText as RichTextField
 from plone.app.z3cform.widgets.richtext import RichTextFieldWidget
 from plone.autoform import directives
@@ -9,8 +8,6 @@ from sevilla.imd.website import _
 from sevilla.imd.website.vocabularies.sports_center import ACTIVITY
 from sevilla.imd.website.vocabularies.sports_center import COMPLEMENTARY_SERVICES
 from sevilla.imd.website.vocabularies.sports_center import SPORTS_SPACE
-
-# from plone.app.z3cform.widget import InAndOutWidget
 from zope import schema
 from zope.interface import implementer
 
@@ -18,19 +15,12 @@ from zope.interface import implementer
 class ISportsCenter(model.Schema):
     """Marker interface and Dexterity Python Schema for SportsCenter"""
 
-    # If you want, you can load a xml model created TTW here
-    # and customize it in Python:
-
-    # model.load('sports_center.xml')
-
-    # fieldset('Images', fields=['Image', 'advertisement'])
     image = namedfile.NamedBlobImage(
         title=_("Image"),
         description=_("Please, load a Sports Center image."),
         required=False,
     )
 
-    # directives.widget(management_model=RadioFieldWidget)
     management_model = schema.Choice(
         title=_("Management model"),
         description=_("Please, select a management model"),
@@ -93,16 +83,12 @@ class ISportsCenter(model.Schema):
         default=[],
     )
 
-    # directives.order_before(water_activities_schedule="*")
-    # directives.order_before(indoor_physical_activity_schedule="*")
     text = RichTextField(
         title=_("label_text", default="Text"),
         description="",
         required=False,
     )
     directives.widget("text", RichTextFieldWidget)
-    # model.primary("text")
-    # searchable("text")
 
     external_link = schema.URI(
         title=_("External Link"),
@@ -135,13 +121,6 @@ class ISportsCenter(model.Schema):
         description=_("Please, fills the latitude and longitude values"),
         required=False,
     )
-
-    # directives.read_permission(notes='cmf.ManagePortal')
-    # directives.write_permission(notes='cmf.ManagePortal')
-    # notes = RichText(
-    #     title=_(u'Secret Notes (only for site-admins)'),
-    #     required=False
-    # )
 
 
 @implementer(ISportsCenter)
