@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-separator-block' block for the frontend #10 [macagua]
