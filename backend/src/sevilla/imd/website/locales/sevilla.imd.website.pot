@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-25 17:12+0000\n"
+"POT-Creation-Date: 2025-07-01 09:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,3 +16,120 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: sevilla.imd.website\n"
+
+#: sevilla/imd/website/profiles/default/types/SportsCenter.xml
+msgid "A sports center"
+msgstr ""
+
+#: sevilla/imd/website/profiles/default/types/District.xml
+msgid "A sports district"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:49
+msgid "Activity"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:86
+msgid "Complementary Services"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:140
+msgid "Coordinates"
+msgstr ""
+
+#: sevilla/imd/website/profiles.zcml:23
+msgid "Create example content to showcase the new website"
+msgstr ""
+
+#: sevilla/imd/website/vocabularies/sports_center.py:199
+msgid "Direct"
+msgstr ""
+
+#: sevilla/imd/website/profiles/default/types/District.xml
+msgid "District"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:114
+msgid "External Link"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:34
+msgid "Imagen"
+msgstr ""
+
+#: sevilla/imd/website/vocabularies/sports_center.py:200
+msgid "Indirect"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:123
+msgid "Indoor Physical Activity Schedule"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:41
+msgid "Management model"
+msgstr ""
+
+#: sevilla/imd/website/profiles.zcml:14
+msgid "Package to configure a new Sevilla IMD Website site"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:141
+msgid "Please, fills the latitude and longitude values"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:35
+msgid "Please, load a Sports Center image."
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:124
+msgid "Please, load a document with the Indoor Physical Activity Schedule information."
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:133
+msgid "Please, load a document with the Water Activities Schedule information."
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:42
+msgid "Please, select a management model"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:50
+msgid "Please, select an option from the left column and move it to the right column."
+msgstr ""
+
+#: sevilla/imd/website/profiles.zcml:23
+msgid "Sevilla IMD Website: Example content"
+msgstr ""
+
+#: sevilla/imd/website/profiles.zcml:14
+msgid "Sevilla IMD Website: Install"
+msgstr ""
+
+#: sevilla/imd/website/profiles.zcml:31
+msgid "Sevilla IMD Website: Uninstall"
+msgstr ""
+
+#: sevilla/imd/website/profiles/default/types/SportsCenter.xml
+msgid "Sports Center"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:69
+msgid "Sports Space"
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:115
+msgid "This link will be visible in the case of Indirect Management. Please, fills with the prefix https://..."
+msgstr ""
+
+#: sevilla/imd/website/profiles.zcml:31
+msgid "Uninstall Sevilla IMD Website setup."
+msgstr ""
+
+#: sevilla/imd/website/content/sports_center.py:132
+msgid "Water Activities Schedule"
+msgstr ""
+
+#. Default: "Text"
+#: sevilla/imd/website/content/sports_center.py:105
+msgid "label_text"
+msgstr ""
