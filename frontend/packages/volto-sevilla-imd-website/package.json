@@ -34,9 +34,11 @@
     "@kitconcept/volto-separator-block",
     "@kitconcept/volto-slider-block",
     "@mbarde/volto-fullcalendar-block",
+    "volto-form-block",
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {
+    "volto-form-block": "*",
     "@mbarde/volto-fullcalendar-block": "*",
     "@kitconcept/volto-light-theme": "6.2.0"
   },

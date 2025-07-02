@@ -1,0 +1,1 @@
+Added the 'volto-form-block' block for the frontend #13 [macagua]
