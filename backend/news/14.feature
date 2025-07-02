@@ -1,0 +1,1 @@
+Add the 'collective.volto.formsupport' and 'collective.honeypot' addons as a dependency for the backend website #14 [macagua]
