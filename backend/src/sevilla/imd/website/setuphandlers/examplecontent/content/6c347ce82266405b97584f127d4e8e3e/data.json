@@ -1,0 +1,63 @@
+{
+  "@id": "/sobre-nosotros/tablon-de-anuncios",
+  "@type": "Document",
+  "UID": "6c347ce82266405b97584f127d4e8e3e",
+  "allow_discussion": null,
+  "blocks": {
+    "26bb3caa-b02b-43da-b0c1-160651f26db2": {
+      "@type": "title"
+    },
+    "d2abb690-64a6-45cd-b4ad-8b11e8724b46": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "26bb3caa-b02b-43da-b0c1-160651f26db2",
+      "d2abb690-64a6-45cd-b4ad-8b11e8724b46"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:08:10+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Tabl\u00f3n de anuncios",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tablon-de-anuncios",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:08:10+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Tabl\u00f3n de anuncios",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:08:10+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,47 @@
+{
+  "@id": "/sede-electronica/tramites-en-linea",
+  "@type": "Link",
+  "UID": "40e2260ff5744ce9885f8e1edd242150",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:11:02+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Tramites en l\u00ednea",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tramites-en-linea",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "link_redirect_view",
+  "lock": {},
+  "modified": "2025-07-03T12:11:02+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "remoteUrl": "https://sede.sevilla.org/opencms/system/modules/sede/index",
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Tramites en l\u00ednea",
+  "type_title": "Link",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:11:02+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

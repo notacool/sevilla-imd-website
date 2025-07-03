@@ -1,0 +1,63 @@
+{
+  "@id": "/centros-y-espacios-deportivos/catalogo-de-sueldos-de-uso-deportivos",
+  "@type": "Document",
+  "UID": "78acd38784d7436b9b1f5e7f93a0b638",
+  "allow_discussion": null,
+  "blocks": {
+    "35f56681-501f-4281-9bc8-ec92860a6910": {
+      "@type": "title"
+    },
+    "628b433b-2360-4d1e-bb5e-af98ea3ceba1": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "35f56681-501f-4281-9bc8-ec92860a6910",
+      "628b433b-2360-4d1e-bb5e-af98ea3ceba1"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:23:53+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Cat\u00e1logo de sueldos de uso deportivos",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "catalogo-de-sueldos-de-uso-deportivos",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:23:53+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Cat\u00e1logo de sueldos de uso deportivos",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:23:53+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

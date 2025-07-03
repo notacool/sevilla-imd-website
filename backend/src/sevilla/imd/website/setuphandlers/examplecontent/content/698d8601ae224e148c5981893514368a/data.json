@@ -1,0 +1,63 @@
+{
+  "@id": "/centros-y-espacios-deportivos/app-entrenamiento-imd",
+  "@type": "Document",
+  "UID": "698d8601ae224e148c5981893514368a",
+  "allow_discussion": null,
+  "blocks": {
+    "e711e495-b65f-4658-8d93-ebcd71733755": {
+      "@type": "title"
+    },
+    "ed497946-8393-4dd0-ba6f-dc2c917fe0a0": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e711e495-b65f-4658-8d93-ebcd71733755",
+      "ed497946-8393-4dd0-ba6f-dc2c917fe0a0"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:22:53+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "APP Entrenamiento IMD",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "app-entrenamiento-imd",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:22:53+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "APP Entrenamiento IMD",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:22:53+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

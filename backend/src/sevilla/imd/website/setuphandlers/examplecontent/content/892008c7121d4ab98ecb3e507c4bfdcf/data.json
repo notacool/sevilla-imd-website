@@ -1,0 +1,63 @@
+{
+  "@id": "/programas-y-actividades",
+  "@type": "Document",
+  "UID": "892008c7121d4ab98ecb3e507c4bfdcf",
+  "allow_discussion": null,
+  "blocks": {
+    "a56a4078-9e47-4183-bbea-9776a9c4083c": {
+      "@type": "title"
+    },
+    "eb13a1cb-3b35-41c1-8f1c-7ec096f2ba61": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "a56a4078-9e47-4183-bbea-9776a9c4083c",
+      "eb13a1cb-3b35-41c1-8f1c-7ec096f2ba61"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:12:26+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Programas y actividades",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "programas-y-actividades",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:16:51+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Programas y actividades",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:12:26+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

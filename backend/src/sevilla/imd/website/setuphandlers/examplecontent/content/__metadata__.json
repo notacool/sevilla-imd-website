@@ -1,23 +1,410 @@
 {
   "__version__": "1.0.0",
-  "_blob_files_": [
-    "a58ccead718140c1baa98d43595fc3e6/image/plone-foundation.png"
-  ],
+  "_blob_files_": [],
   "_data_files_": [
     "plone_site_root/data.json",
-    "a720393b3c0240e5bd27c43fcd2cfd1e/data.json",
-    "a58ccead718140c1baa98d43595fc3e6/data.json"
+    "e01fa7d629764bde9ee59dc05104df99/data.json",
+    "e2d34fd0bc284a5c8c6d2868ccaa69a0/data.json",
+    "fa338669633e410b88c31b910ca3a0e6/data.json",
+    "d25f3d94afac4e8ebf2b891096891297/data.json",
+    "595dc1c29e7441ba90a5c324a90b95b0/data.json",
+    "52d2a1a66006438aba98f77c8e08560b/data.json",
+    "8744b20c487a487f8e2e98105a64499f/data.json",
+    "159e3ea4588349b79161120ec4ab9b4e/data.json",
+    "698d8601ae224e148c5981893514368a/data.json",
+    "2e4b11ec4a734c1db8ee2808ad6a0c90/data.json",
+    "78acd38784d7436b9b1f5e7f93a0b638/data.json",
+    "bb3930c538084f73b77f9f37b60e4e8e/data.json",
+    "c4e5ab6be09948fc90087b53ec6ec967/data.json",
+    "20ffb595ff6d45d7a80088f20a262385/data.json",
+    "a6e800fb51ed4c84be066391b5117090/data.json",
+    "892008c7121d4ab98ecb3e507c4bfdcf/data.json",
+    "632a7fa79425409eb0d1ba33b124e1e0/data.json",
+    "0e9542c0ac014690bc6c8bb3039c8a41/data.json",
+    "26dbd651d6644b779f25288ea108330b/data.json",
+    "1a0392db7e7045df84741bd72ad61f70/data.json",
+    "5f70117e27a2464da7c55f9b2eaa3447/data.json",
+    "32b24f27c90042cdb793ef288e657509/data.json",
+    "37b2b99a56564916b1b111e3d0b62fd0/data.json",
+    "9902c9fe23af4b7aaedf89fea3750eed/data.json",
+    "ce365906b7624ddcb0f42d61982d5917/data.json",
+    "a56ff14195114eedabcf206b3b46f7a7/data.json",
+    "40e2260ff5744ce9885f8e1edd242150/data.json",
+    "9689f37e870f49fe944285e95564f20d/data.json",
+    "23bdd3a192a7412a883dc01602161090/data.json",
+    "ba515f06843948bb87ba79c4eca43621/data.json",
+    "b4440181d2c94fe9982255d46874f3cc/data.json",
+    "f1adb5b1783442adbd386014d1a7e634/data.json",
+    "6c347ce82266405b97584f127d4e8e3e/data.json",
+    "e72aff4b760546eb8b9e54156a00b4d0/data.json",
+    "1d4cfbab8e744b2daee5fa00b40b42e7/data.json",
+    "4d9aa48f924843ff82de77a6da4b4de3/data.json",
+    "f1fcd55c0b1248deb017dd7491d11df1/data.json",
+    "f0c3a9c800ac4885b6af2b43eee6734a/data.json",
+    "fda7b9f56e044ad0b6ea0105215c0fda/data.json"
   ],
   "default_page": {},
+  "local_permissions": {
+    "0e9542c0ac014690bc6c8bb3039c8a41": {},
+    "159e3ea4588349b79161120ec4ab9b4e": {},
+    "1a0392db7e7045df84741bd72ad61f70": {},
+    "1d4cfbab8e744b2daee5fa00b40b42e7": {},
+    "20ffb595ff6d45d7a80088f20a262385": {},
+    "23bdd3a192a7412a883dc01602161090": {},
+    "26dbd651d6644b779f25288ea108330b": {},
+    "2e4b11ec4a734c1db8ee2808ad6a0c90": {},
+    "32b24f27c90042cdb793ef288e657509": {},
+    "37b2b99a56564916b1b111e3d0b62fd0": {},
+    "40e2260ff5744ce9885f8e1edd242150": {},
+    "4d9aa48f924843ff82de77a6da4b4de3": {},
+    "52d2a1a66006438aba98f77c8e08560b": {},
+    "595dc1c29e7441ba90a5c324a90b95b0": {},
+    "5f70117e27a2464da7c55f9b2eaa3447": {},
+    "632a7fa79425409eb0d1ba33b124e1e0": {},
+    "698d8601ae224e148c5981893514368a": {},
+    "6c347ce82266405b97584f127d4e8e3e": {},
+    "78acd38784d7436b9b1f5e7f93a0b638": {},
+    "8744b20c487a487f8e2e98105a64499f": {},
+    "892008c7121d4ab98ecb3e507c4bfdcf": {},
+    "9689f37e870f49fe944285e95564f20d": {},
+    "9902c9fe23af4b7aaedf89fea3750eed": {},
+    "a56ff14195114eedabcf206b3b46f7a7": {},
+    "a6e800fb51ed4c84be066391b5117090": {},
+    "b4440181d2c94fe9982255d46874f3cc": {},
+    "ba515f06843948bb87ba79c4eca43621": {},
+    "bb3930c538084f73b77f9f37b60e4e8e": {},
+    "c4e5ab6be09948fc90087b53ec6ec967": {},
+    "ce365906b7624ddcb0f42d61982d5917": {},
+    "d25f3d94afac4e8ebf2b891096891297": {},
+    "e01fa7d629764bde9ee59dc05104df99": {},
+    "e2d34fd0bc284a5c8c6d2868ccaa69a0": {},
+    "e72aff4b760546eb8b9e54156a00b4d0": {},
+    "f0c3a9c800ac4885b6af2b43eee6734a": {},
+    "f1adb5b1783442adbd386014d1a7e634": {},
+    "f1fcd55c0b1248deb017dd7491d11df1": {},
+    "fa338669633e410b88c31b910ca3a0e6": {},
+    "fda7b9f56e044ad0b6ea0105215c0fda": {},
+    "plone_site_root": {
+      "Add portal member": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner"
+        ]
+      },
+      "Content rules: Manage rules": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own password": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own properties": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Show Toolbar": {
+        "acquire": false,
+        "roles": [
+          "Authenticated"
+        ]
+      },
+      "plone.resource: Export ZIP file": {
+        "acquire": false,
+        "roles": [
+          "Manager"
+        ]
+      },
+      "plone.resourceeditor: Manage Sources": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      }
+    }
+  },
   "local_roles": {
-    "a58ccead718140c1baa98d43595fc3e6": {
+    "0e9542c0ac014690bc6c8bb3039c8a41": {
       "local_roles": {
         "admin": [
           "Owner"
         ]
       }
     },
-    "a720393b3c0240e5bd27c43fcd2cfd1e": {
+    "159e3ea4588349b79161120ec4ab9b4e": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "1a0392db7e7045df84741bd72ad61f70": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "1d4cfbab8e744b2daee5fa00b40b42e7": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "20ffb595ff6d45d7a80088f20a262385": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "23bdd3a192a7412a883dc01602161090": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "26dbd651d6644b779f25288ea108330b": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "2e4b11ec4a734c1db8ee2808ad6a0c90": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "32b24f27c90042cdb793ef288e657509": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "37b2b99a56564916b1b111e3d0b62fd0": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "40e2260ff5744ce9885f8e1edd242150": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "4d9aa48f924843ff82de77a6da4b4de3": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "52d2a1a66006438aba98f77c8e08560b": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "595dc1c29e7441ba90a5c324a90b95b0": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "5f70117e27a2464da7c55f9b2eaa3447": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "632a7fa79425409eb0d1ba33b124e1e0": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "698d8601ae224e148c5981893514368a": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "6c347ce82266405b97584f127d4e8e3e": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "78acd38784d7436b9b1f5e7f93a0b638": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "8744b20c487a487f8e2e98105a64499f": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "892008c7121d4ab98ecb3e507c4bfdcf": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "9689f37e870f49fe944285e95564f20d": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "9902c9fe23af4b7aaedf89fea3750eed": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a56ff14195114eedabcf206b3b46f7a7": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a6e800fb51ed4c84be066391b5117090": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "b4440181d2c94fe9982255d46874f3cc": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "ba515f06843948bb87ba79c4eca43621": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "bb3930c538084f73b77f9f37b60e4e8e": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "c4e5ab6be09948fc90087b53ec6ec967": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "ce365906b7624ddcb0f42d61982d5917": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "d25f3d94afac4e8ebf2b891096891297": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "e01fa7d629764bde9ee59dc05104df99": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "e2d34fd0bc284a5c8c6d2868ccaa69a0": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "e72aff4b760546eb8b9e54156a00b4d0": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "f0c3a9c800ac4885b6af2b43eee6734a": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "f1adb5b1783442adbd386014d1a7e634": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "f1fcd55c0b1248deb017dd7491d11df1": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "fa338669633e410b88c31b910ca3a0e6": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "fda7b9f56e044ad0b6ea0105215c0fda": {
       "local_roles": {
         "admin": [
           "Owner"
@@ -33,8 +420,45 @@
     }
   },
   "ordering": {
-    "a58ccead718140c1baa98d43595fc3e6": 0,
-    "a720393b3c0240e5bd27c43fcd2cfd1e": 42
+    "0e9542c0ac014690bc6c8bb3039c8a41": 7,
+    "159e3ea4588349b79161120ec4ab9b4e": 3,
+    "1a0392db7e7045df84741bd72ad61f70": 6,
+    "1d4cfbab8e744b2daee5fa00b40b42e7": 4,
+    "20ffb595ff6d45d7a80088f20a262385": 7,
+    "23bdd3a192a7412a883dc01602161090": 0,
+    "26dbd651d6644b779f25288ea108330b": 2,
+    "2e4b11ec4a734c1db8ee2808ad6a0c90": 4,
+    "32b24f27c90042cdb793ef288e657509": 3,
+    "37b2b99a56564916b1b111e3d0b62fd0": 5,
+    "40e2260ff5744ce9885f8e1edd242150": 0,
+    "4d9aa48f924843ff82de77a6da4b4de3": 1,
+    "52d2a1a66006438aba98f77c8e08560b": 3,
+    "595dc1c29e7441ba90a5c324a90b95b0": 1,
+    "5f70117e27a2464da7c55f9b2eaa3447": 0,
+    "632a7fa79425409eb0d1ba33b124e1e0": 1,
+    "698d8601ae224e148c5981893514368a": 5,
+    "6c347ce82266405b97584f127d4e8e3e": 4,
+    "78acd38784d7436b9b1f5e7f93a0b638": 6,
+    "8744b20c487a487f8e2e98105a64499f": 44,
+    "892008c7121d4ab98ecb3e507c4bfdcf": 43,
+    "9689f37e870f49fe944285e95564f20d": 41,
+    "9902c9fe23af4b7aaedf89fea3750eed": 4,
+    "a56ff14195114eedabcf206b3b46f7a7": 1,
+    "a6e800fb51ed4c84be066391b5117090": 1,
+    "b4440181d2c94fe9982255d46874f3cc": 2,
+    "ba515f06843948bb87ba79c4eca43621": 1,
+    "bb3930c538084f73b77f9f37b60e4e8e": 0,
+    "c4e5ab6be09948fc90087b53ec6ec967": 2,
+    "ce365906b7624ddcb0f42d61982d5917": 42,
+    "d25f3d94afac4e8ebf2b891096891297": 2,
+    "e01fa7d629764bde9ee59dc05104df99": 46,
+    "e2d34fd0bc284a5c8c6d2868ccaa69a0": 4,
+    "e72aff4b760546eb8b9e54156a00b4d0": 45,
+    "f0c3a9c800ac4885b6af2b43eee6734a": 3,
+    "f1adb5b1783442adbd386014d1a7e634": 3,
+    "f1fcd55c0b1248deb017dd7491d11df1": 0,
+    "fa338669633e410b88c31b910ca3a0e6": 0,
+    "fda7b9f56e044ad0b6ea0105215c0fda": 2
   },
   "relations": []
 }

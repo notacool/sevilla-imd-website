@@ -1,0 +1,63 @@
+{
+  "@id": "/programas-y-actividades/nocturna-del-guadalquivir-kh7",
+  "@type": "Document",
+  "UID": "32b24f27c90042cdb793ef288e657509",
+  "allow_discussion": null,
+  "blocks": {
+    "13fd47ca-f919-4ca7-949b-18bbc1a73861": {
+      "@type": "slate"
+    },
+    "ffd9b65e-5fb3-46e2-8502-d13b45f8e67d": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "ffd9b65e-5fb3-46e2-8502-d13b45f8e67d",
+      "13fd47ca-f919-4ca7-949b-18bbc1a73861"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:14:50+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Carrera Nocturna del Guadalquivir KH7",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "nocturna-del-guadalquivir-kh7",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:14:50+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Nocturna del Guadalquivir KH7",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:14:50+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

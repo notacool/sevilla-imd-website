@@ -1,0 +1,63 @@
+{
+  "@id": "/centros-y-espacios-deportivos/mapa-interactivo",
+  "@type": "Document",
+  "UID": "bb3930c538084f73b77f9f37b60e4e8e",
+  "allow_discussion": null,
+  "blocks": {
+    "94b80e75-96dc-4ba1-a150-33808e8fcb24": {
+      "@type": "slate"
+    },
+    "e4544967-e9e6-433d-b307-6aeb859a6431": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e4544967-e9e6-433d-b307-6aeb859a6431",
+      "94b80e75-96dc-4ba1-a150-33808e8fcb24"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:19:19+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Mapa interactivo y buscador",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "mapa-interactivo",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:19:19+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Mapa interactivo",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:19:19+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

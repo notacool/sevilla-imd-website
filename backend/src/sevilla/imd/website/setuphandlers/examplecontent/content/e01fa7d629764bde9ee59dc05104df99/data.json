@@ -1,0 +1,63 @@
+{
+  "@id": "/atencion-ciudadana",
+  "@type": "Document",
+  "UID": "e01fa7d629764bde9ee59dc05104df99",
+  "allow_discussion": null,
+  "blocks": {
+    "748eb8cb-1c0d-4df3-be4d-86265261b1f0": {
+      "@type": "title"
+    },
+    "fc6e0ae9-d8c5-4932-8b82-b93234e5a312": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "748eb8cb-1c0d-4df3-be4d-86265261b1f0",
+      "fc6e0ae9-d8c5-4932-8b82-b93234e5a312"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:28:02+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Atenci\u00f3n ciudadana",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "atencion-ciudadana",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:29:52+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Atenci\u00f3n ciudadana",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:28:02+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,63 @@
+{
+  "@id": "/subvenciones/organizacion-de-actividades-deportivas",
+  "@type": "Document",
+  "UID": "f0c3a9c800ac4885b6af2b43eee6734a",
+  "allow_discussion": null,
+  "blocks": {
+    "b71a42f2-66d7-4da4-8dc4-e36976f64dc5": {
+      "@type": "slate"
+    },
+    "bf0e8b9a-6ea6-428c-9c93-4a4dbaadd382": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "bf0e8b9a-6ea6-428c-9c93-4a4dbaadd382",
+      "b71a42f2-66d7-4da4-8dc4-e36976f64dc5"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:27:33+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Organizaci\u00f3n de actividades deportivas",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "organizacion-de-actividades-deportivas",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:27:33+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Organizaci\u00f3n de actividades deportivas",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:27:33+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

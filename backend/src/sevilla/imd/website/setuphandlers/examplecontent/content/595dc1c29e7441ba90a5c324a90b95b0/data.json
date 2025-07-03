@@ -1,0 +1,63 @@
+{
+  "@id": "/atencion-ciudadana/sedes",
+  "@type": "Document",
+  "UID": "595dc1c29e7441ba90a5c324a90b95b0",
+  "allow_discussion": null,
+  "blocks": {
+    "342b92bb-0033-4b90-abaa-a9c41b5f5e4b": {
+      "@type": "title"
+    },
+    "d9ad889c-ade2-4049-a2f7-905a096b475f": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "342b92bb-0033-4b90-abaa-a9c41b5f5e4b",
+      "d9ad889c-ade2-4049-a2f7-905a096b475f"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:28:56+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Sedes",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "sedes",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:28:56+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Sedes",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:28:56+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

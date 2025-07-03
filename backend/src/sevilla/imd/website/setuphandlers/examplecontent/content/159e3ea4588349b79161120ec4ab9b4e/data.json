@@ -1,0 +1,63 @@
+{
+  "@id": "/centros-y-espacios-deportivos/abono-deporte",
+  "@type": "Document",
+  "UID": "159e3ea4588349b79161120ec4ab9b4e",
+  "allow_discussion": null,
+  "blocks": {
+    "5eb4f065-1739-4cde-a66d-a69e2d2386a9": {
+      "@type": "title"
+    },
+    "fd1a32fd-45b9-4601-bb83-83939bbfcd27": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "5eb4f065-1739-4cde-a66d-a69e2d2386a9",
+      "fd1a32fd-45b9-4601-bb83-83939bbfcd27"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:21:38+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Abono Deporte",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "abono-deporte",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:21:38+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Abono deporte",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:21:38+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

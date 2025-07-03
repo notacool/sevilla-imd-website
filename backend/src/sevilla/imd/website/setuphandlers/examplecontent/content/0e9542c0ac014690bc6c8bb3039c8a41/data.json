@@ -1,0 +1,63 @@
+{
+  "@id": "/programas-y-actividades/deportistas-con-talento",
+  "@type": "Document",
+  "UID": "0e9542c0ac014690bc6c8bb3039c8a41",
+  "allow_discussion": null,
+  "blocks": {
+    "504d7082-ec6d-4d16-b747-ce7788139dd2": {
+      "@type": "title"
+    },
+    "a29a85af-da52-45b7-808e-b8efebeb4dc6": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "504d7082-ec6d-4d16-b747-ce7788139dd2",
+      "a29a85af-da52-45b7-808e-b8efebeb4dc6"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:16:51+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Deportistas con talento",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "deportistas-con-talento",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:16:51+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Deportistas con talento",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:16:51+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,63 @@
+{
+  "@id": "/sede-electronica/perfil-del-contratante",
+  "@type": "Document",
+  "UID": "a56ff14195114eedabcf206b3b46f7a7",
+  "allow_discussion": null,
+  "blocks": {
+    "0eef6d34-0405-4897-86be-23360c2e8d19": {
+      "@type": "title"
+    },
+    "e243b16d-2fbf-4455-a094-70fbba245e17": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "0eef6d34-0405-4897-86be-23360c2e8d19",
+      "e243b16d-2fbf-4455-a094-70fbba245e17"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:11:45+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Perfil del Contratante",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "perfil-del-contratante",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:11:45+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Perfil del Contratante",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:11:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

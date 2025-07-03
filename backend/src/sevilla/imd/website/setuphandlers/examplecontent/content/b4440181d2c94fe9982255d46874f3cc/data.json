@@ -1,0 +1,63 @@
+{
+  "@id": "/sobre-nosotros/portal-de-transparencia",
+  "@type": "Document",
+  "UID": "b4440181d2c94fe9982255d46874f3cc",
+  "allow_discussion": null,
+  "blocks": {
+    "20dc1a9e-8a08-4e31-9c11-8eb1138ebff0": {
+      "@type": "slate"
+    },
+    "50fbcb28-2b14-43da-a4b5-4aaac80d907b": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "50fbcb28-2b14-43da-a4b5-4aaac80d907b",
+      "20dc1a9e-8a08-4e31-9c11-8eb1138ebff0"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:06:58+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Portal de transparencia",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "portal-de-transparencia",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:06:58+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Portal de transparencia",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:06:58+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

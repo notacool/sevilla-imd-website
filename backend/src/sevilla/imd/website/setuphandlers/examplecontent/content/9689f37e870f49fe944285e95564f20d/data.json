@@ -1,0 +1,63 @@
+{
+  "@id": "/sobre-nosotros",
+  "@type": "Document",
+  "UID": "9689f37e870f49fe944285e95564f20d",
+  "allow_discussion": null,
+  "blocks": {
+    "57028451-79ef-4c31-9047-e28a876c47b0": {
+      "@type": "slate"
+    },
+    "d40bb6f5-bcf1-413d-a457-ee0ccb069ee4": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "d40bb6f5-bcf1-413d-a457-ee0ccb069ee4",
+      "57028451-79ef-4c31-9047-e28a876c47b0"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:05:50+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Sobre nosotros",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "sobre-nosotros",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:08:10+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Sobre nosotros",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:05:50+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

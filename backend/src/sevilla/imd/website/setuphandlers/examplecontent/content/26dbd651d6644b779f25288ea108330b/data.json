@@ -1,0 +1,63 @@
+{
+  "@id": "/programas-y-actividades/escuelas-deportivas-municipales",
+  "@type": "Document",
+  "UID": "26dbd651d6644b779f25288ea108330b",
+  "allow_discussion": null,
+  "blocks": {
+    "a2b3c099-40b3-402f-b910-9652643f4a26": {
+      "@type": "slate"
+    },
+    "f49400ca-ce66-4937-8b42-662aadc15928": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "f49400ca-ce66-4937-8b42-662aadc15928",
+      "a2b3c099-40b3-402f-b910-9652643f4a26"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:14:11+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Escuelas Deportivas Municipales",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "escuelas-deportivas-municipales",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:14:11+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Escuelas Deportivas Municipales",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:14:11+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

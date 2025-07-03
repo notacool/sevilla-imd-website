@@ -1,0 +1,63 @@
+{
+  "@id": "/subvenciones/participacion-en-competiciones",
+  "@type": "Document",
+  "UID": "fda7b9f56e044ad0b6ea0105215c0fda",
+  "allow_discussion": null,
+  "blocks": {
+    "3e9b6177-2297-40ef-aeb6-3f80f37e2cad": {
+      "@type": "title"
+    },
+    "dbf32477-64b6-486d-9b19-ad25fdf16770": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "3e9b6177-2297-40ef-aeb6-3f80f37e2cad",
+      "dbf32477-64b6-486d-9b19-ad25fdf16770"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:27:16+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Participaci\u00f3n en competiciones",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "participacion-en-competiciones",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:27:16+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Participaci\u00f3n en competiciones",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:27:16+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

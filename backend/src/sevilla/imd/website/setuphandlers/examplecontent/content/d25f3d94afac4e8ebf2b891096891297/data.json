@@ -1,0 +1,63 @@
+{
+  "@id": "/atencion-ciudadana/horario-de-atencion-al-publico",
+  "@type": "Document",
+  "UID": "d25f3d94afac4e8ebf2b891096891297",
+  "allow_discussion": null,
+  "blocks": {
+    "6d58b3db-63ca-4e8a-a01a-1f9c43eb016f": {
+      "@type": "slate"
+    },
+    "cafa01a9-033e-4b38-bcfd-d687d15e62d7": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "cafa01a9-033e-4b38-bcfd-d687d15e62d7",
+      "6d58b3db-63ca-4e8a-a01a-1f9c43eb016f"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-03T12:29:19+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Horario de atenci\u00f3n al p\u00fablico",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "horario-de-atencion-al-publico",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-03T12:29:19+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Horario de atenci\u00f3n al p\u00fablico",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-03T12:29:19+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}
