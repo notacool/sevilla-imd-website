@@ -1,0 +1,1 @@
+Remove index_html action from the portal_actions tool #17 [macagua]
