@@ -5,9 +5,6 @@ from plone.dexterity.content import Item
 from plone.namedfile import field as namedfile
 from plone.supermodel import model
 from sevilla.imd.website import _
-from sevilla.imd.website.vocabularies.sports_center import ACTIVITY
-from sevilla.imd.website.vocabularies.sports_center import COMPLEMENTARY_SERVICES
-from sevilla.imd.website.vocabularies.sports_center import SPORTS_SPACE
 from zope import schema
 from zope.interface import implementer
 
@@ -35,15 +32,9 @@ class ISportsCenter(model.Schema):
             "Please, select an option from the left column and move it to the "
             "right column."
         ),
-        # value_type=schema.Choice(
-        #     values=["Beginner", "Advanced", "Professional"],
-        # ),
         value_type=schema.Choice(
-            values=ACTIVITY,
+            source="sevilla.imd.website.vocabularies.activities",
         ),
-        # value_type = schema.Choice(
-        #     source="sevilla.imd.website.vocabularies.activities",
-        # ),
         required=False,
         missing_value=[],
         default=[],
@@ -55,11 +46,8 @@ class ISportsCenter(model.Schema):
             "Please, select an option from the left column and move it to the "
             "right column."
         ),
-        # value_type=schema.Choice(
-        #     values=["Beginner", "Advanced", "Professional"],
-        # ),
         value_type=schema.Choice(
-            values=SPORTS_SPACE,
+            source="sevilla.imd.website.vocabularies.sports_space",
         ),
         required=False,
         missing_value=[],
@@ -72,11 +60,8 @@ class ISportsCenter(model.Schema):
             "Please, select an option from the left column and move it to the "
             "right column."
         ),
-        # value_type=schema.Choice(
-        #     values=["Beginner", "Advanced", "Professional"],
-        # ),
         value_type=schema.Choice(
-            values=COMPLEMENTARY_SERVICES,
+            source="sevilla.imd.website.vocabularies.complementary_services",
         ),
         required=False,
         missing_value=[],

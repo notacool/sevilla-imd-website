@@ -5,6 +5,21 @@
 
   <!-- Sports Centers -->
   <utility
+      name="sevilla.imd.website.vocabularies.activities"
+      component=".sports_center.activities"
+      />
+
+  <utility
+      name="sevilla.imd.website.vocabularies.sports_space"
+      component=".sports_center.sports_space"
+      />
+
+  <utility
+      name="sevilla.imd.website.vocabularies.complementary_services"
+      component=".sports_center.complementary_services"
+      />
+
+  <utility
       name="sevilla.imd.website.vocabularies.management_models"
       component=".sports_center.management_models"
       />
