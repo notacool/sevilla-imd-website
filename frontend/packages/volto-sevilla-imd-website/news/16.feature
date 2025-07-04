@@ -1,0 +1,1 @@
+Added icons assets files initial for the frontend #16 [macagua]
