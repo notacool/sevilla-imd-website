@@ -6,5 +6,12 @@
     "https": "https://github.com/plone/volto.git",
     "tag": "18.23.0",
     "filterBlobs": true
+  },
+  "volto-dropdownmenu": {
+    "output": "./packages/",
+    "package": "volto-dropdownmenu",
+    "url": "git@github.com:collective/volto-dropdownmenu.git",
+    "https": "https://github.com/collective/volto-dropdownmenu.git",
+    "branch": "master"
   }
 }

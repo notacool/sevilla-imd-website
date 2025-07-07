@@ -35,6 +35,7 @@
   "dependencies": {
     "@plone/volto": "workspace:*",
     "@plone/registry": "workspace:*",
+    "volto-dropdownmenu": "workspace: *",
     "volto-sevilla-imd-website": "workspace:*"
   },
   "devDependencies": {

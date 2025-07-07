@@ -1,0 +1,1 @@
+Add the 'volto-dropdownmenu' addon as a dependency for the frontend website #19 [macagua]
