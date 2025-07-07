@@ -8,5 +8,6 @@
     <dependency>profile-plone.app.dexterity:default</dependency>
     <dependency>profile-plone.app.iterate:default</dependency>
     <dependency>profile-collective.volto.formsupport:default</dependency>
+    <dependency>profile-collective.volto.dropdownmenu:default</dependency>
   </dependencies>
 </metadata>
