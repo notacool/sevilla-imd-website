@@ -1,0 +1,1 @@
+Add the 'collective.geolocationbehavior' and 'plone.formwidget.geolocation' addons as a dependencies for the backend website #23 [macagua]

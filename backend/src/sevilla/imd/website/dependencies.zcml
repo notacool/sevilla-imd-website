@@ -9,4 +9,6 @@
   <include package="collective.honeypot" />
   <include package="collective.volto.dropdownmenu" />
   <include package="collective.volto.gdprcookie" />
+  <include package="collective.geolocationbehavior" />
+  <include package="plone.formwidget.geolocation" />
 </configure>

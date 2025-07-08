@@ -10,5 +10,7 @@
     <dependency>profile-collective.volto.formsupport:default</dependency>
     <dependency>profile-collective.volto.dropdownmenu:default</dependency>
     <dependency>profile-collective.volto.gdprcookie:default</dependency>
+    <dependency>profile-collective.geolocationbehavior:default</dependency>
+    <dependency>profile-plone.formwidget.geolocation:default</dependency>
   </dependencies>
 </metadata>
