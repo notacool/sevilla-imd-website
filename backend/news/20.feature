@@ -1,0 +1,1 @@
+Add the 'collective.volto.gdprcookie' addon as a dependency for the backend website #20 [macagua]

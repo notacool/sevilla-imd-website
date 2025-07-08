@@ -8,4 +8,5 @@
   <include package="collective.volto.formsupport" />
   <include package="collective.honeypot" />
   <include package="collective.volto.dropdownmenu" />
+  <include package="collective.volto.gdprcookie" />
 </configure>
