@@ -35,6 +35,7 @@
   "dependencies": {
     "@plone/volto": "workspace:*",
     "@plone/registry": "workspace:*",
+    "volto-form-block": "workspace: *",
     "volto-dropdownmenu": "workspace: *",
     "volto-gdpr-privacy": "workspace: *",
     "volto-sevilla-imd-website": "workspace:*"

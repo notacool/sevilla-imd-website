@@ -1,0 +1,1 @@
+Change the 'volto-form-block' settings from github for the frontend #22 [macagua]

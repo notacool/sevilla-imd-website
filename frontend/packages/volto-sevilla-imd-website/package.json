@@ -40,7 +40,7 @@
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {
-    "volto-form-block": "*",
+    "volto-form-block": "workspace: *",
     "@mbarde/volto-fullcalendar-block": "*",
     "@kitconcept/volto-light-theme": "6.2.0"
   },
