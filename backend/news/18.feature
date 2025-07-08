@@ -1,1 +1,1 @@
-Add the 'toolcollective.volto.dropdownmenu' addon as a dependency for the backend website #18 [macagua]
+Add the 'collective.volto.dropdownmenu' addon as a dependency for the backend website #18 [macagua]
