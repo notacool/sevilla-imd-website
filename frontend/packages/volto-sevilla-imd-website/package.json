@@ -36,6 +36,7 @@
     "@mbarde/volto-fullcalendar-block",
     "volto-form-block",
     "volto-dropdownmenu",
+    "volto-gdpr-privacy",
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {

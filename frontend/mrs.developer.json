@@ -13,5 +13,12 @@
     "url": "git@github.com:collective/volto-dropdownmenu.git",
     "https": "https://github.com/collective/volto-dropdownmenu.git",
     "branch": "master"
+  },
+  "volto-gdpr-privacy": {
+    "output": "./packages/",
+    "package": "volto-gdpr-privacy",
+    "url": "git@github.com:collective/volto-gdpr-privacy.git",
+    "https": "https://github.com/collective/volto-gdpr-privacy.git",
+    "branch": "master"
   }
 }

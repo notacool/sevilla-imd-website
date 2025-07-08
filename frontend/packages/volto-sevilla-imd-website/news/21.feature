@@ -1,0 +1,1 @@
+Add the 'volto-gdpr-privacy' addon as a dependency for the frontend website #21 [macagua]
