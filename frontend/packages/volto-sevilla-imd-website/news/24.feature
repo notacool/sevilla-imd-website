@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-carousel-block' block for the frontend #24 [macagua]
