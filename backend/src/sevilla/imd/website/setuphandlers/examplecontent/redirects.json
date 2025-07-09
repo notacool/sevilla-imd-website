@@ -1,1 +1,22 @@
-{}
+{
+  "/Plone/centros-y-espacios-deportivos": "/Plone/centros",
+  "/Plone/centros-y-espacios-deportivos/abono-deporte": "/Plone/centros/abono-deporte",
+  "/Plone/centros-y-espacios-deportivos/app-entrenamiento-imd": "/Plone/centros/app-entrenamiento-imd",
+  "/Plone/centros-y-espacios-deportivos/campana-de-verano": "/Plone/centros/campana-de-verano",
+  "/Plone/centros-y-espacios-deportivos/catalogo-de-sueldos-de-uso-deportivos": "/Plone/centros/catalogo-de-sueldos-de-uso-deportivos",
+  "/Plone/centros-y-espacios-deportivos/mapa-interactivo": "/Plone/centros/mapa-interactivo",
+  "/Plone/centros-y-espacios-deportivos/oferta-de-actividades": "/Plone/centros/oferta-de-actividades",
+  "/Plone/centros-y-espacios-deportivos/plan-local-de-instalaciones-y-equipamientos-deportivos": "/Plone/centros/plan-local-de-instalaciones-y-equipamientos-deportivos",
+  "/Plone/centros-y-espacios-deportivos/reserva-y-gestion-de-instalaciones": "/Plone/centros/reserva-y-gestion-de-instalaciones",
+  "/Plone/politica-de-privacidad/politica-de-cookies": "/Plone/politica-de-cookies",
+  "/Plone/politica-de-privacidad/politica-de-cookies-1": "/Plone/politica-de-cookies",
+  "/Plone/programas-y-actividades": "/Plone/actividades",
+  "/Plone/programas-y-actividades/circuito-divina-seguros-de-carreras": "/Plone/actividades/circuito-divina-seguros-de-carreras",
+  "/Plone/programas-y-actividades/deportistas-con-talento": "/Plone/actividades/deportistas-con-talento",
+  "/Plone/programas-y-actividades/escuelas-deportivas-municipales": "/Plone/actividades/escuelas-deportivas-municipales",
+  "/Plone/programas-y-actividades/gala-del-deporte": "/Plone/actividades/gala-del-deporte",
+  "/Plone/programas-y-actividades/juegos-deportivos-municipales": "/Plone/actividades/juegos-deportivos-municipales",
+  "/Plone/programas-y-actividades/nocturna-del-guadalquivir-kh7": "/Plone/actividades/nocturna-del-guadalquivir-kh7",
+  "/Plone/programas-y-actividades/sevilla-sobre-ruedas": "/Plone/actividades/sevilla-sobre-ruedas",
+  "/Plone/programas-y-actividades/zurich-maraton-de-sevilla": "/Plone/actividades/zurich-maraton-de-sevilla"
+}

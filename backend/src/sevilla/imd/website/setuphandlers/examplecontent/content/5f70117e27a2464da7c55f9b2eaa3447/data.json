@@ -1,5 +1,5 @@
 {
-  "@id": "/programas-y-actividades/juegos-deportivos-municipales",
+  "@id": "/actividades/juegos-deportivos-municipales",
   "@type": "Document",
   "UID": "5f70117e27a2464da7c55f9b2eaa3447",
   "allow_discussion": null,
@@ -24,7 +24,7 @@
     "admin"
   ],
   "description": "Juegos Deportivos Municipales",
-  "effective": "2025-07-03T13:55:03+00:00",
+  "effective": "2025-07-03T13:55:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -37,7 +37,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:03+00:00",
+  "modified": "2025-07-09T15:44:48+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

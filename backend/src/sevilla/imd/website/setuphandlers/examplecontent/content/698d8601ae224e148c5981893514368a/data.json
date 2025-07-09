@@ -1,5 +1,5 @@
 {
-  "@id": "/centros-y-espacios-deportivos/app-entrenamiento-imd",
+  "@id": "/centros/app-entrenamiento-imd",
   "@type": "Document",
   "UID": "698d8601ae224e148c5981893514368a",
   "allow_discussion": null,
@@ -24,7 +24,7 @@
     "admin"
   ],
   "description": "APP Entrenamiento IMD",
-  "effective": "2025-07-03T13:55:02+00:00",
+  "effective": "2025-07-03T13:55:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -37,7 +37,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:02+00:00",
+  "modified": "2025-07-09T15:45:10+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

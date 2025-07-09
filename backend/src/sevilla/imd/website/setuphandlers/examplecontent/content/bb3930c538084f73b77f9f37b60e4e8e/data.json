@@ -1,5 +1,5 @@
 {
-  "@id": "/centros-y-espacios-deportivos/mapa-interactivo",
+  "@id": "/centros/mapa-interactivo",
   "@type": "Document",
   "UID": "bb3930c538084f73b77f9f37b60e4e8e",
   "allow_discussion": null,
@@ -24,7 +24,7 @@
     "admin"
   ],
   "description": "Mapa interactivo y buscador",
-  "effective": "2025-07-03T13:55:02+00:00",
+  "effective": "2025-07-03T13:55:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -37,7 +37,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:02+00:00",
+  "modified": "2025-07-09T15:45:10+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

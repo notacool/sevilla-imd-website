@@ -1,5 +1,5 @@
 {
-  "@id": "/programas-y-actividades/deportistas-con-talento",
+  "@id": "/actividades/deportistas-con-talento",
   "@type": "Document",
   "UID": "0e9542c0ac014690bc6c8bb3039c8a41",
   "allow_discussion": null,
@@ -24,7 +24,7 @@
     "admin"
   ],
   "description": "Deportistas con talento",
-  "effective": "2025-07-03T13:55:03+00:00",
+  "effective": "2025-07-03T13:55:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -37,7 +37,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:03+00:00",
+  "modified": "2025-07-09T15:44:48+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

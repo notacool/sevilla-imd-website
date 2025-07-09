@@ -1,5 +1,5 @@
 {
-  "@id": "/programas-y-actividades/nocturna-del-guadalquivir-kh7",
+  "@id": "/actividades/nocturna-del-guadalquivir-kh7",
   "@type": "Document",
   "UID": "32b24f27c90042cdb793ef288e657509",
   "allow_discussion": null,
@@ -24,7 +24,7 @@
     "admin"
   ],
   "description": "Carrera Nocturna del Guadalquivir KH7",
-  "effective": "2025-07-03T13:55:03+00:00",
+  "effective": "2025-07-03T13:55:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -37,7 +37,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:03+00:00",
+  "modified": "2025-07-09T15:44:48+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

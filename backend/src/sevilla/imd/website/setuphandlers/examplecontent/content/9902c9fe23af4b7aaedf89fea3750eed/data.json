@@ -1,5 +1,5 @@
 {
-  "@id": "/programas-y-actividades/zurich-maraton-de-sevilla",
+  "@id": "/actividades/zurich-maraton-de-sevilla",
   "@type": "Document",
   "UID": "9902c9fe23af4b7aaedf89fea3750eed",
   "allow_discussion": null,
@@ -24,7 +24,7 @@
     "admin"
   ],
   "description": "Zurich Marat\u00f3n de Sevilla",
-  "effective": "2025-07-03T13:55:03+00:00",
+  "effective": "2025-07-03T13:55:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
   "exportimport.constrains": {},
@@ -37,7 +37,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:03+00:00",
+  "modified": "2025-07-09T15:44:48+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

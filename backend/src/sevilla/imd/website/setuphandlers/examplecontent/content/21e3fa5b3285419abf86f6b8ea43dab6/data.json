@@ -1,0 +1,1064 @@
+{
+  "@id": "/politica-de-privacidad",
+  "@type": "Document",
+  "UID": "21e3fa5b3285419abf86f6b8ea43dab6",
+  "allow_discussion": false,
+  "blocks": {
+    "014c2c83-cd8e-4d22-9666-57a5ae6dbb86": {
+      "@type": "slate",
+      "plaintext": "El Responsable del tratamiento y entidad titular del dominio  https://imd.sevilla.org/  (en adelante, el Sitio Web) es INSTITUTO MUNICIPAL DE DEPORTES DEL AYUNTAMIENTO DE SEVILLA (IMD ), con NIF: P9109101G, y con domicilio Calle Qu\u00edmica, 5, 41015, Sevilla (Espa\u00f1a)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El Responsable del tratamiento y entidad titular del dominio "
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://imd.sevilla.org/"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://imd.sevilla.org/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "u"
+            },
+            {
+              "text": " (en adelante, el Sitio Web) es "
+            },
+            {
+              "children": [
+                {
+                  "text": "INSTITUTO MUNICIPAL DE DEPORTES DEL AYUNTAMIENTO DE SEVILLA (IMD"
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": "), con NIF: P9109101G, y con domicilio Calle Qu\u00edmica, 5, 41015, Sevilla (Espa\u00f1a)"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "04f167be-c9a9-4094-bb25-8e6eda636f45": {
+      "@type": "heading",
+      "heading": "\n2.\nFINALIDAD DEL TRATAMIENTO Y LEGITIMACI\u00d3N",
+      "theme": "default"
+    },
+    "12474c79-7419-4cd8-8965-fda4e1b94297": {
+      "@type": "slate",
+      "plaintext": "Correo electr\u00f3nico:  dpd@imd.sevilla.org  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Correo electr\u00f3nico: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "dpd@imd.sevilla.org"
+                            }
+                          ],
+                          "data": {
+                            "url": "mailto:dpd@imd.sevilla.org"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "17f1a7bc-610f-4bd2-b477-e307a01a3394": {
+      "@type": "heading",
+      "heading": "\n4. SUS\nDERECHOS DE PROTECCION DE DATOS",
+      "styles": {},
+      "theme": "default"
+    },
+    "1c6b0e8c-8a28-4474-9a32-16029dae04a2": {
+      "@type": "slate",
+      "plaintext": "Te informamos expresamente que tus datos personales no ser\u00e1n cedidos en ning\u00fan caso a terceros, salvo obligaci\u00f3n legal. Cualquier excepci\u00f3n a esta norma, requerir\u00e1 tu previo consentimiento expreso informado, e inequ\u00edvoco.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Te informamos expresamente que tus datos personales no ser\u00e1n cedidos en ning\u00fan caso a terceros, salvo obligaci\u00f3n legal. Cualquier excepci\u00f3n a esta norma, requerir\u00e1 tu previo consentimiento expreso informado, e inequ\u00edvoco."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2193ef0a-29f4-4e6a-a220-07e5d2ba4277": {
+      "@type": "slate",
+      "plaintext": "Este sitio web utiliza HTTPS (conexi\u00f3n segura). Se trata de un protocolo de seguridad que hace que sus datos viajen de manera \u00edntegra y segura, es decir, la trasmisi\u00f3n de los datos entre un servidor y usuario web, y en retroalimentaci\u00f3n, es totalmente cifrada o encriptada.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Este sitio web utiliza HTTPS (conexi\u00f3n segura). Se trata de un protocolo de seguridad que hace que sus datos viajen de manera \u00edntegra y segura, es decir, la trasmisi\u00f3n de los datos entre un servidor y usuario web, y en retroalimentaci\u00f3n, es totalmente cifrada o encriptada."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "29cbbf0d-c325-4ba8-a825-17a9d343e7f8": {
+      "@type": "slate",
+      "plaintext": "Encontrar\u00e1s toda la informaci\u00f3n correspondiente al tratamiento en el siguiente enlace:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Encontrar\u00e1s toda la informaci\u00f3n correspondiente al tratamiento en el siguiente enlace:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "2ab49323-489b-4dae-80d1-31d1fe687892": {
+      "@type": "heading",
+      "heading": "5. CESI\u00d3N DE DATOS\u00a0",
+      "styles": {},
+      "theme": "default"
+    },
+    "336c3032-dc9c-4345-bfd8-c1c31c8dbbeb": {
+      "@type": "slate",
+      "plaintext": "Derecho a la limitaci\u00f3n del tratamiento: En determinadas circunstancias, los interesados podr\u00e1n solicitar la limitaci\u00f3n del tratamiento de sus datos, en cuyo caso \u00fanicamente los conservaremos para el ejercicio o defensa de reclamaciones.",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Derecho a la limitaci\u00f3n del tratamiento: En determinadas circunstancias, los interesados podr\u00e1n solicitar la limitaci\u00f3n del tratamiento de sus datos, en cuyo caso \u00fanicamente los conservaremos para el ejercicio o defensa de reclamaciones."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "3ce3c1f7-7d4c-43c6-a2a1-f5995766e0f0": {
+      "@type": "slate",
+      "plaintext": "Tus datos ser\u00e1n tratados por el IMD de acuerdo con los fines para los que han sido recabados en base a lo establecido en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo (RGPD), y la Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos Personales y garant\u00eda de los derechos digitales (LOPDGDD).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Tus datos ser\u00e1n tratados por el IMD de acuerdo con los fines para los que han sido recabados en base a lo establecido en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo (RGPD), y la Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos Personales y garant\u00eda de los derechos digitales (LOPDGDD)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "41ac184f-d6cd-4dfc-817d-3ea7b25d5d2f": {
+      "@type": "slate",
+      "plaintext": "Derecho de acceso: Dispone de suderecho de acceso a sus datos personales para saber cu\u00e1les est\u00e1n siendo objeto de tratamiento y las operaciones de tratamiento llevadas a cabo con ellos.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Derecho de acceso: Dispone de suderecho de acceso a sus datos personales para saber cu\u00e1les est\u00e1n siendo objeto de tratamiento y las operaciones de tratamiento llevadas a cabo con ellos."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "48098016-9a22-4104-88f7-5c57a94b6b8b": {
+      "@type": "slate",
+      "plaintext": " Datos del Delegado de Protecci\u00f3n de Datos ",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Datos del Delegado de Protecci\u00f3n de Datos"
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "480e417e-0e2e-4253-9e8f-80fc8798b82f": {
+      "@type": "slate",
+      "plaintext": "Sea cual sea la base de legitimaci\u00f3n, la aportaci\u00f3n de tus datos es obligatoria e imprescindible para atender tus peticiones o poder prestarte los servicios y gestiones que demandes.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Sea cual sea la base de legitimaci\u00f3n, la aportaci\u00f3n de tus datos es obligatoria e imprescindible para atender tus peticiones o poder prestarte los servicios y gestiones que demandes."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4e75775c-9de7-45ec-a13d-cc4d457ebf9a": {
+      "@type": "slate",
+      "plaintext": "Para el ejercicio de estos derechos, deber\u00e1 remitir una solicitud expresa, junto a una copia del anverso de su DNI/NIF o documento acreditativo equivalente y en vigor (para el caso en que no pudi\u00e9ramos identificarle), a trav\u00e9s de los siguientes medios:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Para el ejercicio de estos derechos, deber\u00e1 remitir una solicitud expresa, junto a una copia del anverso de su DNI/NIF o documento acreditativo equivalente y en vigor (para el caso en que no pudi\u00e9ramos identificarle), a trav\u00e9s de los siguientes medios: "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "50808889-db95-4adc-a87b-0565a05eefc4": {
+      "@type": "slate",
+      "plaintext": "Derecho a revocar el consentimiento prestado.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Derecho a revocar el consentimiento prestado."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "53789e55-354a-4460-a0db-4447f049d9fd": {
+      "@type": "slate",
+      "plaintext": "Se except\u00faan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para la celebraci\u00f3n del acto o negocio jur\u00eddico en cuyo contexto se recaba el consentimiento para el tratamiento.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Se except\u00faan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para la celebraci\u00f3n del acto o negocio jur\u00eddico en cuyo contexto se recaba el consentimiento para el tratamiento."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "54055026-e13f-49e2-8867-c87d35efb472": {
+      "@type": "slate",
+      "plaintext": "El tratamiento de los datos de los menores de catorce a\u00f1os, fundado en el consentimiento, solo ser\u00e1 l\u00edcito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El tratamiento de los datos de los menores de catorce a\u00f1os, fundado en el consentimiento, solo ser\u00e1 l\u00edcito si consta el del titular de la patria potestad o tutela, con el alcance que determinen los titulares de la patria potestad o tutela."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5456fdc5-9f19-42f3-8251-dbc28c4ebd59": {
+      "@type": "slate",
+      "plaintext": "El Prestador se reserva el derecho a modificar la presente Pol\u00edtica de Privacidad, total o parcialmente, publicando los cambios en el Sitio Web. Asimismo, se podr\u00e1 cambiar, suprimir o a\u00f1adir, sin previo aviso, tanto los contenidos y servicios prestados, as\u00ed como la forma en la que estos aparezcan presentados. En consecuencia, se entender\u00e1n como vigentes, las Pol\u00edticas que est\u00e9n publicadas en el momento en el que acceda por lo que deber\u00e1 leerlo peri\u00f3dicamente.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El Prestador se reserva el derecho a modificar la presente Pol\u00edtica de Privacidad, total o parcialmente, publicando los cambios en el Sitio Web. Asimismo, se podr\u00e1 cambiar, suprimir o a\u00f1adir, sin previo aviso, tanto los contenidos y servicios prestados, as\u00ed como la forma en la que estos aparezcan presentados. En consecuencia, se entender\u00e1n como vigentes, las Pol\u00edticas que est\u00e9n publicadas en el momento en el que acceda por lo que deber\u00e1 leerlo peri\u00f3dicamente."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5664d731-d2fb-481c-87c6-80796779ec0a": {
+      "@type": "slate",
+      "plaintext": "Se poseen implementadas pol\u00edticas t\u00e9cnicas y organizativas apropiadas con el fin de proteger sus derechos y libertades, facilit\u00e1ndole toda la informaci\u00f3n necesaria para que pueda ejercer los derechos que le asisten. No obstante, debe de ser consciente que las medidas de seguridad en Internet no son inexpugnables.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Se poseen implementadas pol\u00edticas t\u00e9cnicas y organizativas apropiadas con el fin de proteger sus derechos y libertades, facilit\u00e1ndole toda la informaci\u00f3n necesaria para que pueda ejercer los derechos que le asisten. No obstante, debe de ser consciente que las medidas de seguridad en Internet no son inexpugnables."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "58be656f-cf81-4dae-9f0e-679460d43fb5": {
+      "@type": "slate",
+      "plaintext": "Si ante la solicitud realizada no recibiera respuesta en tiempo y forma por parte del Prestador, o no encontrara esta satisfactoria, se informa que la autoridad de control competente es la Agencia Espa\u00f1ola de Protecci\u00f3n de Datos (  www.aepd.es  ). En su p\u00e1gina web puede encontrar una serie de modelos que le ayudar\u00e1n en el ejercicio de sus derechos.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Si ante la solicitud realizada no recibiera respuesta en tiempo y forma por parte del Prestador, o no encontrara esta satisfactoria, se informa que la autoridad de control competente es la Agencia Espa\u00f1ola de Protecci\u00f3n de Datos ("
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "www.aepd.es"
+                    }
+                  ],
+                  "data": {
+                    "url": "http://www.aepd.es/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "u"
+            },
+            {
+              "text": "). En su p\u00e1gina web puede encontrar una serie de modelos que le ayudar\u00e1n en el ejercicio de sus derechos."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5bf7cb80-4921-4fd8-b54f-c1107d4df552": {
+      "@type": "slate",
+      "plaintext": "Cuando el tratamiento se base en su consentimiento tendr\u00e1 derecho a retirarlo en cualquier momento. La retirada del mismo no afectar\u00e1 a la licitud del tratamiento basada en el consentimiento previo a su retirada.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Cuando el tratamiento se base en su consentimiento tendr\u00e1 derecho a retirarlo en cualquier momento. La retirada del mismo no afectar\u00e1 a la licitud del tratamiento basada en el consentimiento previo a su retirada."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6bf8c2a5-eceb-47f9-ab1e-6f88278f335f": {
+      "@type": "slate",
+      "plaintext": "Los menores de edad (14 a\u00f1os) no podr\u00e1n usar los servicios disponibles a trav\u00e9s del Sitio Web sin la previa autorizaci\u00f3n de sus padres, tutores o representantes legales, quienes ser\u00e1n los \u00fanicos responsables de todos los actos realizados a trav\u00e9s del Sitio Web por los menores a su cargo, incluyendo la cumplimentaci\u00f3n de los formularios con los datos personales de dichos menores y la marcaci\u00f3n, en su caso, de las casillas que los acompa\u00f1an. En IMD no nos responsabilizamos de la veracidad y exactitud de los datos que cumplimente.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Los menores de edad (14 a\u00f1os) no podr\u00e1n usar los servicios disponibles a trav\u00e9s del Sitio Web sin la previa autorizaci\u00f3n de sus padres, tutores o representantes legales, quienes ser\u00e1n los \u00fanicos responsables de todos los actos realizados a trav\u00e9s del Sitio Web por los menores a su cargo, incluyendo la cumplimentaci\u00f3n de los formularios con los datos personales de dichos menores y la marcaci\u00f3n, en su caso, de las casillas que los acompa\u00f1an. En IMD no nos responsabilizamos de la veracidad y exactitud de los datos que cumplimente."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7289601c-1bd9-423f-b7c0-f2ebab65f9ac": {
+      "@type": "slate",
+      "plaintext": "La legitimaci\u00f3n para el tratamiento de dichos datos es el cumplimento de las obligaciones legales que corresponden al IMD, el cumplimiento de una misi\u00f3n realizada en inter\u00e9s p\u00fablico, la protecci\u00f3n de intereses vitales, la ejecuci\u00f3n de un contrato, y/o puede estar tambi\u00e9n basada en el consentimiento de las personas interesadas, que habr\u00e1 de ser prestado mediante una clara acci\u00f3n afirmativa.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "La legitimaci\u00f3n para el tratamiento de dichos datos es el cumplimento de las obligaciones legales que corresponden al IMD, el cumplimiento de una misi\u00f3n realizada en inter\u00e9s p\u00fablico, la protecci\u00f3n de intereses vitales, la ejecuci\u00f3n de un contrato, y/o puede estar tambi\u00e9n basada en el consentimiento de las personas interesadas, que habr\u00e1 de ser prestado mediante una clara acci\u00f3n afirmativa."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7667363e-d16f-4649-8f82-b3a453807a25": {
+      "@type": "slate",
+      "plaintext": "Los datos que nos facilite se conservar\u00e1n por regla general, mientras exista una relaci\u00f3n contractual que nos vincule o usted no ejerza su derecho de supresi\u00f3n, oposici\u00f3n y/o limitaci\u00f3n del tratamiento, en cuyo caso, la informaci\u00f3n ser\u00e1 bloqueada sin darle uso m\u00e1s all\u00e1 de su conservaci\u00f3n, mientras pueda ser necesaria para el ejercicio o defensa de reclamaciones o pudiera derivarse alg\u00fan tipo de responsabilidad que tuviera que ser atendida. Quedar\u00e1n a disposici\u00f3n exclusiva de Jueces y Tribunales, el Ministerio Fiscal y las Administraciones competentes, en particular la de Protecci\u00f3n de Datos para la atenci\u00f3n de responsabilidades nacidas del tratamiento, durante el plazo de prescripci\u00f3n de estas. Cumplido el plazo indicado, se pasar\u00e1 a su destrucci\u00f3n con las medidas de seguridad adecuadas para garantizar la seudonimizaci\u00f3n o destrucci\u00f3n total de los mismos.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": " Los datos que nos facilite se conservar\u00e1n por regla general, mientras exista una relaci\u00f3n contractual que nos vincule o usted no ejerza su derecho de supresi\u00f3n, oposici\u00f3n y/o limitaci\u00f3n del tratamiento, en cuyo caso, la informaci\u00f3n ser\u00e1 bloqueada sin darle uso m\u00e1s all\u00e1 de su conservaci\u00f3n, mientras pueda ser necesaria para el ejercicio o defensa de reclamaciones o pudiera derivarse alg\u00fan tipo de responsabilidad que tuviera que ser atendida. Quedar\u00e1n a disposici\u00f3n exclusiva de Jueces y Tribunales, el Ministerio Fiscal y las Administraciones competentes, en particular la de Protecci\u00f3n de Datos para la atenci\u00f3n de responsabilidades nacidas del tratamiento, durante el plazo de prescripci\u00f3n de estas. Cumplido el plazo indicado, se pasar\u00e1 a su destrucci\u00f3n con las medidas de seguridad adecuadas para garantizar la seudonimizaci\u00f3n o destrucci\u00f3n total de los mismos."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7b99ac02-e99f-4c7b-93f2-90896b1dccc7": {
+      "@type": "slate",
+      "plaintext": "Cualquier excepci\u00f3n a lo anterior, requerir\u00e1 su previo consentimiento expreso informado, e inequ\u00edvoco.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Cualquier excepci\u00f3n a lo anterior, requerir\u00e1 su previo consentimiento expreso informado, e inequ\u00edvoco."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "82351bd2-bb46-43ab-b7b4-13d2698f7ff1": {
+      "@type": "heading",
+      "heading": "\n7. MENORES\nDE EDAD",
+      "theme": "default"
+    },
+    "8a1b3093-8eb4-404b-95a5-62af835de38c": {
+      "@type": "slate",
+      "plaintext": "Derecho de rectificaci\u00f3n: Poder solicitar la modificaci\u00f3n de sus datos por ser inexactos o no veraces.",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Derecho de rectificaci\u00f3n: Poder solicitar la modificaci\u00f3n de sus datos por ser inexactos o no veraces."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "933fa6b4-cbfc-4ec1-a3e0-d15593941d02": {
+      "@type": "slate",
+      "plaintext": "Tel\u00e9fono:(+34) 955 47 50 10 Correo electr\u00f3nico:  informaci\u00f3n@imd.sevilla.org  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Tel\u00e9fono:(+34) 955 47 50 10"
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Correo electr\u00f3nico: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "informaci\u00f3n@imd.sevilla.org"
+                            }
+                          ],
+                          "data": {
+                            "url": "mailto:informaci%C3%B3n@imd.sevilla.org"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "94613c24-50ff-4cf3-ab0c-3ee7cf94f886": {
+      "@type": "slate",
+      "plaintext": "Adem\u00e1s del tratamiento general del punto anterior, se observar\u00e1 el plazo de conservaci\u00f3n de cuatro a\u00f1os (Art. 66 y siguientes de la Ley General Tributaria), y de seis sobre los libros de contabilidad y facturas (Art. 30 del C\u00f3digo de Comercio).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Adem\u00e1s del tratamiento general del punto anterior, se observar\u00e1 el plazo de conservaci\u00f3n de cuatro a\u00f1os (Art. 66 y siguientes de la Ley General Tributaria), y de seis sobre los libros de contabilidad y facturas (Art. 30 del C\u00f3digo de Comercio)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9a09afc2-e29e-4632-a8f2-11579a94cd8c": {
+      "@type": "slate",
+      "plaintext": "Datos de contacto:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Datos de contacto:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9f962a41-8866-4574-a24d-405dfc9aca29": {
+      "@type": "__button",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        },
+        "blockWidth:noprefix": {
+          "--block-width": "var(--narrow-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Registro de Actividades de Tratamiento"
+    },
+    "a188aef2-f2c6-4569-80b6-057ad14fe535": {
+      "@type": "heading",
+      "heading": "\n3. PLAZOS\nDE CONSERVACI\u00d3N",
+      "styles": {},
+      "theme": "default"
+    },
+    "a9d0a2ec-5a12-43a1-8641-94fc54cab330": {
+      "@type": "title"
+    },
+    "a9dc4df4-fdad-4943-a9dd-6570f0a5318d": {
+      "@type": "heading",
+      "heading": "\n1.\nRESPONSABLE DEL TRATAMIENTO",
+      "styles": {},
+      "theme": "default"
+    },
+    "b50a0b25-88a4-4db0-8c67-531c1fa0b48e": {
+      "@type": "heading",
+      "heading": "\n8. DURACI\u00d3N\nY MODIFICACI\u00d3N DE LA POL\u00cdTICA DE PRIVACIDAD",
+      "styles": {},
+      "theme": "default"
+    },
+    "bce9299b-9b02-445c-83d0-577f0caad971": {
+      "@type": "slate",
+      "plaintext": " POR CORREO POSTAL : Dirigido a la direcci\u00f3n Calle Qu\u00edmica, 5, 41015, Sevilla(Espa\u00f1a)",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": " "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "POR CORREO POSTAL"
+                        }
+                      ],
+                      "type": "b"
+                    },
+                    {
+                      "text": ": Dirigido a la direcci\u00f3n Calle Qu\u00edmica, 5, 41015, Sevilla(Espa\u00f1a)"
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "c342b65d-a2ce-4c4b-939d-4b8bdd633905": {
+      "@type": "slate",
+      "plaintext": "Con independencia de lo dispuesto, se podr\u00e1 dar por terminado, suspender o interrumpir, en cualquier momento sin necesidad de preaviso, el acceso a los contenidos del Sitio Web, sin posibilidad por parte del Usuario de exigir indemnizaci\u00f3n alguna.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Con independencia de lo dispuesto, se podr\u00e1 dar por terminado, suspender o interrumpir, en cualquier momento sin necesidad de preaviso, el acceso a los contenidos del Sitio Web, sin posibilidad por parte del Usuario de exigir indemnizaci\u00f3n alguna."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "cb1b5ce3-ba05-4c23-9860-2ece68d273a5": {
+      "@type": "slate",
+      "plaintext": "De conformidad con lo dispuesto en las normativas vigentes en protecci\u00f3n de datos personales Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 y Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos Personales y Garant\u00eda de los Derechos Digitales, el Prestador cumple con todas las disposiciones de las normativas RGPD y LOPDGDD\u00a0para\u00a0el tratamiento de los datos personales de su responsabilidad, y manifiestamente con los principios descritos en el art\u00edculo 5 del RGPD, por los cuales son tratados de manera l\u00edcita, leal y transparente en relaci\u00f3n con el interesado y adecuados, pertinentes y limitados a lo necesario en relaci\u00f3n con los fines para los que son tratados.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "De conformidad con lo dispuesto en las normativas vigentes en protecci\u00f3n de datos personales Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 y Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos Personales y Garant\u00eda de los Derechos Digitales, el Prestador cumple con todas las disposiciones de las normativas RGPD y LOPDGDD\u00a0para\u00a0el tratamiento de los datos personales de su responsabilidad, y manifiestamente con los principios descritos en el art\u00edculo 5 del RGPD, por los cuales son tratados de manera l\u00edcita, leal y transparente en relaci\u00f3n con el interesado y adecuados, pertinentes y limitados a lo necesario en relaci\u00f3n con los fines para los que son tratados."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d16360c8-71c8-4cce-9cf0-8f1832fd871b": {
+      "@type": "introduction",
+      "plaintext": "Con esta pol\u00edtica de privacidad le informamos del tratamiento que hacemos de los datos personales que facilite o vaya a facilitar en su navegaci\u00f3n, para el caso de que contin\u00fae navegando. As\u00ed mismo, recoge nuestra pol\u00edtica de protecci\u00f3n de datos, para los casos en que se haga una remisi\u00f3n expresa a la misma.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Con esta pol\u00edtica de privacidad le informamos del tratamiento que hacemos de los datos personales que facilite o vaya a facilitar en su navegaci\u00f3n, para el caso de que contin\u00fae navegando. As\u00ed mismo, recoge nuestra pol\u00edtica de protecci\u00f3n de datos, para los casos en que se haga una remisi\u00f3n expresa a la misma."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d80d4f81-7d29-45ed-a8ce-1d4e1b793fe6": {
+      "@type": "slate",
+      "plaintext": " CORREO ELECTR\u00d3NICO dirigido a la direcci\u00f3n  informacion@imd.sevilla.org  o  dpd@imd.sevilla.org  con asunto Protecci\u00f3n de Datos . Este env\u00edo deber\u00e1 realizarlo desde la direcci\u00f3n de correo electr\u00f3nico que incluy\u00f3 en el formulario/s. En caso de duda sobre la veracidad de su identidad, se le podr\u00e1 solicitar informaci\u00f3n adicional",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "CORREO ELECTR\u00d3NICO"
+                        }
+                      ],
+                      "type": "b"
+                    },
+                    {
+                      "text": " dirigido a la direcci\u00f3n "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "informacion@imd.sevilla.org"
+                            }
+                          ],
+                          "data": {
+                            "url": "mailto:informacion@imd.sevilla.org"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": " o "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "dpd@imd.sevilla.org"
+                            }
+                          ],
+                          "data": {
+                            "url": "mailto:dpd@imd.sevilla.org"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": " "
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": "con asunto "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Protecci\u00f3n de Datos"
+                        }
+                      ],
+                      "type": "b"
+                    },
+                    {
+                      "text": ". Este env\u00edo deber\u00e1 realizarlo desde la direcci\u00f3n de correo electr\u00f3nico que incluy\u00f3 en el formulario/s. En caso de duda sobre la veracidad de su identidad, se le podr\u00e1 solicitar informaci\u00f3n adicional"
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "d8f2cfe3-d226-43f0-98b7-89642c613afb": {
+      "@type": "slate",
+      "plaintext": "Derecho de portabilidad: Poder obtener una copia en un formato interoperable de los datos que est\u00e9n siendo tratados.",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Derecho de portabilidad: Poder obtener una copia en un formato interoperable de los datos que est\u00e9n siendo tratados."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "daf1cbce-6dce-4a66-98c4-e1bd657ad40b": {
+      "@type": "slate",
+      "plaintext": "En el cumplimiento de nuestras obligaciones, podremos comunicar sus datos a las Administraciones P\u00fablicas con competencia en la materia y tribunales, siempre que tal informaci\u00f3n sea requerida conforme a los procesos legales establecidos.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En el cumplimiento de nuestras obligaciones, podremos comunicar sus datos a las Administraciones P\u00fablicas con competencia en la materia y tribunales, siempre que tal informaci\u00f3n sea requerida conforme a los procesos legales establecidos."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "db51bc1e-b69a-46df-b357-1b37f75e6d91": {
+      "@type": "slate",
+      "plaintext": "La normativa de protecci\u00f3n de datos le confiere los siguientes derechos en relaci\u00f3n con el tratamiento de datos personales:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "La normativa de protecci\u00f3n de datos le confiere los siguientes derechos en relaci\u00f3n con el tratamiento de datos personales:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e4e3b394-4492-4a40-96fb-5edd9098deca": {
+      "@type": "slate",
+      "plaintext": "Derecho de supresi\u00f3n: Solicitar la supresi\u00f3n de sus datos cuando el tratamiento ya no resulte necesario.",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Derecho de supresi\u00f3n: Solicitar la supresi\u00f3n de sus datos cuando el tratamiento ya no resulte necesario."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "e7278ac5-2035-4092-af2d-6b235589624c": {
+      "@type": "slate",
+      "plaintext": "Derecho de oposici\u00f3n: Solicitar el cese en el env\u00edo de comunicaciones en los t\u00e9rminos se\u00f1alados.",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Derecho de oposici\u00f3n: Solicitar el cese en el env\u00edo de comunicaciones en los t\u00e9rminos se\u00f1alados."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "e79115e3-8463-4cd8-b5c6-5d694ba38bf9": {
+      "@type": "heading",
+      "heading": "\n6. MEDIDAS\nDE SEGURIDAD",
+      "theme": "default"
+    },
+    "eaa6b27c-5730-4b60-afb4-e341c17da5ae": {
+      "@type": "slate",
+      "plaintext": "El tratamiento de los datos personales de un menor de edad \u00fanicamente podr\u00e1 fundarse en su consentimiento cuando sea mayor de catorce a\u00f1os.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El tratamiento de los datos personales de un menor de edad \u00fanicamente podr\u00e1 fundarse en su consentimiento cuando sea mayor de catorce a\u00f1os."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "a9d0a2ec-5a12-43a1-8641-94fc54cab330",
+      "d16360c8-71c8-4cce-9cf0-8f1832fd871b",
+      "a9dc4df4-fdad-4943-a9dd-6570f0a5318d",
+      "014c2c83-cd8e-4d22-9666-57a5ae6dbb86",
+      "9a09afc2-e29e-4632-a8f2-11579a94cd8c",
+      "933fa6b4-cbfc-4ec1-a3e0-d15593941d02",
+      "48098016-9a22-4104-88f7-5c57a94b6b8b",
+      "12474c79-7419-4cd8-8965-fda4e1b94297",
+      "04f167be-c9a9-4094-bb25-8e6eda636f45",
+      "3ce3c1f7-7d4c-43c6-a2a1-f5995766e0f0",
+      "7289601c-1bd9-423f-b7c0-f2ebab65f9ac",
+      "5bf7cb80-4921-4fd8-b54f-c1107d4df552",
+      "480e417e-0e2e-4253-9e8f-80fc8798b82f",
+      "29cbbf0d-c325-4ba8-a825-17a9d343e7f8",
+      "9f962a41-8866-4574-a24d-405dfc9aca29",
+      "a188aef2-f2c6-4569-80b6-057ad14fe535",
+      "7667363e-d16f-4649-8f82-b3a453807a25",
+      "94613c24-50ff-4cf3-ab0c-3ee7cf94f886",
+      "17f1a7bc-610f-4bd2-b477-e307a01a3394",
+      "db51bc1e-b69a-46df-b357-1b37f75e6d91",
+      "41ac184f-d6cd-4dfc-817d-3ea7b25d5d2f",
+      "8a1b3093-8eb4-404b-95a5-62af835de38c",
+      "d8f2cfe3-d226-43f0-98b7-89642c613afb",
+      "336c3032-dc9c-4345-bfd8-c1c31c8dbbeb",
+      "e4e3b394-4492-4a40-96fb-5edd9098deca",
+      "e7278ac5-2035-4092-af2d-6b235589624c",
+      "50808889-db95-4adc-a87b-0565a05eefc4",
+      "4e75775c-9de7-45ec-a13d-cc4d457ebf9a",
+      "d80d4f81-7d29-45ed-a8ce-1d4e1b793fe6",
+      "bce9299b-9b02-445c-83d0-577f0caad971",
+      "58be656f-cf81-4dae-9f0e-679460d43fb5",
+      "2ab49323-489b-4dae-80d1-31d1fe687892",
+      "1c6b0e8c-8a28-4474-9a32-16029dae04a2",
+      "daf1cbce-6dce-4a66-98c4-e1bd657ad40b",
+      "7b99ac02-e99f-4c7b-93f2-90896b1dccc7",
+      "e79115e3-8463-4cd8-b5c6-5d694ba38bf9",
+      "cb1b5ce3-ba05-4c23-9860-2ece68d273a5",
+      "5664d731-d2fb-481c-87c6-80796779ec0a",
+      "2193ef0a-29f4-4e6a-a220-07e5d2ba4277",
+      "82351bd2-bb46-43ab-b7b4-13d2698f7ff1",
+      "6bf8c2a5-eceb-47f9-ab1e-6f88278f335f",
+      "eaa6b27c-5730-4b60-afb4-e341c17da5ae",
+      "53789e55-354a-4460-a0db-4447f049d9fd",
+      "54055026-e13f-49e2-8867-c87d35efb472",
+      "b50a0b25-88a4-4db0-8c67-531c1fa0b48e",
+      "5456fdc5-9f19-42f3-8251-dbc28c4ebd59",
+      "c342b65d-a2ce-4c4b-939d-4b8bdd633905"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-09T16:15:07+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Pol\u00edtica de privacidad",
+  "effective": "2025-07-09T19:58:28+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "politica-de-privacidad",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-09T19:58:28+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Pol\u00edtica de privacidad",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-09T16:15:07+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-09T19:58:28+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

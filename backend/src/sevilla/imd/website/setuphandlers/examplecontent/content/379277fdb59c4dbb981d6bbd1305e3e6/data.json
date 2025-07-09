@@ -1,0 +1,574 @@
+{
+  "@id": "/aviso-legal",
+  "@type": "Document",
+  "UID": "379277fdb59c4dbb981d6bbd1305e3e6",
+  "allow_discussion": null,
+  "blocks": {
+    "05dca5c7-c232-40c7-940d-96b896acb57b": {
+      "@type": "slate",
+      "plaintext": " Denominaci\u00f3n social: INSTITUTO MUNICIPAL DE DEPORTES DEL AYUNTAMIENTO DE SEVILLA (IMD)  NIF: P9109101G  Domicilio: Calle Qu\u00edmica, 5, 41015 Sevilla  Tel\u00e9fono: (+34) 955 47 50 10  Email:   informacion@imd.sevilla.org    Dominio:   https://imd.sevilla.org/  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Denominaci\u00f3n social: "
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": "INSTITUTO MUNICIPAL DE DEPORTES DEL AYUNTAMIENTO DE SEVILLA (IMD)"
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "NIF: "
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": "P9109101G"
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Domicilio: "
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": "Calle Qu\u00edmica, 5, 41015 Sevilla"
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Tel\u00e9fono: "
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": "(+34) 955 47 50 10"
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Email: "
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "informacion@imd.sevilla.org"
+                            }
+                          ],
+                          "data": {
+                            "url": "mailto:informacion@imd.sevilla.org"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Dominio: "
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "https://imd.sevilla.org/"
+                            }
+                          ],
+                          "data": {
+                            "url": "https://imd.sevilla.org/"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "2132693e-c5e1-472e-92b9-a0925a90ff11": {
+      "@type": "slate",
+      "plaintext": "El Sitio Web, incluyendo a t\u00edtulo enunciativo, pero no limitativo su programaci\u00f3n, edici\u00f3n, compilaci\u00f3n y dem\u00e1s elementos necesarios para su funcionamiento, los dise\u00f1os, logotipos, texto y/o gr\u00e1ficos es propiedad del Prestador o en su caso se dispone de licencia o autorizaci\u00f3n por parte de los autores. Todos los contenidos del Sitio Web se encuentran debidamente protegidos por la normativa espa\u00f1ola e internacional en materia de propiedad intelectual e industrial, as\u00ed como inscritos en los registros p\u00fablicos correspondientes.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El Sitio Web, incluyendo a t\u00edtulo enunciativo, pero no limitativo su programaci\u00f3n, edici\u00f3n, compilaci\u00f3n y dem\u00e1s elementos necesarios para su funcionamiento, los dise\u00f1os, logotipos, texto y/o gr\u00e1ficos es propiedad del Prestador o en su caso se dispone de licencia o autorizaci\u00f3n por parte de los autores. Todos los contenidos del Sitio Web se encuentran debidamente protegidos por la normativa espa\u00f1ola e internacional en materia de propiedad intelectual e industrial, as\u00ed como inscritos en los registros p\u00fablicos correspondientes."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "230bf078-eb53-4199-bf63-be737f2e72fa": {
+      "@type": "slate",
+      "plaintext": "FUERO.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "FUERO."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "272f64c1-20f1-433c-aa99-712b12529524": {
+      "@type": "slate",
+      "plaintext": "El Prestador tratar\u00e1 los datos personales del Usuario de forma confidencial y seg\u00fan la normativa de protecci\u00f3n de datos aplicable y no los divulgar\u00e1 a terceros, a menos que sea necesario para el cumplimiento de las obligaciones contractuales y por obligaci\u00f3n legal.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El Prestador tratar\u00e1 los datos personales del Usuario de forma confidencial y seg\u00fan la normativa de protecci\u00f3n de datos aplicable y no los divulgar\u00e1 a terceros, a menos que sea necesario para el cumplimiento de las obligaciones contractuales y por obligaci\u00f3n legal."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3781f603-5dc2-4747-b09c-023e1e8f5cfa": {
+      "@type": "heading",
+      "heading": "\n5.\nDURACI\u00d3N DEL SERVICIO, SUSPENSI\u00d3N Y MODIFICACION. FUERO.",
+      "styles": {},
+      "theme": "default"
+    },
+    "438049df-d36d-404c-bbf5-e903f8f45fe3": {
+      "@type": "heading",
+      "heading": "1. DATOS DE IDENTIFICACI\u00d3N",
+      "theme": "default"
+    },
+    "43bb27e7-189a-455a-8fad-246a79471187": {
+      "@type": "slate",
+      "plaintext": "El Sitio Web puede incluir enlaces a otros sitios web gestionados por terceros de cuyos contenidos el Prestador no tiene control, por lo que no asumir\u00e1 ning\u00fan tipo de responsabilidad frente a ellos. En todo caso, se proceder\u00e1 a la retirada inmediata de la redirecci\u00f3n a dicho sitio web y de cualquier contenido que pudiera contravenir la legislaci\u00f3n nacional o internacional, la moral o el orden p\u00fablico, poniendo en conocimiento de las autoridades competentes el contenido en cuesti\u00f3n.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El Sitio Web puede incluir enlaces a otros sitios web gestionados por terceros de cuyos contenidos el Prestador no tiene control, por lo que no asumir\u00e1 ning\u00fan tipo de responsabilidad frente a ellos. En todo caso, se proceder\u00e1 a la retirada inmediata de la redirecci\u00f3n a dicho sitio web y de cualquier contenido que pudiera contravenir la legislaci\u00f3n nacional o internacional, la moral o el orden p\u00fablico, poniendo en conocimiento de las autoridades competentes el contenido en cuesti\u00f3n."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4fb9027e-528e-4539-a244-b946168b6d45": {
+      "@type": "slate",
+      "plaintext": "El Sitio Web es propiedad de INSTITUTO MUNICIPAL DE DEPORTES DEL AYUNTAMIENTO DE SEVILLA (IMD) (en adelante El Prestador). El presente aviso legal regula el acceso y la utilizaci\u00f3n del sitio web alojado bajo el nombre de dominio https://imd.sevilla.org/ (en adelante el \"Sitio Web\") as\u00ed como los contenidos, productos, y servicios que el Prestador pone a disposici\u00f3n de sus usuarios, (en adelante los \"Usuarios\").",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El Sitio Web es propiedad de INSTITUTO MUNICIPAL DE DEPORTES DEL AYUNTAMIENTO DE SEVILLA (IMD) (en adelante El Prestador). El presente aviso legal regula el acceso y la utilizaci\u00f3n del sitio web alojado bajo el nombre de dominio https://imd.sevilla.org/ (en adelante el \"Sitio Web\") as\u00ed como los contenidos, productos, y servicios que el Prestador pone a disposici\u00f3n de sus usuarios, (en adelante los \"Usuarios\")."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6cd325a4-5029-48b6-b84b-2b66d7a76fb7": {
+      "@type": "title"
+    },
+    "6ec95e74-1320-4ae5-a120-49977aadc44b": {
+      "@type": "heading",
+      "heading": "6. POL\u00cdTICA DE PRIVACIDAD",
+      "theme": "default"
+    },
+    "746bb7d7-aa11-4bba-b7a0-cf77e2307993": {
+      "@type": "slate",
+      "plaintext": "La prestaci\u00f3n del servicio del presente Sitio Web tiene en principio una duraci\u00f3n indefinida. No obstante, El Prestador podr\u00e1 dar por terminada o suspender cualquiera de los servicios del Sitio Web. Cuando sea ello posible, El Prestador anunciar\u00e1 la terminaci\u00f3n o suspensi\u00f3n de la prestaci\u00f3n del servicio determinado.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "La prestaci\u00f3n del servicio del presente Sitio Web tiene en principio una duraci\u00f3n indefinida. No obstante, El Prestador podr\u00e1 dar por terminada o suspender cualquiera de los servicios del Sitio Web. Cuando sea ello posible, El Prestador anunciar\u00e1 la terminaci\u00f3n o suspensi\u00f3n de la prestaci\u00f3n del servicio determinado."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7ae537c7-966a-41dd-8617-ff7bf7596d5d": {
+      "@type": "heading",
+      "alignment": "left",
+      "heading": "4. PROPIEDAD INTELECTUAL E INDUSTRIAL",
+      "styles": {},
+      "tag": "h2",
+      "theme": "default"
+    },
+    "862e182a-5311-41e9-9f8d-bd43cd2a2f69": {
+      "@type": "slate",
+      "plaintext": "Independientemente de la finalidad para la que fueran destinados, la reproducci\u00f3n total o parcial, uso, explotaci\u00f3n, distribuci\u00f3n y comercializaci\u00f3n, requiere en todo caso de previa autorizaci\u00f3n escrita. Cualquier uso no autorizado ser\u00e1 considerado un incumplimiento grave de los derechos de propiedad intelectual o industrial del autor. Los dise\u00f1os, logotipos, texto y/o gr\u00e1ficos ajenos al Prestador y que pudieran aparecer en el Sitio Web, pertenecen a sus respectivos propietarios, siendo ellos mismos responsables de cualquier posible controversia que pudiera suscitarse respecto a los mismos.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Independientemente de la finalidad para la que fueran destinados, la reproducci\u00f3n total o parcial, uso, explotaci\u00f3n, distribuci\u00f3n y comercializaci\u00f3n, requiere en todo caso de previa autorizaci\u00f3n escrita. Cualquier uso no autorizado ser\u00e1 considerado un incumplimiento grave de los derechos de propiedad intelectual o industrial del autor. Los dise\u00f1os, logotipos, texto y/o gr\u00e1ficos ajenos al Prestador y que pudieran aparecer en el Sitio Web, pertenecen a sus respectivos propietarios, siendo ellos mismos responsables de cualquier posible controversia que pudiera suscitarse respecto a los mismos."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "87c369d6-a8ab-49c9-a195-af2c3dd740a4": {
+      "@type": "heading",
+      "alignment": "left",
+      "heading": "\n3.\nHIPERV\u00cdNCULOS",
+      "styles": {},
+      "tag": "h2",
+      "theme": "default"
+    },
+    "9b1881e3-7bc7-4bac-961e-6a8b9cb01d98": {
+      "@type": "slate",
+      "plaintext": "En el supuesto de que cualquier estipulaci\u00f3n de las presentes Condiciones Generales de Uso resultara inexigible o nula en virtud de la legislaci\u00f3n aplicable o como consecuencia de una resoluci\u00f3n judicial o administrativa, dicha inexigibilidad o nulidad no har\u00e1 que las presentes Condiciones Generales de Uso resulten inexigibles o nulas en su conjunto. En dichos casos, El Prestador proceder\u00e1 a la modificaci\u00f3n o sustituci\u00f3n de dicha estipulaci\u00f3n por otra que sea v\u00e1lida y exigible y que, en la medida de lo posible, consiga el objetivo y pretensi\u00f3n reflejados en la estipulaci\u00f3n original.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En el supuesto de que cualquier estipulaci\u00f3n de las presentes Condiciones Generales de Uso resultara inexigible o nula en virtud de la legislaci\u00f3n aplicable o como consecuencia de una resoluci\u00f3n judicial o administrativa, dicha inexigibilidad o nulidad no har\u00e1 que las presentes Condiciones Generales de Uso resulten inexigibles o nulas en su conjunto. En dichos casos, El Prestador proceder\u00e1 a la modificaci\u00f3n o sustituci\u00f3n de dicha estipulaci\u00f3n por otra que sea v\u00e1lida y exigible y que, en la medida de lo posible, consiga el objetivo y pretensi\u00f3n reflejados en la estipulaci\u00f3n original."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "be1f597e-3002-4ebd-997d-4e16d8bece51": {
+      "@type": "slate",
+      "plaintext": "Para realizar cualquier tipo de observaci\u00f3n respecto a posibles incumplimientos de los derechos de propiedad intelectual o industrial, as\u00ed como sobre cualquiera de los contenidos del Sitio Web, puede dirigir un correo electr\u00f3nico a  informacion@imd.sevilla.org  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Para realizar cualquier tipo de observaci\u00f3n respecto a posibles incumplimientos de los derechos de propiedad intelectual o industrial, as\u00ed como sobre cualquiera de los contenidos del Sitio Web, puede dirigir un correo electr\u00f3nico a "
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "informacion@imd.sevilla.org"
+                    }
+                  ],
+                  "data": {
+                    "url": "mailto:informacion@imd.sevilla.org"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "u"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "cf267bee-ab4d-4558-a605-35e66727074c": {
+      "@type": "introduction",
+      "plaintext": "Se informa que el acceso y uso del Sitio web est\u00e1 sujeto al presente aviso legal, para dar cumplimiento a las obligaciones dispuestas en la Ley 34/2002, de Servicios de la Sociedad de la Informaci\u00f3n y del Comercio Electr\u00f3nico (LSSI-CE), por lo que recomendamos su lectura. Como usuario se compromete a utilizarlo de conformidad con lo aqu\u00ed establecido, as\u00ed como a la normativa legal vigente en el momento de su utilizaci\u00f3n.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Se informa que el acceso y uso del Sitio web est\u00e1 sujeto al presente aviso legal, para dar cumplimiento a las obligaciones dispuestas en la Ley 34/2002, de Servicios de la Sociedad de la Informaci\u00f3n y del Comercio Electr\u00f3nico (LSSI-CE), por lo que recomendamos su lectura. Como usuario se compromete a utilizarlo de conformidad con lo aqu\u00ed establecido, as\u00ed como a la normativa legal vigente en el momento de su utilizaci\u00f3n."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d2ab32fa-12a4-4e88-b788-7dfabb030403": {
+      "@type": "heading",
+      "alignment": "left",
+      "heading": "2. OBJETO",
+      "styles": {},
+      "theme": "default"
+    },
+    "dbd4ff70-f6e4-40d7-bdb4-0bfa367d695f": {
+      "@type": "slate",
+      "plaintext": "El Prestador se reserva expresamente cuantas acciones civiles y penales pudieran corresponderle como consecuencia de la vulneraci\u00f3n de la pac\u00edfica posesi\u00f3n y/o titularidad no autorizada de los derechos de propiedad industrial e intelectual.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El Prestador se reserva expresamente cuantas acciones civiles y penales pudieran corresponderle como consecuencia de la vulneraci\u00f3n de la pac\u00edfica posesi\u00f3n y/o titularidad no autorizada de los derechos de propiedad industrial e intelectual."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ec8a4d9d-edb7-4c57-beb7-426ac32c2825": {
+      "@type": "slate",
+      "plaintext": "DURACI\u00d3N DEL SERVICIO, SUSPENSI\u00d3N Y MODIFICACION.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "DURACI\u00d3N DEL SERVICIO, SUSPENSI\u00d3N Y MODIFICACION."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f2c60d7f-d20e-4200-8b05-6b4b6fb88624": {
+      "@type": "slate",
+      "plaintext": "En virtud de lo establecido por la normativa aplicable en materia de protecci\u00f3n de datos, todos los datos de car\u00e1cter personal facilitados por el Usuario a trav\u00e9s de los correspondientes formularios durante la utilizaci\u00f3n del Sitio Web ser\u00e1n tratados por El Prestador seg\u00fan lo dispuesto en la Pol\u00edtica de Privacidad del Sitio Web.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En virtud de lo establecido por la normativa aplicable en materia de protecci\u00f3n de datos, todos los datos de car\u00e1cter personal facilitados por el Usuario a trav\u00e9s de los correspondientes formularios durante la utilizaci\u00f3n del Sitio Web ser\u00e1n tratados por El Prestador seg\u00fan lo dispuesto en la Pol\u00edtica de Privacidad del Sitio Web."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f5509ed3-db75-40d1-b9cc-348455757769": {
+      "@type": "slate",
+      "plaintext": "Las presentes Condiciones Generales de Uso, as\u00ed como el uso del Sitio Web, se regir\u00e1n por la legislaci\u00f3n espa\u00f1ola. Cualquier controversia ser\u00e1 resuelta ante los Juzgados y Tribunales competentes.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Las presentes Condiciones Generales de Uso, as\u00ed como el uso del Sitio Web, se regir\u00e1n por la legislaci\u00f3n espa\u00f1ola. Cualquier controversia ser\u00e1 resuelta ante los Juzgados y Tribunales competentes."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "6cd325a4-5029-48b6-b84b-2b66d7a76fb7",
+      "cf267bee-ab4d-4558-a605-35e66727074c",
+      "438049df-d36d-404c-bbf5-e903f8f45fe3",
+      "05dca5c7-c232-40c7-940d-96b896acb57b",
+      "d2ab32fa-12a4-4e88-b788-7dfabb030403",
+      "4fb9027e-528e-4539-a244-b946168b6d45",
+      "87c369d6-a8ab-49c9-a195-af2c3dd740a4",
+      "43bb27e7-189a-455a-8fad-246a79471187",
+      "7ae537c7-966a-41dd-8617-ff7bf7596d5d",
+      "2132693e-c5e1-472e-92b9-a0925a90ff11",
+      "862e182a-5311-41e9-9f8d-bd43cd2a2f69",
+      "be1f597e-3002-4ebd-997d-4e16d8bece51",
+      "dbd4ff70-f6e4-40d7-bdb4-0bfa367d695f",
+      "3781f603-5dc2-4747-b09c-023e1e8f5cfa",
+      "ec8a4d9d-edb7-4c57-beb7-426ac32c2825",
+      "746bb7d7-aa11-4bba-b7a0-cf77e2307993",
+      "9b1881e3-7bc7-4bac-961e-6a8b9cb01d98",
+      "230bf078-eb53-4199-bf63-be737f2e72fa",
+      "f5509ed3-db75-40d1-b9cc-348455757769",
+      "6ec95e74-1320-4ae5-a120-49977aadc44b",
+      "f2c60d7f-d20e-4200-8b05-6b4b6fb88624",
+      "272f64c1-20f1-433c-aa99-712b12529524"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-09T15:52:50+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Aviso Legal",
+  "effective": "2025-07-09T20:00:23+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "aviso-legal",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-09T20:00:23+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Aviso Legal",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-09T15:52:50+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-09T20:00:23+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

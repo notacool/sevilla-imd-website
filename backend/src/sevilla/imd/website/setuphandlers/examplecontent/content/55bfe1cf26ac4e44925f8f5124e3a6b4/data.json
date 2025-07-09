@@ -1,0 +1,1838 @@
+{
+  "@id": "/politica-de-cookies",
+  "@type": "Document",
+  "UID": "55bfe1cf26ac4e44925f8f5124e3a6b4",
+  "allow_discussion": null,
+  "blocks": {
+    "0000ca00-8f1f-4308-8bdd-876bee9204b4": {
+      "@type": "slate",
+      "plaintext": "En relaci\u00f3n al resto de informaci\u00f3n exigida por la normativa de protecci\u00f3n de datos puede consultarla en nuestra POL\u00cdTICA DE PRIVACIDAD.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En relaci\u00f3n al resto de informaci\u00f3n exigida por la normativa de protecci\u00f3n de datos puede consultarla en nuestra POL\u00cdTICA DE PRIVACIDAD."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "02ff1df0-f9d5-4e08-b79d-a9b93a8d6da4": {
+      "@type": "slate",
+      "plaintext": "Puede encontrar m\u00e1s informaci\u00f3n en  https://tools.google.com/dlpage/gaoptout?hl=es  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Puede encontrar m\u00e1s informaci\u00f3n en "
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://tools.google.com/dlpage/gaoptout?hl=es"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://tools.google.com/dlpage/gaoptout?hl=es"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "u"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "07a89898-6a08-4793-9bf2-209e934331d2": {
+      "@type": "slate",
+      "plaintext": "\u00bfA QU\u00c9 DESTINATARIOS SE COMUNICAR\u00c1N LAS COOKIES O PODR\u00c1N ACCEDER A ELLAS?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "\u00bfA QU\u00c9 DESTINATARIOS SE COMUNICAR\u00c1N LAS COOKIES O PODR\u00c1N ACCEDER A ELLAS?"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "084f0744-b0fe-47a8-a103-1fc858a4f70d": {
+      "@type": "slate",
+      "plaintext": " Cookies de publicidad comportamental : almacenan informaci\u00f3n del comportamiento de los usuarios obtenida a trav\u00e9s de la observaci\u00f3n continuada de sus h\u00e1bitos de navegaci\u00f3n, lo que permite desarrollar un perfil espec\u00edfico para mostrar publicidad en funci\u00f3n del mismo.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies de publicidad comportamental"
+                        }
+                      ],
+                      "type": "em"
+                    },
+                    {
+                      "text": ": almacenan informaci\u00f3n del comportamiento de los usuarios obtenida a trav\u00e9s de la observaci\u00f3n continuada de sus h\u00e1bitos de navegaci\u00f3n, lo que permite desarrollar un perfil espec\u00edfico para mostrar publicidad en funci\u00f3n del mismo."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "091e9cab-e531-48b4-9485-d1969edb64ef": {
+      "@type": "slate",
+      "plaintext": "Cuando navega por este Sitio Web puede encontrar cookies insertadas directamente por IMD o bien cookies insertadas por entidades externas, seg\u00fan lo detallado a continuaci\u00f3n:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Cuando navega por este Sitio Web puede encontrar cookies insertadas directamente por "
+            },
+            {
+              "children": [
+                {
+                  "text": "IMD "
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": "o bien cookies insertadas por entidades externas, seg\u00fan lo detallado a continuaci\u00f3n:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "14495e60-4026-4f13-b3a4-bd4f04a5b7dc": {
+      "@type": "slate",
+      "plaintext": "Por \u00faltimo, existe otras tipolog\u00edas de cookies a t\u00edtulo orientativo por ser las m\u00e1s habituales seg\u00fan la finalidad para la que se traten los datos obtenidos:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Por \u00faltimo, existe otras tipolog\u00edas de cookies a t\u00edtulo orientativo por ser las m\u00e1s habituales seg\u00fan la finalidad para la que se traten los datos obtenidos:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1bdea686-fa41-45fa-837e-648f95afd07c": {
+      "@type": "slate",
+      "plaintext": "Ghostery:  www.ghostery.com/   Your online choices:  www.youronlinechoices.com/es/  ",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Ghostery: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "www.ghostery.com/"
+                            }
+                          ],
+                          "data": {
+                            "url": "http://www.ghostery.com/"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Your online choices: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "www.youronlinechoices.com/es/"
+                            }
+                          ],
+                          "data": {
+                            "url": "http://www.youronlinechoices.com/es/"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "288e163b-08e5-4b8a-a93c-6a0faf6cd333": {
+      "@type": "slate",
+      "plaintext": "Las cookies son ficheros que se almacenan en el ordenador del Usuario que navega a trav\u00e9s de Internet y que, en particular, contiene un n\u00famero que permite identificar un\u00edvocamente el ordenador del usuario, aunque \u00e9ste cambie de localizaci\u00f3n o de direcci\u00f3n IP.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Las cookies son ficheros que se almacenan en el ordenador del Usuario que navega a trav\u00e9s de Internet y que, en particular, contiene un n\u00famero que permite identificar un\u00edvocamente el ordenador del usuario, aunque \u00e9ste cambie de localizaci\u00f3n o de direcci\u00f3n IP."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3632cb72-b6f9-4033-b653-c594f1c3d5cf": {
+      "@type": "slate",
+      "plaintext": "Tiene la opci\u00f3n de permitir o bloquear las cookies, as\u00ed como borrar sus datos de navegaci\u00f3n (incluidas las cookies) desde el navegador que utilice. Consulte las opciones e instrucciones que ofrece su navegador para ello. Tenga en cuenta que, si acepta las cookies de terceros, deber\u00e1 eliminarlas desde las opciones del navegador. La forma de deshabilitarlas es diferente para cada navegador, pero normalmente puede hacerse desde el men\u00fa Herramientas u Opciones. Tambi\u00e9n puede consultar el men\u00fa de Ayuda del navegador donde encontrar\u00e1 todas las instrucciones.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Tiene la opci\u00f3n de permitir o bloquear las cookies, as\u00ed como borrar sus datos de navegaci\u00f3n (incluidas las cookies) desde el navegador que utilice. Consulte las opciones e instrucciones que ofrece su navegador para ello. Tenga en cuenta que, si acepta las cookies de terceros, deber\u00e1 eliminarlas desde las opciones del navegador. La forma de deshabilitarlas es diferente para cada navegador, pero normalmente puede hacerse desde el men\u00fa Herramientas u Opciones. Tambi\u00e9n puede consultar el men\u00fa de Ayuda del navegador donde encontrar\u00e1 todas las instrucciones."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3aeb9e82-7eef-4eb0-a2d8-5e26500d03b2": {
+      "@type": "introduction",
+      "plaintext": "Damos cumplimientocon lo dispuesto en las obligaciones previstas en el apartado segundo del art\u00edculo 22 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Informaci\u00f3n y de Comercio Electr\u00f3nico (en adelante, LSSI), en relaci\u00f3n con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, General de Protecci\u00f3n de Datos (en adelante, RGPD) y la Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos y Garant\u00eda de los Derechos Digitales (en adelante, LOPDGDD).\n",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": " Damos cumplimientocon lo dispuesto en las obligaciones previstas en el apartado segundo del art\u00edculo 22 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Informaci\u00f3n y de Comercio Electr\u00f3nico (en adelante, LSSI), en relaci\u00f3n con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, General de Protecci\u00f3n de Datos (en adelante, RGPD) y la Ley Org\u00e1nica 3/2018, de 5 de diciembre, de Protecci\u00f3n de Datos y Garant\u00eda de los Derechos Digitales (en adelante, LOPDGDD)."
+            }
+          ],
+          "type": "p"
+        },
+        {
+          "children": [
+            {
+              "text": "   "
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "408ec215-3020-4e43-a02b-d3dcc93966ec": {
+      "@type": "heading",
+      "alignment": "left",
+      "heading": "\n4. \u00bfQU\u00c9\nOCURRE SI RECHAZA LA INSTALACI\u00d3N DE COOKIES?",
+      "styles": {},
+      "tag": "h2",
+      "theme": "default"
+    },
+    "44bed00a-0c30-4efe-ba2f-455558af0f9a": {
+      "@type": "slate",
+      "plaintext": "La base legal del uso del resto de cookies es el consentimiento del usuario, que se le solicita en el momento de acceder a esta web, pudiendo revocarlo en cualquier momento. La retirada de dicho consentimiento no afectar\u00e1 a la posibilidad de navegar por esta web y utilizar sus servicios, pero los tratamientos de datos efectuados con anterioridad no perder\u00e1n su licitud por el hecho de que el consentimiento se haya revocado.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "La base legal del uso del resto de cookies es el consentimiento del usuario, que se le solicita en el momento de acceder a esta web, pudiendo revocarlo en cualquier momento. La retirada de dicho consentimiento no afectar\u00e1 a la posibilidad de navegar por esta web y utilizar sus servicios, pero los tratamientos de datos efectuados con anterioridad no perder\u00e1n su licitud por el hecho de que el consentimiento se haya revocado."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "450d764b-37ea-4bff-989b-94edc3106f21": {
+      "@type": "slate",
+      "plaintext": " ACEPTAR: se aceptar\u00e1n todas las cookies mencionadas. No se volver\u00e1 a visualizar el aviso durante la presente sesi\u00f3n en el navegador.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "ACEPTAR: "
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": "se aceptar\u00e1n todas las cookies mencionadas. No se volver\u00e1 a visualizar el aviso durante la presente sesi\u00f3n en el navegador."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "4ab3ceec-7f7f-4e12-bbba-277f5edab6fa": {
+      "@type": "slate",
+      "plaintext": "\u00bfCU\u00c1L ES LA LEGITIMACI\u00d3N PARA EL USO DE LAS COOKIES?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "\u00bfCU\u00c1L ES LA LEGITIMACI\u00d3N PARA EL USO DE LAS COOKIES?"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "4b0a3c92-2227-49ba-afab-466b8caa8d29": {
+      "@type": "heading",
+      "heading": "\n\u00bfQUI\u00c9N ES\nEL RESPONSABLE DEL TRATAMIENTO DE LAS COOKIES EN ESTA P\u00c1GINA WEB?",
+      "styles": {},
+      "theme": "default"
+    },
+    "4c1e9001-ed57-4238-8162-7d76ff40ec2d": {
+      "@type": "title"
+    },
+    "4e07b681-06a9-40e8-8bae-bb55a5283db4": {
+      "@type": "slateTable",
+      "styles": {},
+      "table": {
+        "basic": false,
+        "celled": true,
+        "compact": false,
+        "fixed": true,
+        "hideHeaders": false,
+        "inverted": false,
+        "rows": [
+          {
+            "cells": [
+              {
+                "key": "evs2m",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Identidad de la cookie"
+                          }
+                        ],
+                        "type": "b"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "d0esn",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Tiempo de expiraci\u00f3n\r"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "6pmbr",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Finalidad y/o caracter\u00edsticas de la cookie"
+                          }
+                        ],
+                        "type": "b"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "bke6t",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Cookie Propia o de Terceros"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "b6h42"
+          },
+          {
+            "cells": [
+              {
+                "key": "1omme",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "aro23",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "807cu",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "66lfd",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "fmic1"
+          },
+          {
+            "cells": [
+              {
+                "key": "ba3js",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "4r0c",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "adn8s",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "e76b",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "8qjdo"
+          },
+          {
+            "cells": [
+              {
+                "key": "cpfkm",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "797bh",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "ap9po",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "5ldkd",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "fjum"
+          }
+        ],
+        "striped": false
+      },
+      "theme": "default"
+    },
+    "500dcf65-81df-45bc-9459-6560046c1ab0": {
+      "@type": "heading",
+      "heading": "\n2. \u00bfQU\u00c9\nTIPO DE COOKIES UTILIZAMOS Y CU\u00c1L ES SU FINALIDAD?",
+      "styles": {},
+      "theme": "default"
+    },
+    "52d4e9bf-8bd5-4bb9-a1a8-ccba1e9e7a25": {
+      "@type": "slate",
+      "plaintext": "Seg\u00fan qui\u00e9n sea la entidad que gestione el equipo o dominio desde donde se env\u00edan las cookies y trate los datos que se obtengan, se distinguen dos tipos:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Seg\u00fan qui\u00e9n sea la entidad que gestione el equipo o dominio desde donde se env\u00edan las cookies y trate los datos que se obtengan, se distinguen dos tipos:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "55c8f8c7-2385-403e-9d38-6c5d9a82f549": {
+      "@type": "slate",
+      "plaintext": " Cookies t\u00e9cnicas : son aquellas que permiten al usuario la navegaci\u00f3n a trav\u00e9s de una p\u00e1gina web, plataforma o aplicaci\u00f3n y la utilizaci\u00f3n de las diferentes opciones o servicios que en ella existan, incluyendo aquellas que el editor utiliza para permitir la gesti\u00f3n y operativa de la p\u00e1gina web y habilitar sus funciones y servicios, como, por ejemplo, controlar el tr\u00e1fico y la comunicaci\u00f3n de datos, identificar la sesi\u00f3n, acceder a partes de acceso restringido, recordar los elementos que integran un pedido, realizar el proceso de compra de un pedido, gestionar el pago, controlar el fraude vinculado a la seguridad del servicio, realizar la solicitud de inscripci\u00f3n o participaci\u00f3n en un evento, contar visitas a efectos de la facturaci\u00f3n de licencias del software con el que funciona servicio (sitio web, plataforma o aplicaci\u00f3n),utilizar elementos de seguridad durante la navegaci\u00f3n, almacenar contenidos parala difusi\u00f3n de v\u00eddeos o sonido, habilitar contenidos din\u00e1micos (por ejemplo, animaci\u00f3n de carga de un texto o imagen) o compartir contenidos a trav\u00e9s de redes sociales.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies t\u00e9cnicas"
+                        }
+                      ],
+                      "type": "i"
+                    },
+                    {
+                      "text": ": son aquellas que permiten al usuario la navegaci\u00f3n a trav\u00e9s de una p\u00e1gina web, plataforma o aplicaci\u00f3n y la utilizaci\u00f3n de las diferentes opciones o servicios que en ella existan, incluyendo aquellas que el editor utiliza para permitir la gesti\u00f3n y operativa de la p\u00e1gina web y habilitar sus funciones y servicios, como, por ejemplo, controlar el tr\u00e1fico y la comunicaci\u00f3n de datos, identificar la sesi\u00f3n, acceder a partes de acceso restringido, recordar los elementos que integran un pedido, realizar el proceso de compra de un pedido, gestionar el pago, controlar el fraude vinculado a la seguridad del servicio, realizar la solicitud de inscripci\u00f3n o participaci\u00f3n en un evento, contar visitas a efectos de la facturaci\u00f3n de licencias del software con el que funciona servicio (sitio web, plataforma o aplicaci\u00f3n),utilizar elementos de seguridad durante la navegaci\u00f3n, almacenar contenidos parala difusi\u00f3n de v\u00eddeos o sonido, habilitar contenidos din\u00e1micos (por ejemplo, animaci\u00f3n de carga de un texto o imagen) o compartir contenidos a trav\u00e9s de redes sociales."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "58232ca6-c513-498a-b078-7c72de8718cf": {
+      "@type": "slate",
+      "plaintext": "   Cookies de an\u00e1lisis o medici\u00f3n : permiten al responsable de las mismas, el seguimiento y an\u00e1lisis del comportamiento de los usuarios de los sitios web a los que est\u00e1n vinculadas incluida la cuantificaci\u00f3n de los impactos de los anuncios. La informaci\u00f3n recogida mediante este tipo de cookies se utiliza en la medici\u00f3n de la actividad de los sitios web, aplicaci\u00f3n o plataforma y para la elaboraci\u00f3n de perfiles de navegaci\u00f3n de los usuarios de dichos sitios, aplicaciones y plataformas, con el fin de introducir mejoras en funci\u00f3n del an\u00e1lisis de los datos de uso que hacen los usuarios del servicio.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "i"
+                    },
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies de an\u00e1lisis o medici\u00f3n"
+                        }
+                      ],
+                      "type": "em"
+                    },
+                    {
+                      "text": ": permiten al responsable de las mismas, el seguimiento y an\u00e1lisis del comportamiento de los usuarios de los sitios web a los que est\u00e1n vinculadas incluida la cuantificaci\u00f3n de los impactos de los anuncios. La informaci\u00f3n recogida mediante este tipo de cookies se utiliza en la medici\u00f3n de la actividad de los sitios web, aplicaci\u00f3n o plataforma y para la elaboraci\u00f3n de perfiles de navegaci\u00f3n de los usuarios de dichos sitios, aplicaciones y plataformas, con el fin de introducir mejoras en funci\u00f3n del an\u00e1lisis de los datos de uso que hacen los usuarios del servicio."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "59069b13-34a9-4f0c-801c-212fe8ee003e": {
+      "@type": "heading",
+      "heading": "\n3.\nINFORMACI\u00d3N SOBRE C\u00d3MO ACEPTAR, DENEGAR, REVOCAR EL CONSENTIMIENTO\nO ELIMINAR LAS COOKIES",
+      "theme": "default"
+    },
+    "64ade118-7a02-4851-99bb-189eb1082075": {
+      "@type": "slate",
+      "plaintext": "Cuando existan cookies de terceros, conforme a lo indicado m\u00e1s arriba, dichos terceros podr\u00e1n acceder a las cookies y utilizarlas en la forma antes descrita.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Cuando existan cookies de terceros, conforme a lo indicado m\u00e1s arriba, dichos terceros podr\u00e1n acceder a las cookies y utilizarlas en la forma antes descrita."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6b03e5a7-e2fb-429c-8538-4eb14c7db612": {
+      "@type": "slate",
+      "plaintext": "3.1. Informaci\u00f3n sobre transferencia de datos a terceros pa\u00edses.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "3.1. Informaci\u00f3n sobre transferencia de datos a terceros pa\u00edses."
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "77a62727-b7ed-4acb-a282-a35f97cf71be": {
+      "@type": "slate",
+      "plaintext": "Puede informarse de las transferencias a terceros pa\u00edses que, en su caso, realizan los terceros identificados en esta pol\u00edtica de cookies en sus correspondientes pol\u00edticas (ver los enlaces facilitados).",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Puede informarse de las transferencias a terceros pa\u00edses que, en su caso, realizan los terceros identificados en esta pol\u00edtica de cookies en sus correspondientes pol\u00edticas (ver los enlaces facilitados)."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7b862217-1df1-43ec-9001-2ad6755e9c5b": {
+      "@type": "slate",
+      "plaintext": "Podr\u00e1 elegir en cualquier momento qu\u00e9 cookies desea que funcionen en este Sitio Web.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Podr\u00e1 elegir en cualquier momento qu\u00e9 cookies desea que funcionen en este Sitio Web."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "7f8c05ed-04c4-4e03-a310-b97bb8d30a0e": {
+      "@type": "slate",
+      "plaintext": " Cookies de redes sociales externas : se utilizan para que los visitantes puedan interactuar con el contenido de diferentes plataformas sociales (Facebook, YouTube, Twitter, LinkedIn, etc..) y que se generen \u00fanicamente para los usuarios de dichas redes sociales. Las condiciones de utilizaci\u00f3n de estas cookies y la informaci\u00f3n recopilada se regulan por la pol\u00edtica de privacidad de la plataforma social correspondiente.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies de redes sociales externas"
+                        }
+                      ],
+                      "type": "em"
+                    },
+                    {
+                      "text": ": se utilizan para que los visitantes puedan interactuar con el contenido de diferentes plataformas sociales (Facebook, YouTube, Twitter, LinkedIn, etc..) y que se generen \u00fanicamente para los usuarios de dichas redes sociales. Las condiciones de utilizaci\u00f3n de estas cookies y la informaci\u00f3n recopilada se regulan por la pol\u00edtica de privacidad de la plataforma social correspondiente."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "8761f42a-76a7-464a-bb46-9402b07b9fd0": {
+      "@type": "heading",
+      "heading": "\n5.\nCONSENTIMIENTO",
+      "theme": "default"
+    },
+    "8b249368-9f27-4bb3-9c26-17f43cb49a50": {
+      "@type": "slate",
+      "plaintext": "En este caso podr\u00e1 seguir navegando, aunque el uso de algunos de los servicios podr\u00e1 ser limitado o bien no pueda acceder y por tanto su experiencia en nuestro Sitio Web resultar\u00e1 menos satisfactoria. Podr\u00e1 rechazarlas en cualquier momento.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En este caso podr\u00e1 seguir navegando, aunque el uso de algunos de los servicios podr\u00e1 ser limitado o bien no pueda acceder y por tanto su experiencia en nuestro Sitio Web resultar\u00e1 menos satisfactoria. Podr\u00e1 rechazarlas en cualquier momento."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "8f84f440-07f0-4573-b909-56110e6a3cb0": {
+      "@type": "slate",
+      "plaintext": "En el caso de que las cookies sean instaladas desde un equipo o dominio gestionado por el propio editor, pero la informaci\u00f3n que se recoja mediante \u00e9stas sea gestionada por un tercero, no pueden ser consideradas como cookies propias.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En el caso de que las cookies sean instaladas desde un equipo o dominio gestionado por el propio editor, pero la informaci\u00f3n que se recoja mediante \u00e9stas sea gestionada por un tercero, no pueden ser consideradas como cookies propias."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "986f5a04-abee-44c6-9d79-056b523826a3": {
+      "@type": "slate",
+      "plaintext": "Las cookies son instaladas durante la navegaci\u00f3n por Internet, bien por los sitios web que visita o bien por terceros con los que se relaciona el Sitio Web, y permiten, entre otras cosas, almacenar y recuperar informaci\u00f3n sobre sus h\u00e1bitos de navegaci\u00f3n o de su equipo y, dependiendo de la informaci\u00f3n que contengan y de la forma en que utilice su equipo, pueden utilizarse para reconocerle.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Las cookies son instaladas durante la navegaci\u00f3n por Internet, bien por los sitios web que visita o bien por terceros con los que se relaciona el Sitio Web, y permiten, entre otras cosas, almacenar y recuperar informaci\u00f3n sobre sus h\u00e1bitos de navegaci\u00f3n o de su equipo y, dependiendo de la informaci\u00f3n que contengan y de la forma en que utilice su equipo, pueden utilizarse para reconocerle."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9917aeb9-8d57-4ff6-be70-74ee3b4b39b5": {
+      "@type": "slate",
+      "plaintext": "En las condiciones previstas en el Reglamento General de Protecci\u00f3n de Datos, los interesados podr\u00e1n solicitar la limitaci\u00f3n del tratamiento de sus datos o su portabilidad, en cuyo caso \u00fanicamente los conservaremos para el ejercicio o la defensa de reclamaciones.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En las condiciones previstas en el Reglamento General de Protecci\u00f3n de Datos, los interesados podr\u00e1n solicitar la limitaci\u00f3n del tratamiento de sus datos o su portabilidad, en cuyo caso \u00fanicamente los conservaremos para el ejercicio o la defensa de reclamaciones."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ac1600fc-dfc3-4cba-b0a5-64bd797e2dac": {
+      "@type": "slate",
+      "plaintext": " CONFIGURAR : podr\u00e1 decidir para qu\u00e9 tipo de cookies consiente su instalaci\u00f3n y para cu\u00e1les no.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "CONFIGURAR"
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": ": podr\u00e1 decidir para qu\u00e9 tipo de cookies consiente su instalaci\u00f3n y para cu\u00e1les no."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "afb9f1d9-cf3c-4fdc-bf0c-32ac8db810f3": {
+      "@type": "slate",
+      "plaintext": "Cookies propias: aquellas que se env\u00edan al equipo terminal del usuario desde un equipo o dominio gestionado por el propio editor y desde el que se presta el servicio solicitado por el usuario. Cookies de terceros: aquellas que se env\u00edan al equipo terminal del usuario desde un equipo o dominio que no es gestionado por el editor, sino por otra entidad que trata los datos obtenidos trav\u00e9s de las cookies.",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Cookies propias: aquellas que se env\u00edan al equipo terminal del usuario desde un equipo o dominio gestionado por el propio editor y desde el que se presta el servicio solicitado por el usuario."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Cookies de terceros: aquellas que se env\u00edan al equipo terminal del usuario desde un equipo o dominio que no es gestionado por el editor, sino por otra entidad que trata los datos obtenidos trav\u00e9s de las cookies."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "b1143ba7-f99e-417b-8662-0bf0a4c9b1d8": {
+      "@type": "heading",
+      "alignment": "left",
+      "heading": "1.1. Tipos de cookies",
+      "styles": {},
+      "theme": "default"
+    },
+    "b177bff6-0404-458e-9065-4562785296ad": {
+      "@type": "slate",
+      "plaintext": "1.1.2. Cookies seg\u00fan entidad que las gestiona.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "1.1.2. Cookies seg\u00fan entidad que las gestiona."
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "b1b58d2a-4012-4a46-8b2c-219351fdcae5": {
+      "@type": "slate",
+      "plaintext": " POL\u00cdTICA DE COOKIES: enlaza a la presente pol\u00edtica de cookies donde le facilitamos toda la informaci\u00f3n necesaria, as\u00ed como modificar la configuraci\u00f3n de las cookies en su navegador o rechazar las que desee. En tal caso, solo se descargar\u00e1n las imprescindibles para navegar y que no pueden deshabilitarse.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "POL\u00cdTICA DE COOKIES: "
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": "enlaza a la presente pol\u00edtica de cookies donde le facilitamos toda la informaci\u00f3n necesaria, as\u00ed como modificar la configuraci\u00f3n de las cookies en su navegador o rechazar las que desee. En tal caso, solo se descargar\u00e1n las imprescindibles para navegar y que no pueden deshabilitarse."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b308a64d-a608-47be-9e9b-d13e06f5a0a9": {
+      "@type": "slate",
+      "plaintext": "Adem\u00e1s, tambi\u00e9n puede gestionar el almac\u00e9n de cookies en su navegador a trav\u00e9s de herramientas como las siguientes:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Adem\u00e1s, tambi\u00e9n puede gestionar el almac\u00e9n de cookies en su navegador a trav\u00e9s de herramientas como las siguientes:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b8d5970d-6f5e-4fa8-a5b5-178884ae8fdf": {
+      "@type": "slate",
+      "plaintext": "Seg\u00fan dispone la normativa vigente, cualquier persona tiene derecho a obtener confirmaci\u00f3n sobre si se est\u00e1n tratando datos personales que le conciernan, o no. Asimismo, en las condiciones legalmente previstas, las personas interesadas tienen derecho a acceder a sus datos, as\u00ed como a solicitar la rectificaci\u00f3n de los datos inexactos o, en su caso, solicitar su supresi\u00f3n cuando, entre otros motivos, los datos ya no sean necesarios para los fines para los que fueron recogidos. En el caso de las cookies estos derechos pueden ejercerse con sujeci\u00f3n a las limitaciones derivadas de la naturaleza de estos ficheros.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Seg\u00fan dispone la normativa vigente, cualquier persona tiene derecho a obtener confirmaci\u00f3n sobre si se est\u00e1n tratando datos personales que le conciernan, o no. Asimismo, en las condiciones legalmente previstas, las personas interesadas tienen derecho a acceder a sus datos, as\u00ed como a solicitar la rectificaci\u00f3n de los datos inexactos o, en su caso, solicitar su supresi\u00f3n cuando, entre otros motivos, los datos ya no sean necesarios para los fines para los que fueron recogidos. En el caso de las cookies estos derechos pueden ejercerse con sujeci\u00f3n a las limitaciones derivadas de la naturaleza de estos ficheros."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ba36d808-0490-46f8-a2d7-6781159d8530": {
+      "@type": "slate",
+      "plaintext": "1.1.4. Cookies seg\u00fan su finalidad.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "1.1.4. Cookies seg\u00fan su finalidad."
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "c2c9f16c-b26a-4977-86cb-3d17e0927dfe": {
+      "@type": "slate",
+      "plaintext": " Cookies de preferencias o de personalizaci\u00f3n : son aquellas que permiten recordar informaci\u00f3n para que el usuario acceda al servicio con determinadas caracter\u00edsticas que pueden diferenciar su experiencia de la de otros usuarios, como, por ejemplo, el idioma, el n\u00famero de resultados a mostrar cuando el usuario realiza una b\u00fasqueda, el aspecto o contenido del servicio en funci\u00f3n del tipo de navegador a trav\u00e9s del cual el usuario accede al servicio o de la regi\u00f3n desde la que accede al servicio, etc.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies de preferencias o de personalizaci\u00f3n"
+                        }
+                      ],
+                      "type": "i"
+                    },
+                    {
+                      "text": ": son aquellas que permiten recordar informaci\u00f3n para que el usuario acceda al servicio con determinadas caracter\u00edsticas que pueden diferenciar su experiencia de la de otros usuarios, como, por ejemplo, el idioma, el n\u00famero de resultados a mostrar cuando el usuario realiza una b\u00fasqueda, el aspecto o contenido del servicio en funci\u00f3n del tipo de navegador a trav\u00e9s del cual el usuario accede al servicio o de la regi\u00f3n desde la que accede al servicio, etc."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "c9ff99fa-d802-4188-abb9-1b851cf39dcc": {
+      "@type": "slate",
+      "plaintext": "\u00bfCU\u00c1LES SON SUS DERECHOS EN RELACI\u00d3N CON EL USO DE COOKIES?",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "\u00bfCU\u00c1LES SON SUS DERECHOS EN RELACI\u00d3N CON EL USO DE COOKIES?"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "ccbf4b6d-b90b-4abc-925a-e1d41dd68c19": {
+      "@type": "slate",
+      "plaintext": "En el caso de las cookies t\u00e9cnicas, es decir, aquellas que resultan imprescindibles para navegar por este sitio web y recibir el servicio ofrecido a trav\u00e9s de ella, la base legal de su uso es el acuerdo a trav\u00e9s del cual usted decide utilizar esta p\u00e1gina web y utilizar sus servicios.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En el caso de las cookies t\u00e9cnicas, es decir, aquellas que resultan imprescindibles para navegar por este sitio web y recibir el servicio ofrecido a trav\u00e9s de ella, la base legal de su uso es el acuerdo a trav\u00e9s del cual usted decide utilizar esta p\u00e1gina web y utilizar sus servicios."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d0f224ed-3aba-4cce-ac68-130f5631c304": {
+      "@type": "slate",
+      "plaintext": "Existe tambi\u00e9n una segunda clasificaci\u00f3n seg\u00fan el plazo de tiempo que permanecen activadas en el equipo terminal, pudiendo tratarse de:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Existe tambi\u00e9n una segunda clasificaci\u00f3n seg\u00fan el plazo de tiempo que permanecen activadas en el equipo terminal, pudiendo tratarse de:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d2edadf0-7507-41e8-896b-fe69fb3964a5": {
+      "@type": "slate",
+      "plaintext": "En los siguientes enlaces tiene a su disposici\u00f3n toda la informaci\u00f3n para configurar o deshabilitar las cookies en cada navegador:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En los siguientes enlaces tiene a su disposici\u00f3n toda la informaci\u00f3n para configurar o deshabilitar las cookies en cada navegador:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d84aad05-eae0-4e84-8d3d-f156cc018ba7": {
+      "@type": "slate",
+      "plaintext": "La presente Pol\u00edtica de Cookies tiene por finalidad informarle de manera clara y precisa sobre las cookies que existen en el Sitio Web.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "La presente Pol\u00edtica de Cookies tiene por finalidad informarle de manera clara y precisa sobre las cookies que existen en el Sitio Web."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "da5ec1e0-7b3a-414b-8d37-ddfa5942858b": {
+      "@type": "slate",
+      "plaintext": "  Internet Explorer     Microsoft Edge     Firefox     Chrome     Safari  ",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Internet Explorer "
+                            }
+                          ],
+                          "data": {
+                            "url": "https://support.microsoft.com/es-es/topic/eliminar-y-administrar-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-11"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Microsoft Edge "
+                            }
+                          ],
+                          "data": {
+                            "url": "https://support.microsoft.com/es-es/windows/microsoft-edge-datos-de-exploraci%C3%B3n-y-privacidad-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Firefox "
+                            }
+                          ],
+                          "data": {
+                            "url": "https://support.mozilla.org/es/kb/Borrar%20cookies"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Chrome"
+                            }
+                          ],
+                          "data": {
+                            "url": "https://support.google.com/chrome/answer/95647?hl=es"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Safari"
+                            }
+                          ],
+                          "data": {
+                            "url": "https://support.apple.com/es-es/guide/safari/sfri11471/mac"
+                          },
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "u"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "db380f24-6367-495b-824a-a0c9460d533e": {
+      "@type": "slate",
+      "plaintext": "1.1.3. Cookies seg\u00fan el plazo de tiempo que permanecen activadas.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "1.1.3. Cookies seg\u00fan el plazo de tiempo que permanecen activadas."
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "dd16c291-5810-442e-b164-73dad6381fcb": {
+      "@type": "heading",
+      "heading": "\n1. \u00bfQU\u00c9\nSON LAS COOKIES? DEFINICI\u00d3N Y FUNCI\u00d3N GEN\u00c9RICA DE LAS COOKIES",
+      "styles": {},
+      "theme": "default"
+    },
+    "dd554978-0898-4af5-b7b8-050ce606465f": {
+      "@type": "slate",
+      "plaintext": "Frente a cualquier vulneraci\u00f3n de sus derechos, especialmente cuando usted no haya obtenido satisfacci\u00f3n en su ejercicio, puede presentar una reclamaci\u00f3n ante la Agencia Espa\u00f1ola de Protecci\u00f3n de Datos (datos de contacto accesibles en  www.aepd.es  ), u otra autoridad de control competente. Tambi\u00e9n puede obtener m\u00e1s informaci\u00f3n sobre los derechos que le asisten dirigi\u00e9ndose a dichos organismos.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Frente a cualquier vulneraci\u00f3n de sus derechos, especialmente cuando usted no haya obtenido satisfacci\u00f3n en su ejercicio, puede presentar una reclamaci\u00f3n ante la Agencia Espa\u00f1ola de Protecci\u00f3n de Datos (datos de contacto accesibles en "
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "www.aepd.es"
+                    }
+                  ],
+                  "data": {
+                    "url": "http://www.aepd.es/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "u"
+            },
+            {
+              "text": "), u otra autoridad de control competente. Tambi\u00e9n puede obtener m\u00e1s informaci\u00f3n sobre los derechos que le asisten dirigi\u00e9ndose a dichos organismos."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "df8ab4d4-1b37-46db-8513-e3c771405f0f": {
+      "@type": "slate",
+      "plaintext": " Cookies de sesi\u00f3n : son aquellas dise\u00f1adas para recabar y almacenar datos mientras el usuario accede a una p\u00e1gina web. Se suelen emplear para almacenar informaci\u00f3n que solo interesa conservar para la prestaci\u00f3n del servicio solicitado por el usuario en una sola ocasi\u00f3n (por ejemplo, una lista de productos adquiridos) y desaparecen al terminar la sesi\u00f3n.  Cookies persistentes : son aquellas en las que los datos siguen almacenados en el terminal y pueden ser accedidos y tratados durante un periodo definido por el responsable de la cookie, y que puede ir de unos minutos a varios a\u00f1os.",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies de sesi\u00f3n"
+                        }
+                      ],
+                      "type": "i"
+                    },
+                    {
+                      "text": ": son aquellas dise\u00f1adas para recabar y almacenar datos mientras el usuario accede a una p\u00e1gina web. Se suelen emplear para almacenar informaci\u00f3n que solo interesa conservar para la prestaci\u00f3n del servicio solicitado por el usuario en una sola ocasi\u00f3n (por ejemplo, una lista de productos adquiridos) y desaparecen al terminar la sesi\u00f3n."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies persistentes"
+                        }
+                      ],
+                      "type": "i"
+                    },
+                    {
+                      "text": ": son aquellas en las que los datos siguen almacenados en el terminal y pueden ser accedidos y tratados durante un periodo definido por el responsable de la cookie, y que puede ir de unos minutos a varios a\u00f1os."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "e307609a-dabb-4dbb-8c0c-0ebdfd360540": {
+      "@type": "slate",
+      "plaintext": " Cookies publicitarias : permiten la gesti\u00f3n, de la forma m\u00e1s eficaz posible, de los espacios publicitarios.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cookies publicitarias"
+                        }
+                      ],
+                      "type": "em"
+                    },
+                    {
+                      "text": ": permiten la gesti\u00f3n, de la forma m\u00e1s eficaz posible, de los espacios publicitarios."
+                    }
+                  ],
+                  "type": "p"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "e65913be-7661-4620-8ae8-153313be5f8d": {
+      "@type": "slate",
+      "plaintext": "Este Sitio Web  https://imd.sevilla.org/    utiliza cookies y/o tecnolog\u00edas similares que almacenan y recuperan informaci\u00f3n cuando navega. En general, estas tecnolog\u00edas pueden servir para finalidades muy diversas, como, por ejemplo, reconocerle como usuario, obtener informaci\u00f3n sobre sus h\u00e1bitos de navegaci\u00f3n, o personalizar la forma en que se muestra el contenido. Los usos concretos que se hacen de estas tecnolog\u00edas se describen a continuaci\u00f3n.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Este Sitio Web "
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://imd.sevilla.org/"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://imd.sevilla.org/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "u"
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": "utiliza cookies y/o tecnolog\u00edas similares que almacenan y recuperan informaci\u00f3n cuando navega. En general, estas tecnolog\u00edas pueden servir para finalidades muy diversas, como, por ejemplo, reconocerle como usuario, obtener informaci\u00f3n sobre sus h\u00e1bitos de navegaci\u00f3n, o personalizar la forma en que se muestra el contenido. Los usos concretos que se hacen de estas tecnolog\u00edas se describen a continuaci\u00f3n."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "edfe3bd0-4be2-41aa-8887-6da8b17f797b": {
+      "@type": "slate",
+      "plaintext": "El titular de la web y responsable del tratamiento de las cookies aqu\u00ed utilizadas, as\u00ed como sus datos de contacto, son accesibles en nuestro AVISO LEGAL de esta p\u00e1gina. Asimismo, pueden existir cookies de terceros distintos del titular de esta web, como se explica m\u00e1s arriba.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "El titular de la web y responsable del tratamiento de las cookies aqu\u00ed utilizadas, as\u00ed como sus datos de contacto, son accesibles en nuestro AVISO LEGAL de esta p\u00e1gina. Asimismo, pueden existir cookies de terceros distintos del titular de esta web, como se explica m\u00e1s arriba."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f120e348-97f5-4af5-9b4b-7da12c5da835": {
+      "@type": "slate",
+      "plaintext": " RECHAZAR: se rechazar\u00e1n todas las cookies salvo las imprescindibles para navegar y que no pueden deshabilitarse. No se volver\u00e1 a visualizar el aviso durante la presente sesi\u00f3n en el navegador",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "RECHAZAR: "
+                }
+              ],
+              "type": "b"
+            },
+            {
+              "text": "se rechazar\u00e1n todas las cookies salvo las imprescindibles para navegar y que no pueden deshabilitarse. No se volver\u00e1 a visualizar el aviso durante la presente sesi\u00f3n en el navegador"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f491079b-f36a-4054-82a1-6ac037f2077b": {
+      "@type": "slate",
+      "plaintext": "Ante esta informaci\u00f3n es posible llevar a cabo las siguientes acciones:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Ante esta informaci\u00f3n es posible llevar a cabo las siguientes acciones:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "f5e9e672-5ee4-4eb1-ac84-b00b10e37272": {
+      "@type": "slate",
+      "plaintext": "Existe un complemento de inhabilitaci\u00f3n de las cookies de Google Analytics para los navegadores m\u00e1s habituales (Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari y Opera) que facilita la exclusi\u00f3n de la instalaci\u00f3n de estas cookies.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Existe un complemento de inhabilitaci\u00f3n de las cookies de Google Analytics para los navegadores m\u00e1s habituales (Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari y Opera) que facilita la exclusi\u00f3n de la instalaci\u00f3n de estas cookies."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fd46bcc9-bb77-4c69-a421-23db2c22386b": {
+      "@type": "slate",
+      "plaintext": "En determinadas circunstancias y por motivos relacionados con su situaci\u00f3n particular, los interesados podr\u00e1n oponerse al tratamiento de sus datos. Si usted ha otorgado el consentimiento para alguna finalidad espec\u00edfica, tiene derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada. En estos supuestos dejaremos de tratar los datos o, en su caso, dejaremos de hacerlo para esa finalidad en concreto, salvo por motivos leg\u00edtimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "En determinadas circunstancias y por motivos relacionados con su situaci\u00f3n particular, los interesados podr\u00e1n oponerse al tratamiento de sus datos. Si usted ha otorgado el consentimiento para alguna finalidad espec\u00edfica, tiene derecho a retirarlo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada. En estos supuestos dejaremos de tratar los datos o, en su caso, dejaremos de hacerlo para esa finalidad en concreto, salvo por motivos leg\u00edtimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "4c1e9001-ed57-4238-8162-7d76ff40ec2d",
+      "3aeb9e82-7eef-4eb0-a2d8-5e26500d03b2",
+      "e65913be-7661-4620-8ae8-153313be5f8d",
+      "d84aad05-eae0-4e84-8d3d-f156cc018ba7",
+      "dd16c291-5810-442e-b164-73dad6381fcb",
+      "288e163b-08e5-4b8a-a93c-6a0faf6cd333",
+      "986f5a04-abee-44c6-9d79-056b523826a3",
+      "b1143ba7-f99e-417b-8662-0bf0a4c9b1d8",
+      "b177bff6-0404-458e-9065-4562785296ad",
+      "52d4e9bf-8bd5-4bb9-a1a8-ccba1e9e7a25",
+      "afb9f1d9-cf3c-4fdc-bf0c-32ac8db810f3",
+      "8f84f440-07f0-4573-b909-56110e6a3cb0",
+      "db380f24-6367-495b-824a-a0c9460d533e",
+      "d0f224ed-3aba-4cce-ac68-130f5631c304",
+      "df8ab4d4-1b37-46db-8513-e3c771405f0f",
+      "ba36d808-0490-46f8-a2d7-6781159d8530",
+      "14495e60-4026-4f13-b3a4-bd4f04a5b7dc",
+      "55c8f8c7-2385-403e-9d38-6c5d9a82f549",
+      "c2c9f16c-b26a-4977-86cb-3d17e0927dfe",
+      "58232ca6-c513-498a-b078-7c72de8718cf",
+      "e307609a-dabb-4dbb-8c0c-0ebdfd360540",
+      "084f0744-b0fe-47a8-a103-1fc858a4f70d",
+      "7f8c05ed-04c4-4e03-a310-b97bb8d30a0e",
+      "500dcf65-81df-45bc-9459-6560046c1ab0",
+      "091e9cab-e531-48b4-9485-d1969edb64ef",
+      "4e07b681-06a9-40e8-8bae-bb55a5283db4",
+      "59069b13-34a9-4f0c-801c-212fe8ee003e",
+      "3632cb72-b6f9-4033-b653-c594f1c3d5cf",
+      "7b862217-1df1-43ec-9001-2ad6755e9c5b",
+      "d2edadf0-7507-41e8-896b-fe69fb3964a5",
+      "da5ec1e0-7b3a-414b-8d37-ddfa5942858b",
+      "f5e9e672-5ee4-4eb1-ac84-b00b10e37272",
+      "02ff1df0-f9d5-4e08-b79d-a9b93a8d6da4",
+      "b308a64d-a608-47be-9e9b-d13e06f5a0a9",
+      "1bdea686-fa41-45fa-837e-648f95afd07c",
+      "6b03e5a7-e2fb-429c-8538-4eb14c7db612",
+      "77a62727-b7ed-4acb-a282-a35f97cf71be",
+      "408ec215-3020-4e43-a02b-d3dcc93966ec",
+      "8b249368-9f27-4bb3-9c26-17f43cb49a50",
+      "8761f42a-76a7-464a-bb46-9402b07b9fd0",
+      "f491079b-f36a-4054-82a1-6ac037f2077b",
+      "b1b58d2a-4012-4a46-8b2c-219351fdcae5",
+      "450d764b-37ea-4bff-989b-94edc3106f21",
+      "f120e348-97f5-4af5-9b4b-7da12c5da835",
+      "ac1600fc-dfc3-4cba-b0a5-64bd797e2dac",
+      "4b0a3c92-2227-49ba-afab-466b8caa8d29",
+      "edfe3bd0-4be2-41aa-8887-6da8b17f797b",
+      "4ab3ceec-7f7f-4e12-bbba-277f5edab6fa",
+      "ccbf4b6d-b90b-4abc-925a-e1d41dd68c19",
+      "44bed00a-0c30-4efe-ba2f-455558af0f9a",
+      "07a89898-6a08-4793-9bf2-209e934331d2",
+      "64ade118-7a02-4851-99bb-189eb1082075",
+      "c9ff99fa-d802-4188-abb9-1b851cf39dcc",
+      "b8d5970d-6f5e-4fa8-a5b5-178884ae8fdf",
+      "9917aeb9-8d57-4ff6-be70-74ee3b4b39b5",
+      "fd46bcc9-bb77-4c69-a421-23db2c22386b",
+      "dd554978-0898-4af5-b7b8-050ce606465f",
+      "0000ca00-8f1f-4308-8bdd-876bee9204b4"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-09T16:30:12+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Pol\u00edtica de cookies",
+  "effective": "2025-07-09T20:05:42+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "politica-de-cookies",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-09T20:05:42+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Pol\u00edtica de cookies",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-09T16:30:12+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-09T20:05:42+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}
