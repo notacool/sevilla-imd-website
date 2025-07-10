@@ -9,6 +9,7 @@
       <element>Folder</element>
       <element>Collection</element>
       <element>District</element>
+      <element>SportsCenter</element>
       <element>Link</element>
       <element>Event</element>
       <element>Document</element>
