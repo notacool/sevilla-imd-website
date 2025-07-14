@@ -1,0 +1,1 @@
+Added the '@eeacms/volto-accordion-block' block for the frontend #26 [macagua]
