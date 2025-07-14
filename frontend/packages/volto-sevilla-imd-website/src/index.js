@@ -1,8 +1,7 @@
-const applyConfig = (config) => {
-  config.settings.isMultilingual = false;
-  config.settings.supportedLanguages = ['es'];
-  config.settings.defaultLanguage = 'es';
+import installSettings from 'volto-sevilla-imd-website/config/settings';
 
+const applyConfig = (config) => {
+  installSettings(config);
   return config;
 };
 
