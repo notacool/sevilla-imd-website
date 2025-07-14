@@ -1,0 +1,798 @@
+{
+  "@id": "/registro-de-actividades-de-tratamiento/tratamiento-canal-de-denuncias",
+  "@type": "Document",
+  "UID": "6a148d0e99084b738cae51b83b002af0",
+  "allow_discussion": null,
+  "blocks": {
+    "279febb6-97cf-459e-b3ff-7e1d86b80cc5": {
+      "@type": "slateTable",
+      "styles": {},
+      "table": {
+        "basic": false,
+        "celled": true,
+        "compact": false,
+        "fixed": true,
+        "hideHeaders": false,
+        "inverted": false,
+        "rows": [
+          {
+            "cells": [
+              {
+                "key": "dbfe4",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Responsable"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "6at24",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "al8kj"
+          },
+          {
+            "cells": [
+              {
+                "key": "6taq1",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Organismo Aut\u00f3nomo"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "7eaka",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "7prrh"
+          },
+          {
+            "cells": [
+              {
+                "key": "1ject",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Delegado de Protecci\u00f3n de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "8b0jk",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "daath"
+          },
+          {
+            "cells": [
+              {
+                "key": "49qt5",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Denominaci\u00f3n del Tratamiento"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "7vr9d",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Canal de denuncias del Instituto Municipal de Deportes"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "btkej"
+          },
+          {
+            "cells": [
+              {
+                "key": "3jl29",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Finalidad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "78v8m",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Registro y gesti\u00f3n de las denuncias presentadas a trav\u00e9s del sistema interno de informaci\u00f3n del Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "7nten"
+          },
+          {
+            "cells": [
+              {
+                "key": "2o1cf",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Legitimaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "f6sqa",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "El tratamiento es necesario para el cumplimiento de una obligaci\u00f3n legal aplicable al responsable del tratamiento y para el cumplimiento de una misi\u00f3n realizada en inter\u00e9s p\u00fablico o en el ejercicio de poderes p\u00fablicos conferidos al responsable del tratamiento"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "ci8fe"
+          },
+          {
+            "cells": [
+              {
+                "key": "9tanj",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Destinatarios"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "258kg",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "\u00d3rganos Judiciales, Interesados Leg\u00edtimos, Oficina Andaluza contra el fraude y la corrupci\u00f3n"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "8sbiu"
+          },
+          {
+            "cells": [
+              {
+                "key": "51ni9",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Interesados"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "b5t8c",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Empleados/as, ciudadanos/as y personas residentes, proveedores, informantes y cargos p\u00fablicos"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "a78l7"
+          },
+          {
+            "cells": [
+              {
+                "key": "5feq8",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Datos Personales"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "34lfo",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "En caso de que la denuncia sea identificada: \r"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Datos de car\u00e1cter identificativo:\u00a0DNI/NIF, nombre y apellidos, direcci\u00f3n postal, direcci\u00f3n electr\u00f3nica, tel\u00e9fono"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "2od8h"
+          },
+          {
+            "cells": [
+              {
+                "key": "9mofk",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Transferencia Internacional de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "37nde",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "No"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "dobrr"
+          },
+          {
+            "cells": [
+              {
+                "key": "5ni6b",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Plazo de Conservaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "533e4",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Se conservar\u00e1n durante el tiempo necesario para cumplir con la finalidad para la que se recabaron y para determinar las posibles responsabilidades que se pudieran derivar de dicha finalidad y del tratamiento de los datos"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "2c7h6"
+          },
+          {
+            "cells": [
+              {
+                "key": "dp5e4",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Medidas de Seguridad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "atq45",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Las medidas de seguridad implantadas se alinean con las previstas en el anexo II (medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad en el \u00e1mbito de la Administraci\u00f3n Electr\u00f3nica"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "enqmm"
+          },
+          {
+            "cells": [
+              {
+                "key": "c7r29",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Derechos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "5ocfn",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Derechos de acceso, rectificaci\u00f3n, supresi\u00f3n, portabilidad de sus datos y limitaci\u00f3n del tratamiento de estos datos, derecho de oposici\u00f3n y a no ser objeto de una decisi\u00f3n basada \u00fanicamente en el tratamiento automatizado de sus datos, incluida la elaboraci\u00f3n de perfiles. En el caso de que el consentimiento sea la base legitimadora del tratamiento tendr\u00e1 derecho a retirarlo en cualquier momento."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "40das"
+          },
+          {
+            "cells": [
+              {
+                "key": "4cc8l",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Informaci\u00f3n Adicional"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "3kigv",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercitar estos derechos mediante escrito dirigido al Instituto Municipal de Deportes del Ayuntamiento de Sevilla y que deber\u00e1 presentarse a trav\u00e9s de la direcci\u00f3n de correo electr\u00f3nico "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": " o bien a trav\u00e9s de cualquiera de las sedes administrativas que pueden ser consultadas en la p\u00e1gina:"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "https://imd.sevilla.org/el-imd/sedes-administrativas "
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "\r"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercer su derecho a reclamar ante el Consejo de Transparencia y Protecci\u00f3n de Datos de Andaluc\u00eda c/Conde de Ibarra, 18 - 41004 Sevilla."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "cgbsh"
+          }
+        ],
+        "striped": true
+      },
+      "theme": "default"
+    },
+    "bf19aa73-b139-4c89-ac52-5a2861f41baf": {
+      "@type": "title"
+    },
+    "fe5f61f7-ccbc-4b7a-b4a6-5d26d0c07ccd": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "bf19aa73-b139-4c89-ac52-5a2861f41baf",
+      "279febb6-97cf-459e-b3ff-7e1d86b80cc5",
+      "fe5f61f7-ccbc-4b7a-b4a6-5d26d0c07ccd"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-14T12:09:20+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Tratamiento canal de denuncias",
+  "effective": "2025-07-14T12:10:35+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tratamiento-canal-de-denuncias",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-14T19:38:27+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Tratamiento canal de denuncias",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-14T12:09:20+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-14T12:10:35+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

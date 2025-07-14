@@ -1,0 +1,774 @@
+{
+  "@id": "/registro-de-actividades-de-tratamiento/tratamiento-seleccion-de-personal-y-rrhh-del-imd",
+  "@type": "Document",
+  "UID": "28eb285d3e8045679d2868cba60b2c77",
+  "allow_discussion": null,
+  "blocks": {
+    "92e8057a-7c5f-4e86-ba2f-2f4742652916": {
+      "@type": "slate"
+    },
+    "b7645204-bb52-4e84-893a-8905148455fb": {
+      "@type": "title"
+    },
+    "bbdc026c-55ba-4485-8b5d-6739db8372c8": {
+      "@type": "slateTable",
+      "styles": {},
+      "table": {
+        "basic": false,
+        "celled": true,
+        "compact": false,
+        "fixed": true,
+        "hideHeaders": false,
+        "inverted": false,
+        "rows": [
+          {
+            "cells": [
+              {
+                "key": "b30f8",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Responsable"
+                          }
+                        ],
+                        "type": "b"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "6kug3",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "6e380"
+          },
+          {
+            "cells": [
+              {
+                "key": "al3m7",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Organismo Aut\u00f3nomo"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "ea4o8",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "40k19"
+          },
+          {
+            "cells": [
+              {
+                "key": "9u961",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Delegado de Protecci\u00f3n de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "4d2b0",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "bm9p2"
+          },
+          {
+            "cells": [
+              {
+                "key": "4g0oj",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Denominaci\u00f3n del Tratamiento"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "8r332",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Selecci\u00f3n de personal y RRHH"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "78fqn"
+          },
+          {
+            "cells": [
+              {
+                "key": "69k0j",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Finalidad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "f5f32",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Gesti\u00f3n propia de los empleados o potenciales empleados desde la tramitaci\u00f3n de los procedimientos administrativos relacionados con la selecci\u00f3n del personal laboral y bolsas de empleo, y se contratan, hasta que cesan su actividad. Gesti\u00f3n de los expedientes laborales, n\u00f3minas y acci\u00f3n social del personal. Prevenci\u00f3n de riesgos laborales. Gesti\u00f3n de programas de formaci\u00f3n. Programas de alumnos en pr\u00e1cticas y/o becarios. Solicitud de: permisos y/o vacaciones; cambio de descanso; cambio turnos/jornadas; compensaciones; indemnizaci\u00f3n; desplazamientos; licencias; reclamaci\u00f3n y/o consultas; ayuda escolar;"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "a2oj8"
+          },
+          {
+            "cells": [
+              {
+                "key": "80q5o",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Legitimaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "2lmua",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "El tratamiento es necesario para el cumplimiento de una obligaci\u00f3n legal aplicable al responsable del tratamiento, la ejecuci\u00f3n de un contrato"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "d3kt9"
+          },
+          {
+            "cells": [
+              {
+                "key": "1lh8b",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Destinatarios"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "4kr7t",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Administraci\u00f3n p\u00fablica con competencia en la materia, encargados del tratamiento, entidades bancarias"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "887aa"
+          },
+          {
+            "cells": [
+              {
+                "key": "e0tcc",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Interesados"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "584fc",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Empleados/as, candidatos"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "f2nc7"
+          },
+          {
+            "cells": [
+              {
+                "key": "331lh",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Datos Personales"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "6dti",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "DNI/NIF, nombre y apellidos, direcci\u00f3n postal, direcci\u00f3n electr\u00f3nica, tel\u00e9fono, firma electr\u00f3nica, n\u00famero de seguridad social/mutualidad, imagen, caracter\u00edsticas personales, datos acad\u00e9micos y profesionales, detalles de empleo, econ\u00f3micos financieros y de seguro, datos de salud relativos a discapacidad o minusval\u00edas, datos de registro central de delincuentes sexuales"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "37pmc"
+          },
+          {
+            "cells": [
+              {
+                "key": "ajft7",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Transferencia Internacional de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "ceaum",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "No"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "409d4"
+          },
+          {
+            "cells": [
+              {
+                "key": "1pddv",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Plazo de Conservaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "3siif",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Se conservar\u00e1n durante el tiempo necesario para cumplir con la finalidad para la que se recabaron y para determinar las posibles responsabilidades que se pudieran derivar de dicha finalidad y del tratamiento de los datos."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "bapkl"
+          },
+          {
+            "cells": [
+              {
+                "key": "2cocm",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Medidas de Seguridad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "6u82e",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Las medidas de seguridad implantadas se corresponden con las previstas en el anexo II (medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad en el \u00e1mbito de la Administraci\u00f3n Electr\u00f3nica."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "28t0"
+          },
+          {
+            "cells": [
+              {
+                "key": "72ljm",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Derechos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "7tb94",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Derechos de acceso, rectificaci\u00f3n, supresi\u00f3n, portabilidad de sus datos y limitaci\u00f3n del tratamiento de estos datos, derecho de oposici\u00f3n y a no ser objeto de una decisi\u00f3n basada \u00fanicamente en el tratamiento automatizado de sus datos, incluida la elaboraci\u00f3n de perfiles. En el caso de que el consentimiento sea la base legitimadora del tratamiento tendr\u00e1 derecho a retirarlo en cualquier momento."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "2psfn"
+          },
+          {
+            "cells": [
+              {
+                "key": "dtuhe",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Informaci\u00f3n Adicional"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "6kh8a",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercitar estos derechos mediante escrito dirigido al Instituto Municipal de Deportes del Ayuntamiento de Sevilla y que deber\u00e1 presentarse a trav\u00e9s de la direcci\u00f3n de correo electr\u00f3nico "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": " o bien a trav\u00e9s de cualquiera de las sedes administrativas que pueden ser consultadas en la p\u00e1gina:"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "https://imd.sevilla.org/el-imd/sedes-administrativas \r"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercer su derecho a reclamar ante el Consejo de Transparencia y Protecci\u00f3n de Datos de Andaluc\u00eda c/Conde de Ibarra, 18 - 41004 Sevilla."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "8rc8m"
+          }
+        ],
+        "striped": true
+      },
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "b7645204-bb52-4e84-893a-8905148455fb",
+      "bbdc026c-55ba-4485-8b5d-6739db8372c8",
+      "92e8057a-7c5f-4e86-ba2f-2f4742652916"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-14T18:47:05+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Tratamiento Selecci\u00f3n de personal y RRHH del IMD",
+  "effective": "2025-07-14T19:38:45+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tratamiento-seleccion-de-personal-y-rrhh-del-imd",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-14T19:38:45+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Tratamiento Selecci\u00f3n de personal y RRHH del IMD",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-14T18:47:05+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-14T19:38:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

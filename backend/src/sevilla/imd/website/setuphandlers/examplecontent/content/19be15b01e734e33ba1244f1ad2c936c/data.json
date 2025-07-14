@@ -1,0 +1,2249 @@
+{
+  "@id": "/registro-de-actividades-de-tratamiento",
+  "@type": "Document",
+  "UID": "19be15b01e734e33ba1244f1ad2c936c",
+  "allow_discussion": null,
+  "blocks": {
+    "88b9bc9d-03ce-41f1-81c9-816a23b3121d": {
+      "@type": "title"
+    },
+    "ad077355-d30c-45ed-8203-ddfc339632e6": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "bee84e6e-2d0f-4347-8bfe-b1fd77c25430": {
+      "@type": "accordion",
+      "collapsed": false,
+      "data": {
+        "blocks": {
+          "078bf159-3a0b-4cae-b643-68865f84a56e": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "686fba2d-636e-4a39-813d-5a570a3dc2d0": {
+                "@type": "slate"
+              },
+              "bb545b24-bf54-415e-a8c3-e83f5b0e6491": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "46360",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "72le7",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2suv2",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "vapa",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "4o0r",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Intervenci\u00f3n"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9fa00",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Supervisar y controlar las operaciones financieras de una organizaci\u00f3n. Garantizar la legalidad, la eficiencia y la transparencia en la gesti\u00f3n econ\u00f3mica de la entidad."
+                                }
+                              ],
+                              "type": "p"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Supervisar el trabajo de todo el departamento financiero"
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Realizar auditor\u00edas sobre los gastos y balances"
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Controlar el cumplimiento de los plazos de pago a proveedores"
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Elaborar planes y presupuestos de tesorer\u00eda"
+                                    }
+                                  ],
+                                  "type": "li"
+                                }
+                              ],
+                              "type": "ul"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/fe8e893cceaa4cb3b054b21bbc52671d"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "bb545b24-bf54-415e-a8c3-e83f5b0e6491",
+                "686fba2d-636e-4a39-813d-5a570a3dc2d0"
+              ]
+            },
+            "title": "Tratamiento Intervenci\u00f3n"
+          },
+          "5893b99d-c4b7-442c-850b-90fcfd073003": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "d2ff6d9f-0caf-499d-8a9e-231255444896": {
+                "@type": "slate"
+              },
+              "fdd00d92-2816-4478-8456-1766287602bd": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "82923",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9t5rh",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "7o2c5",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "5vrn5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "664fh",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Subvenciones y ayudas"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "5pn09",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Tratamos sus datos para gestionar y justificar la ayuda econ\u00f3mica concedida a trav\u00e9s de subvenciones por medio de cuenta justificativa, declaraci\u00f3n responsable, relaci\u00f3n de facturas y memoria de actividades realizadas"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/9b1459f1eaf74267998308f2c5abe108"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "fdd00d92-2816-4478-8456-1766287602bd",
+                "d2ff6d9f-0caf-499d-8a9e-231255444896"
+              ]
+            },
+            "title": "Tratamiento Subvenciones y ayudas"
+          },
+          "635ee369-e1e0-480a-a880-d8651ed13e11": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "c84d53cb-6c0d-418c-9ebc-f185f0033beb": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "114nq",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "g38e",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "794ku",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "5sg58",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2j262",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "b2bct",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Videovigilancia"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Captaci\u00f3n, grabaci\u00f3n y visualizaci\u00f3n de im\u00e1genes para garantizar la seguridad de las personas, bienes y todas las instalaciones del IMD, as\u00ed como la investigaci\u00f3n de cualquier incidente ocurrido en el IMD"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/61348977f84641d482fd5fd3c777e3fa"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "c84d53cb-6c0d-418c-9ebc-f185f0033beb"
+              ]
+            },
+            "title": "Tratamiento Videovigilancia"
+          },
+          "9745df80-a0da-41ab-b88f-fa02a1dac419": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "0737f229-23f6-4bcd-abaf-bf8a5d83e7d4": {
+                "@type": "slate"
+              },
+              "94e1d9da-0a95-4871-a6dd-e96145962dea": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "35bs8",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9hm5o",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9dne",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "8fvp9",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "dtu5v",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "dgoa2",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Canal de denuncias del Instituto Municipal de Deportes"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Registro y gesti\u00f3n de las denuncias presentadas a trav\u00e9s del sistema interno de informaci\u00f3n del Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/6a148d0e99084b738cae51b83b002af0"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "94e1d9da-0a95-4871-a6dd-e96145962dea",
+                "0737f229-23f6-4bcd-abaf-bf8a5d83e7d4"
+              ]
+            },
+            "title": "Tratamiento canal de denuncias"
+          },
+          "99ac31e3-cbd9-47b2-b5ca-deb2593dba92": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "78639c51-b85e-4ab3-8c33-69df31445803": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "fp92n",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "6l6t4",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "542rl",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "28rsd",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "3m2tu",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Contrataci\u00f3n, proveedores y perfil del contratante"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "6bvg3",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Gesti\u00f3n de los expedientes de contrataci\u00f3n p\u00fablica del ayuntamiento. Procedimiento administrativo. Adecuada gesti\u00f3n y ejecuci\u00f3n de los contratos suscritos por el IMD con sus proveedores"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/c33ff37e1af042e9925b803eb92239c9"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              },
+              "a13295c6-1dfe-443a-8da9-fefbafc2db8a": {
+                "@type": "slate"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "78639c51-b85e-4ab3-8c33-69df31445803",
+                "a13295c6-1dfe-443a-8da9-fefbafc2db8a"
+              ]
+            },
+            "title": "Tratamiento Contrataci\u00f3n, proveedores y perfil del contratante"
+          },
+          "9f7ab70e-eef6-46a4-8db2-a25a852cd280": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "441cce12-0e50-40a9-acad-7c78c8cd44c8": {
+                "@type": "slate"
+              },
+              "90f4fca8-2beb-47df-8808-90ee2d1a3940": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "1b0lm",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "d14dq",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "10sra",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "eatn3",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "d9gof",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ficsm",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Selecci\u00f3n de personal y RRHH"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Gesti\u00f3n propia de los empleados o potenciales empleados desde la tramitaci\u00f3n de los procedimientos administrativos relacionados con la selecci\u00f3n del personal laboral y bolsas de empleo, y se contratan, hasta que cesan su actividad. Gesti\u00f3n de los expedientes laborales, n\u00f3minas y acci\u00f3n social del personal. Prevenci\u00f3n de riesgos laborales. Gesti\u00f3n de programas de formaci\u00f3n. Programas de alumnos en pr\u00e1cticas y/o becarios. Solicitud de: permisos y/o vacaciones; cambio de descanso; cambio turnos/jornadas; compensaciones; indemnizaci\u00f3n; desplazamientos; licencias; reclamaci\u00f3n y/o consultas; ayuda escolar;"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/28eb285d3e8045679d2868cba60b2c77"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "90f4fca8-2beb-47df-8808-90ee2d1a3940",
+                "441cce12-0e50-40a9-acad-7c78c8cd44c8"
+              ]
+            },
+            "title": "Tratamiento Selecci\u00f3n de personal y RRHH del IMD"
+          },
+          "a93c87b8-2c17-40d6-89b5-7f3831fe8260": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "aee31339-e63a-437f-9cf8-4c8b44eea588": {
+                "@type": "slate"
+              },
+              "ccc0d421-5cb4-4fc4-be31-bc19f72164c3": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "fvg8m",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "3eobd",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "716ap",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "c8lpr",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "96va0",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Gesti\u00f3n de convocatoria y entrega de premios relativas a las actividades y competiciones deportivas municipales"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "egts1",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Gestionar el proceso de tramitaci\u00f3n de la fiesta del deporte, y la recogida de datos a efectos estad\u00edsticos, censales.                                                                               \rSe tomar\u00e1n im\u00e1genes (fotograf\u00edas, filmaci\u00f3n y grabaci\u00f3n) de los participantes en los premios y se publicar\u00e1n las im\u00e1genes de los ganadores en nuestra p\u00e1gina web y prensa, siempre que se obtenga su consentimiento expreso.\rNotificaci\u00f3n v\u00eda email a los nominados e invitaci\u00f3n al acto. \rEnv\u00edo de campa\u00f1as sobre fiesta del deporte que le puedan resultar de su inter\u00e9s, siempre que se obtenga su consentimiento expreso"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/55906a3f89f34276b894581ed2b925de"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "ccc0d421-5cb4-4fc4-be31-bc19f72164c3",
+                "aee31339-e63a-437f-9cf8-4c8b44eea588"
+              ]
+            },
+            "title": "Tratamiento Gesti\u00f3n de convocatoria y entrega de premios relativas a las actividades y competiciones deportivas municipales"
+          },
+          "b09f8b04-3515-4ae9-874e-992590f6ff5a": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "4cb02709-e3d6-4b8d-947b-405037322898": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9qv9",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "849fd",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "245jv",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9rj73",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "4ja3j",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Colaboraci\u00f3n con entidades externas para la prestaci\u00f3n de servicios deportivos municipales"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "1sp85",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Prestaci\u00f3n de los servicios ofrecidos por el IMD mediante la colaboraci\u00f3n con entidades externas"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/94c26f9206a24f5f9d485332f86de4b0"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              },
+              "f1a85fb9-0896-44e8-84c7-d1ee21f84fbc": {
+                "@type": "slate"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "4cb02709-e3d6-4b8d-947b-405037322898",
+                "f1a85fb9-0896-44e8-84c7-d1ee21f84fbc"
+              ]
+            },
+            "title": "Tratamiento Colaboraci\u00f3n con entidades externas"
+          },
+          "b4640a92-11b7-4b56-886f-ad9cbf6ec8d2": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "26ee616e-4a86-45c7-9ebf-f38f2ace3d97": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "48hrt",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "cka2g",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2pt99",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ab2ob",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "7d15g",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Gesti\u00f3n integral de actividades, juegos y competiciones municipales"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "93ie8",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Gesti\u00f3n deportiva, econ\u00f3mica, financiera y contable de actividades promovidas por el IMD."
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Gesti\u00f3n de centros y escuelas deportivas para realizar torneos, cursos, ligas y campeonatos deportivos, y entrega de premios."
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Comunicaciones (sms y email) informativas de jornadas, e inscripci\u00f3n en actividades y eventos deportivos dirigidos y coordinados por el IMD."
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Gesti\u00f3n m\u00e9dica."
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Prestaci\u00f3n del Servicio de Arbitraje, Delegados de Campo y gesti\u00f3n administrativa y t\u00e9cnica, seg\u00fan la modalidad, de acuerdo a la Normativa de Competici\u00f3n de los Juegos Deportivos Municipales, de todas las modalidades incluidas en el programa de Juegos Deportivos Municipales de Sevilla para el a\u00f1o 2026"
+                                    }
+                                  ],
+                                  "type": "li"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Tomar y publicar im\u00e1genes (fotograf\u00edas y/o videos) de los participantes y ganadores de los juegos y competiciones deportivas municipales, siempre que se obtenga consentimiento expreso."
+                                    }
+                                  ],
+                                  "type": "li"
+                                }
+                              ],
+                              "type": "ol"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/ea07034ff22f4610a7d61094b4f5db0c"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              },
+              "cb374030-ef90-4a2f-ac24-fe712046dca8": {
+                "@type": "slate"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "26ee616e-4a86-45c7-9ebf-f38f2ace3d97",
+                "cb374030-ef90-4a2f-ac24-fe712046dca8"
+              ]
+            },
+            "title": "Tratamiento Gesti\u00f3n integral de actividades, juegos y competiciones municipales"
+          },
+          "ce69eb1a-8f63-4550-abd0-888771534b61": {
+            "@type": "accordionPanel",
+            "blocks": {
+              "63929439-d286-4f32-8226-8feb2672fa89": {
+                "@type": "slate"
+              },
+              "6cc2a22e-3a2c-4ebb-817c-c8c794759055": {
+                "@type": "slateTable",
+                "styles": {},
+                "table": {
+                  "basic": false,
+                  "celled": true,
+                  "compact": false,
+                  "fixed": true,
+                  "hideHeaders": false,
+                  "inverted": false,
+                  "rows": [
+                    {
+                      "cells": [
+                        {
+                          "key": "ecel0",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "EXPEDIENTE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "og5u",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "RESPONSABLE"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "7grn5",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "DENOMINACI\u00d3N DEL TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "8bcmo",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "FINALIDAD DEL\r TRATAMIENTO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "9jv3j",
+                          "type": "header",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "ACCESO AL\r CONTENIDO"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "9pmu4"
+                    },
+                    {
+                      "cells": [
+                        {
+                          "key": "11r88",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Expendiente 00.000"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "3t4u2",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "4bodk",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Usuarios que se inscriben en los centros deportivos gestionados por el IMD"
+                                    }
+                                  ],
+                                  "type": "strong"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "p56l",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Alquiler de instalaciones (a entidades o a personas f\u00edsicas), servicio de inscripci\u00f3n en actividades (cursos piscina, actividades de sala, etc.) tanto de manera presencial como v\u00eda online"
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "2b9l5",
+                          "type": "data",
+                          "value": [
+                            {
+                              "children": [
+                                {
+                                  "text": ""
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Accede"
+                                    }
+                                  ],
+                                  "data": {
+                                    "url": "../resolveuid/6b2d4979f85845d9bd614c964cf73f65"
+                                  },
+                                  "type": "link"
+                                },
+                                {
+                                  "text": ""
+                                }
+                              ],
+                              "type": "p"
+                            }
+                          ]
+                        }
+                      ],
+                      "key": "f8j1h"
+                    }
+                  ],
+                  "striped": false
+                },
+                "theme": "default"
+              }
+            },
+            "blocks_layout": {
+              "items": [
+                "6cc2a22e-3a2c-4ebb-817c-c8c794759055",
+                "63929439-d286-4f32-8226-8feb2672fa89"
+              ]
+            },
+            "title": "Tratamiento Usuarios que se inscriben en los centros deportivos gestionados por el IMD"
+          }
+        },
+        "blocks_layout": {
+          "items": [
+            "9745df80-a0da-41ab-b88f-fa02a1dac419",
+            "b4640a92-11b7-4b56-886f-ad9cbf6ec8d2",
+            "b09f8b04-3515-4ae9-874e-992590f6ff5a",
+            "99ac31e3-cbd9-47b2-b5ca-deb2593dba92",
+            "a93c87b8-2c17-40d6-89b5-7f3831fe8260",
+            "078bf159-3a0b-4cae-b643-68865f84a56e",
+            "9f7ab70e-eef6-46a4-8db2-a25a852cd280",
+            "5893b99d-c4b7-442c-850b-90fcfd073003",
+            "ce69eb1a-8f63-4550-abd0-888771534b61",
+            "635ee369-e1e0-480a-a880-d8651ed13e11"
+          ]
+        }
+      },
+      "filtering": false,
+      "non_exclusive": false,
+      "right_arrows": true,
+      "styles": {},
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "88b9bc9d-03ce-41f1-81c9-816a23b3121d",
+      "bee84e6e-2d0f-4347-8bfe-b1fd77c25430",
+      "ad077355-d30c-45ed-8203-ddfc339632e6"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-14T11:47:18+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Registro de actividades de tratamiento",
+  "effective": "2025-07-14T12:10:35+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "registro-de-actividades-de-tratamiento",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-14T19:32:47+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Registro de actividades de tratamiento",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-14T11:47:18+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-14T12:10:35+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

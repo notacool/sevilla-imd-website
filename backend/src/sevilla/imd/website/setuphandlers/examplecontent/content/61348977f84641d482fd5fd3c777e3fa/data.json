@@ -1,0 +1,763 @@
+{
+  "@id": "/registro-de-actividades-de-tratamiento/tratamiento-videovigilancia",
+  "@type": "Document",
+  "UID": "61348977f84641d482fd5fd3c777e3fa",
+  "allow_discussion": null,
+  "blocks": {
+    "6890beb5-24a1-4d96-a975-14aa5412abc1": {
+      "@type": "slateTable",
+      "styles": {},
+      "table": {
+        "basic": false,
+        "celled": true,
+        "compact": false,
+        "fixed": true,
+        "hideHeaders": false,
+        "inverted": false,
+        "rows": [
+          {
+            "cells": [
+              {
+                "key": "b30f8",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Responsable"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "6kug3",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "6e380"
+          },
+          {
+            "cells": [
+              {
+                "key": "es7rv",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Organismo Aut\u00f3nomo"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "31ceh",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "6n4np"
+          },
+          {
+            "cells": [
+              {
+                "key": "d4mro",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Delegado de Protecci\u00f3n de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "5265o",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "a3ikf"
+          },
+          {
+            "cells": [
+              {
+                "key": "4ol97",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Denominaci\u00f3n del Tratamiento"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "65nvr",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Videovigilancia"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "efn9q"
+          },
+          {
+            "cells": [
+              {
+                "key": "8h8kg",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Finalidad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "gu60",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Captaci\u00f3n, grabaci\u00f3n y visualizaci\u00f3n de im\u00e1genes para garantizar la seguridad de las personas, bienes y todas las instalaciones del IMD, as\u00ed como la investigaci\u00f3n de cualquier incidente ocurrido en el IMD"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "bca1q"
+          },
+          {
+            "cells": [
+              {
+                "key": "f7qfh",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Legitimaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "1dov9",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "El tratamiento es necesario para para el cumplimiento de una misi\u00f3n realizada en inter\u00e9s p\u00fablico o en el ejercicio de poderes p\u00fablicos conferidos al responsable del tratamiento"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "4hdrc"
+          },
+          {
+            "cells": [
+              {
+                "key": "59i8v",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Destinatarios"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "31h6m",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Encargados del tratamiento, FFCC de Seguridad del Estado, \u00d3rganos Judiciales"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "2q6m0"
+          },
+          {
+            "cells": [
+              {
+                "key": "djj6a",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Interesados"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "8n09b",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Empleados/as, proveedores, usuarios"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "bae1t"
+          },
+          {
+            "cells": [
+              {
+                "key": "535us",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Datos Personales"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "25j9e",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Imagen"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "65cgm"
+          },
+          {
+            "cells": [
+              {
+                "key": "32up2",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Transferencia Internacional de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "30j7d",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "No"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "9tora"
+          },
+          {
+            "cells": [
+              {
+                "key": "5d52j",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Plazo de Conservaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "coucc",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Las im\u00e1genes ser\u00e1n conservadas durante un plazo m\u00e1ximo de 30 d\u00edas desde su captaci\u00f3n. No obstante, en caso de que se detecte un incidente que deba ser investigado, las im\u00e1genes afectadas ser\u00e1n bloqueadas y conservadas durante el tiempo necesario para la investigaci\u00f3n de los hechos y, en su caso, para ponerlos a disposici\u00f3n de las autoridades competentes."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "a860p"
+          },
+          {
+            "cells": [
+              {
+                "key": "4mls4",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Medidas de Seguridad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "dij2p",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Las medidas de seguridad implantadas se alinean con las previstas en el anexo II (medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad en el \u00e1mbito de la Administraci\u00f3n Electr\u00f3nica."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "6nkpk"
+          },
+          {
+            "cells": [
+              {
+                "key": "2f109",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Derechos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "3iu8i",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Derechos de acceso, rectificaci\u00f3n, supresi\u00f3n, portabilidad de sus datos y limitaci\u00f3n del tratamiento de estos datos, derecho de oposici\u00f3n y a no ser objeto de una decisi\u00f3n basada \u00fanicamente en el tratamiento automatizado de sus datos, incluida la elaboraci\u00f3n de perfiles. En el caso de que el consentimiento sea la base legitimadora del tratamiento tendr\u00e1 derecho a retirarlo en cualquier momento."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "2s9p3"
+          },
+          {
+            "cells": [
+              {
+                "key": "6p6i6",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Informaci\u00f3n Adicional"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "dbt83",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercitar estos derechos mediante escrito dirigido al Instituto Municipal de Deportes del Ayuntamiento de Sevilla y que deber\u00e1 presentarse a trav\u00e9s de la direcci\u00f3n de correo electr\u00f3nico "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": " o bien a trav\u00e9s de cualquiera de las sedes administrativas que pueden ser consultadas en la p\u00e1gina:"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "https://imd.sevilla.org/el-imd/sedes-administrativas \r"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercer su derecho a reclamar ante el Consejo de Transparencia y Protecci\u00f3n de Datos de Andaluc\u00eda c/Conde de Ibarra, 18 - 41004 Sevilla."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "2l5mm"
+          }
+        ],
+        "striped": true
+      },
+      "theme": "default"
+    },
+    "8179bfc4-0899-40de-a039-b8ec1177f1c4": {
+      "@type": "title"
+    },
+    "bad540f0-dd82-4313-8ab2-cd2358ca7d48": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "8179bfc4-0899-40de-a039-b8ec1177f1c4",
+      "6890beb5-24a1-4d96-a975-14aa5412abc1",
+      "bad540f0-dd82-4313-8ab2-cd2358ca7d48"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-14T19:31:51+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Tratamiento Videovigilancia",
+  "effective": "2025-07-14T19:38:45+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tratamiento-videovigilancia",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-14T19:38:45+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Tratamiento Videovigilancia",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-14T19:31:51+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-14T19:38:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

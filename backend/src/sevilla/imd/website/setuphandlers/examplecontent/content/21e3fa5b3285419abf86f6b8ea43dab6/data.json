@@ -621,12 +621,21 @@
     },
     "9f962a41-8866-4574-a24d-405dfc9aca29": {
       "@type": "__button",
+      "href": [
+        {
+          "@id": "../resolveuid/19be15b01e734e33ba1244f1ad2c936c",
+          "Description": "Registro de actividades de tratamiento",
+          "Title": "Registro de actividades de tratamiento",
+          "hasPreviewImage": null,
+          "title": "Registro de actividades de tratamiento"
+        }
+      ],
       "styles": {
         "align:noprefix": {
           "--block-alignment": "var(--align-center)"
         },
         "blockWidth:noprefix": {
-          "--block-width": "var(--narrow-container-width)"
+          "--block-width": "var(--default-container-width)"
         }
       },
       "theme": "default",
@@ -1018,7 +1027,7 @@
     "admin"
   ],
   "description": "Pol\u00edtica de privacidad",
-  "effective": "2025-07-09T19:58:28+00:00",
+  "effective": "2025-07-09T19:58:00+00:00",
   "exclude_from_nav": true,
   "expires": null,
   "exportimport.constrains": {},
@@ -1031,7 +1040,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-09T19:58:28+00:00",
+  "modified": "2025-07-14T19:39:40+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

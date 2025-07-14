@@ -1,0 +1,789 @@
+{
+  "@id": "/registro-de-actividades-de-tratamiento/tratamiento-gestion-de-convocatoria-y-entrega-de-premios-relativas-a-las-actividades-y-competiciones-deportivas-municipales",
+  "@type": "Document",
+  "UID": "55906a3f89f34276b894581ed2b925de",
+  "allow_discussion": null,
+  "blocks": {
+    "7875526b-612c-4dd4-9a46-398af14c059b": {
+      "@type": "title"
+    },
+    "93356ad9-1799-42b5-a3c0-e54923a508a8": {
+      "@type": "slate"
+    },
+    "dbe6553f-933c-409a-8af6-e3b651338c05": {
+      "@type": "slateTable",
+      "styles": {},
+      "table": {
+        "basic": false,
+        "celled": true,
+        "compact": false,
+        "fixed": true,
+        "hideHeaders": false,
+        "inverted": false,
+        "rows": [
+          {
+            "cells": [
+              {
+                "key": "4nt3n",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Responsable"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "acu2p",
+                "type": "header",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "4c3rf"
+          },
+          {
+            "cells": [
+              {
+                "key": "7405q",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Organismo Aut\u00f3nomo"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": "\r"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "\r"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "517f",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Instituto Municipal de Deportes del Ayuntamiento de Sevilla"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "ca5ba"
+          },
+          {
+            "cells": [
+              {
+                "key": "eajc0",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Delegado de Protecci\u00f3n de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "3gosn",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "3mrig"
+          },
+          {
+            "cells": [
+              {
+                "key": "cge9t",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Denominaci\u00f3n del Tratamiento"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "atjrd",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Gesti\u00f3n de convocatoria y entrega de premios relativas a las actividades y competiciones deportivas municipales"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "e0hsg"
+          },
+          {
+            "cells": [
+              {
+                "key": "5gagp",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Finalidad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "849ik",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Gestionar el proceso de tramitaci\u00f3n de la fiesta del deporte, y la recogida de datos a efectos estad\u00edsticos, censales.                                                                               \r"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Se tomar\u00e1n im\u00e1genes (fotograf\u00edas, filmaci\u00f3n y grabaci\u00f3n) de los participantes en los premios y se publicar\u00e1n las im\u00e1genes de los ganadores en nuestra p\u00e1gina web y prensa, siempre que se obtenga su consentimiento expreso.\r"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Notificaci\u00f3n v\u00eda email a los nominados e invitaci\u00f3n al acto. \r"
+                          }
+                        ],
+                        "type": "li"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Env\u00edo de campa\u00f1as sobre fiesta del deporte que le puedan resultar de su inter\u00e9s, siempre que se obtenga su consentimiento expreso"
+                          }
+                        ],
+                        "type": "li"
+                      }
+                    ],
+                    "type": "ol"
+                  }
+                ]
+              }
+            ],
+            "key": "fr2up"
+          },
+          {
+            "cells": [
+              {
+                "key": "1scnv",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Legitimaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "761ea",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "El tratamiento es necesario para el cumplimiento de una obligaci\u00f3n legal aplicable al responsable del tratamiento y para el cumplimiento de una misi\u00f3n realizada en inter\u00e9s p\u00fablico o en el ejercicio de poderes p\u00fablicos conferidos al responsable del tratamiento"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "15vbm"
+          },
+          {
+            "cells": [
+              {
+                "key": "d20hr",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Destinatarios"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "e751u",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Administraci\u00f3n p\u00fablica con competencia en la materia, encargados del tratamiento"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "aq63"
+          },
+          {
+            "cells": [
+              {
+                "key": "dn4vq",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Interesados"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "658im",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Inscritos como participantes en las actividades deportivas municipales"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "b5smc"
+          },
+          {
+            "cells": [
+              {
+                "key": "cqdu4",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Categor\u00eda de Datos Personales"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "67r6j",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "DNI/NIF, nombre y apellidos, direcci\u00f3n postal, direcci\u00f3n electr\u00f3nica, tel\u00e9fono, imagen, m\u00e9ritos deportivos, caracter\u00edsticas personales, datos de menores de 14 a\u00f1os"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "740io"
+          },
+          {
+            "cells": [
+              {
+                "key": "d1jup",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Transferencia Internacional de Datos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "c8pqf",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "No"
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "fh8qb"
+          },
+          {
+            "cells": [
+              {
+                "key": "cpchv",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Plazo de Conservaci\u00f3n"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "ef3th",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Se conservar\u00e1n durante el tiempo necesario para cumplir con la finalidad para la que se recabaron y para determinar las posibles responsabilidades que se pudieran derivar de dicha finalidad y del tratamiento de los datos."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "ch3lb"
+          },
+          {
+            "cells": [
+              {
+                "key": "bmaim",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Medidas de Seguridad"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "fbcfb",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Las medidas de seguridad implantadas se alinean con las previstas en el anexo II (medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad en el \u00e1mbito de la Administraci\u00f3n Electr\u00f3nica."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "8ii7a"
+          },
+          {
+            "cells": [
+              {
+                "key": "bbfoc",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Derechos"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "1mecs",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Derechos de acceso, rectificaci\u00f3n, supresi\u00f3n, portabilidad de sus datos y limitaci\u00f3n del tratamiento de estos datos, derecho de oposici\u00f3n y a no ser objeto de una decisi\u00f3n basada \u00fanicamente en el tratamiento automatizado de sus datos, incluida la elaboraci\u00f3n de perfiles. En el caso de que el consentimiento sea la base legitimadora del tratamiento tendr\u00e1 derecho a retirarlo en cualquier momento."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "bbp4h"
+          },
+          {
+            "cells": [
+              {
+                "key": "qf5c",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Informaci\u00f3n Adicional"
+                          }
+                        ],
+                        "type": "strong"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              },
+              {
+                "key": "76gi4",
+                "type": "data",
+                "value": [
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercitar estos derechos mediante escrito dirigido al Instituto Municipal de Deportes del Ayuntamiento de Sevilla y que deber\u00e1 presentarse a trav\u00e9s de la direcci\u00f3n de correo electr\u00f3nico "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "dpd@imd.sevilla.org"
+                          }
+                        ],
+                        "data": {
+                          "url": "mailto:dpd@imd.sevilla.org"
+                        },
+                        "type": "link"
+                      },
+                      {
+                        "text": " o bien a trav\u00e9s de cualquiera de las sedes administrativas que pueden ser consultadas en la p\u00e1gina:"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "https://imd.sevilla.org/el-imd/sedes-administrativas \r"
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Puede ejercer su derecho a reclamar ante el Consejo de Transparencia y Protecci\u00f3n de Datos de Andaluc\u00eda c/Conde de Ibarra, 18 - 41004 Sevilla."
+                      }
+                    ],
+                    "type": "p"
+                  }
+                ]
+              }
+            ],
+            "key": "5u285"
+          }
+        ],
+        "striped": true
+      },
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "7875526b-612c-4dd4-9a46-398af14c059b",
+      "dbe6553f-933c-409a-8af6-e3b651338c05",
+      "93356ad9-1799-42b5-a3c0-e54923a508a8"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-14T18:11:30+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Tratamiento Gesti\u00f3n de convocatoria y entrega de premios relativas a las actividades y competiciones deportivas municipales",
+  "effective": "2025-07-14T19:38:44+00:00",
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "tratamiento-gestion-de-convocatoria-y-entrega-de-premios-relativas-a-las-actividades-y-competiciones-deportivas-municipales",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-14T19:38:44+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Tratamiento Gesti\u00f3n de convocatoria y entrega de premios relativas a las actividades y competiciones deportivas municipales",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-14T18:11:30+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-07-14T19:38:44+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

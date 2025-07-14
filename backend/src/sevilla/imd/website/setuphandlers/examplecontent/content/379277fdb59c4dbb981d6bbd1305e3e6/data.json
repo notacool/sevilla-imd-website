@@ -528,7 +528,7 @@
     "admin"
   ],
   "description": "Aviso Legal",
-  "effective": "2025-07-09T20:00:23+00:00",
+  "effective": "2025-07-09T20:00:00+00:00",
   "exclude_from_nav": true,
   "expires": null,
   "exportimport.constrains": {},
