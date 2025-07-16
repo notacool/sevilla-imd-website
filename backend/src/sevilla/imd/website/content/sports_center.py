@@ -1,5 +1,4 @@
 from plone.app.textfield import RichText
-from plone.app.z3cform.widgets.richtext import RichTextFieldWidget
 from plone.dexterity.content import Item
 from plone.namedfile import field as namedfile
 from plone.supermodel import model
