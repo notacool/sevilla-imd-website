@@ -1,6 +1,5 @@
-from plone.app.textfield import RichText as RichTextField
+from plone.app.textfield import RichText
 from plone.app.z3cform.widgets.richtext import RichTextFieldWidget
-from plone.autoform import directives
 from plone.dexterity.content import Item
 from plone.namedfile import field as namedfile
 from plone.supermodel import model
@@ -68,12 +67,11 @@ class ISportsCenter(model.Schema):
         default=[],
     )
 
-    text = RichTextField(
+    text = RichText(
         title=_("label_text", default="Text"),
         description="",
         required=False,
     )
-    directives.widget("text", RichTextFieldWidget)
 
     external_link = schema.URI(
         title=_("External Link"),
