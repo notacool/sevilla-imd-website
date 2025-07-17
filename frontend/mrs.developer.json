@@ -31,8 +31,8 @@
   "volto-carousel-block": {
     "output": "./packages/",
     "package": "volto-carousel-block",
-    "url": "git@github.com:plone-ve/volto-carousel-block.git",
-    "https": "https://github.com/plone-ve/volto-carousel-block.git",
+    "url": "git@github.com:kitconcept/volto-carousel-block.git",
+    "https": "https://github.com/kitconcept/volto-carousel-block.git",
     "branch": "main"
   }
 }
