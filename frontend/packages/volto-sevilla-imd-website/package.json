@@ -35,6 +35,7 @@
     "@kitconcept/volto-separator-block",
     "@kitconcept/volto-slider-block",
     "@kitconcept/volto-carousel-block",
+    "@kitconcept/volto-banner-block",
     "@mbarde/volto-fullcalendar-block",
     "volto-form-block",
     "volto-dropdownmenu",
@@ -44,6 +45,7 @@
   "dependencies": {
     "volto-form-block": "workspace: *",
     "@kitconcept/volto-carousel-block": "workspace: *",
+    "@kitconcept/volto-banner-block": "workspace: *",
     "@mbarde/volto-fullcalendar-block": "*",
     "@kitconcept/volto-light-theme": "6.2.0"
   },

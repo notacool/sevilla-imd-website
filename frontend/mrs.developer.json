@@ -34,5 +34,12 @@
     "url": "git@github.com:kitconcept/volto-carousel-block.git",
     "https": "https://github.com/kitconcept/volto-carousel-block.git",
     "branch": "main"
+  },
+  "volto-banner-block": {
+    "output": "./packages/",
+    "package": "volto-banner-block",
+    "url": "git@github.com:kitconcept/volto-banner-block.git",
+    "https": "https://github.com/kitconcept/volto-banner-block.git",
+    "branch": "main"
   }
 }

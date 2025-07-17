@@ -1,0 +1,1 @@
+Added the '@kitconcept/volto-banner-block' block for the frontend #27 [macagua]
