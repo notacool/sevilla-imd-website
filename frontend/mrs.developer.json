@@ -41,5 +41,12 @@
     "url": "git@github.com:kitconcept/volto-banner-block.git",
     "https": "https://github.com/kitconcept/volto-banner-block.git",
     "branch": "main"
+  },
+  "volto-highlight-block": {
+    "output": "./packages/",
+    "package": "volto-highlight-block",
+    "url": "git@github.com:plone-ve/volto-highlight-block.git",
+    "https": "https://github.com/plone-ve/volto-highlight-block.git",
+    "branch": "main"
   }
 }
