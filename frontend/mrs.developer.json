@@ -7,6 +7,13 @@
     "tag": "18.23.0",
     "filterBlobs": true
   },
+  "volto-heading-block": {
+    "output": "./packages/",
+    "package": "volto-heading-block",
+    "url": "git@github.com:plone-ve/volto-heading-block.git",
+    "https": "https://github.com/plone-ve/volto-heading-block.git",
+    "branch": "main"
+  },
   "volto-form-block": {
     "output": "./packages/",
     "package": "volto-form-block",
