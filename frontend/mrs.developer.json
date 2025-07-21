@@ -8,6 +8,7 @@
     "filterBlobs": true
   },
   "volto-form-block": {
+    "develop": true,
     "output": "./packages/",
     "package": "volto-form-block",
     "url": "git@github.com:collective/volto-form-block.git",
