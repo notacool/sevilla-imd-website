@@ -35,7 +35,7 @@
     "package": "@eeacms/volto-accordion-block",
     "url": "git@github.com:plone-ve/volto-accordion-block.git",
     "https": "https://github.com/plone-ve/volto-accordion-block.git",
-    "branch": "main"
+    "branch": "master"
   },
   "volto-banner-block": {
     "develop": true,
