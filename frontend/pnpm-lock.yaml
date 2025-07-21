@@ -2004,6 +2004,9 @@ importers:
       react-dom:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
+      volto-dropdownmenu:
+        specifier: 'workspace: *'
+        version: link:../volto-dropdownmenu
       volto-form-block:
         specifier: 'workspace: *'
         version: link:../volto-form-block

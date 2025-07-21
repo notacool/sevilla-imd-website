@@ -16,6 +16,7 @@
     "branch": "main"
   },
   "volto-dropdownmenu": {
+    "develop": true,
     "output": "./packages/",
     "package": "volto-dropdownmenu",
     "url": "git@github.com:collective/volto-dropdownmenu.git",
