@@ -27,7 +27,6 @@
     "release-alpha": "release-it --preRelease=alpha"
   },
   "addons": [
-    "@kitconcept/volto-button-block",
     "@kitconcept/volto-slider-block",
     "@kitconcept/volto-light-theme"
   ],
