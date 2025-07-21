@@ -29,7 +29,6 @@
   "addons": [
     "@eeacms/volto-accordion-block",
     "@kitconcept/volto-button-block",
-    "@kitconcept/volto-highlight-block",
     "@kitconcept/volto-separator-block",
     "@kitconcept/volto-slider-block",
     "@kitconcept/volto-carousel-block",

@@ -52,8 +52,9 @@
     "branch": "main"
   },
   "volto-highlight-block": {
+    "develop": true,
     "output": "./packages/",
-    "package": "volto-highlight-block",
+    "package": "@kitconcept/volto-highlight-block",
     "url": "git@github.com:plone-ve/volto-highlight-block.git",
     "https": "https://github.com/plone-ve/volto-highlight-block.git",
     "branch": "main"

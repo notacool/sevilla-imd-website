@@ -18,6 +18,9 @@ importers:
       '@kitconcept/volto-heading-block':
         specifier: 'workspace: *'
         version: link:packages/volto-heading-block/packages/volto-heading-block
+      '@kitconcept/volto-highlight-block':
+        specifier: 'workspace: *'
+        version: link:packages/volto-highlight-block/packages/volto-highlight-block
       '@plone/registry':
         specifier: workspace:*
         version: link:core/packages/registry

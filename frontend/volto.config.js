@@ -1,5 +1,6 @@
 const addons = [
   '@kitconcept/volto-heading-block',
+  '@kitconcept/volto-highlight-block',
   '@kitconcept/volto-introduction-block',
   'volto-sevilla-imd-website',
 ];

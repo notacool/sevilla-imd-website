@@ -40,6 +40,7 @@
     "volto-gdpr-privacy": "workspace: *",
     "@kitconcept/volto-carousel-block": "workspace: *",
     "@kitconcept/volto-heading-block": "workspace: *",
+    "@kitconcept/volto-highlight-block": "workspace: *",
     "volto-sevilla-imd-website": "workspace:*"
   },
   "devDependencies": {
