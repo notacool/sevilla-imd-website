@@ -35,7 +35,6 @@
     "@kitconcept/volto-banner-block",
     "@mbarde/volto-fullcalendar-block",
     "volto-form-block",
-    "volto-dropdownmenu",
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {
