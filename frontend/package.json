@@ -42,6 +42,7 @@
     "@kitconcept/volto-carousel-block": "workspace: *",
     "@kitconcept/volto-heading-block": "workspace: *",
     "@kitconcept/volto-highlight-block": "workspace: *",
+    "@kitconcept/volto-separator-block": "workspace: *",
     "volto-sevilla-imd-website": "workspace:*"
   },
   "devDependencies": {
