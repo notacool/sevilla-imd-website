@@ -41,6 +41,7 @@
   ],
   "dependencies": {
     "volto-form-block": "workspace: *",
+    "@eeacms/volto-accordion-block": "^workspace: *",
     "@kitconcept/volto-heading-block": "^workspace: *",
     "@kitconcept/volto-highlight-block": "workspace: *",
     "@kitconcept/volto-introduction-block": "workspace: *",
