@@ -47,6 +47,14 @@
     "https": "https://github.com/plone-ve/volto-accordion-block.git",
     "branch": "master"
   },
+  "volto-button-block": {
+    "develop": true,
+    "output": "./packages/",
+    "package": "@kitconcept/volto-button-block",
+    "url": "git@github.com:plone-ve/volto-button-block.git",
+    "https": "https://github.com/plone-ve/volto-button-block.git",
+    "branch": "master"
+  },
   "volto-banner-block": {
     "develop": true,
     "output": "./packages/",

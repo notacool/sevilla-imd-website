@@ -5,6 +5,7 @@ const addons = [
   'volto-gdpr-privacy',
   '@mbarde/volto-fullcalendar-block',
   '@kitconcept/volto-banner-block',
+  '@kitconcept/volto-button-block',
   '@kitconcept/volto-carousel-block',
   '@kitconcept/volto-heading-block',
   '@kitconcept/volto-highlight-block',
