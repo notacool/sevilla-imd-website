@@ -56,8 +56,9 @@
     "branch": "main"
   },
   "volto-carousel-block": {
+    "develop": true,
     "output": "./packages/",
-    "package": "volto-carousel-block",
+    "package": "@kitconcept/volto-carousel-block",
     "url": "git@github.com:kitconcept/volto-carousel-block.git",
     "https": "https://github.com/kitconcept/volto-carousel-block.git",
     "branch": "main"
