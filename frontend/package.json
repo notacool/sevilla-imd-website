@@ -38,6 +38,7 @@
     "volto-form-block": "workspace: *",
     "volto-dropdownmenu": "workspace: *",
     "volto-gdpr-privacy": "workspace: *",
+    "@mbarde/volto-fullcalendar-block": "*",
     "@eeacms/volto-accordion-block": "^workspace: *",
     "@kitconcept/volto-carousel-block": "workspace: *",
     "@kitconcept/volto-heading-block": "workspace: *",

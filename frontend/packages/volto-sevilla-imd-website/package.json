@@ -33,7 +33,6 @@
     "@kitconcept/volto-slider-block",
     "@kitconcept/volto-carousel-block",
     "@kitconcept/volto-banner-block",
-    "@mbarde/volto-fullcalendar-block",
     "volto-form-block",
     "@kitconcept/volto-light-theme"
   ],
@@ -41,6 +40,7 @@
     "volto-form-block": "workspace: *",
     "volto-dropdownmenu": "workspace: *",
     "volto-gdpr-privacy": "workspace: *",
+    "@mbarde/volto-fullcalendar-block": "*",
     "@eeacms/volto-accordion-block": "^workspace: *",
     "@kitconcept/volto-heading-block": "^workspace: *",
     "@kitconcept/volto-highlight-block": "workspace: *",
@@ -48,7 +48,6 @@
     "@kitconcept/volto-separator-block": "workspace: *",
     "@kitconcept/volto-carousel-block": "workspace: *",
     "@kitconcept/volto-banner-block": "workspace: *",
-    "@mbarde/volto-fullcalendar-block": "*",
     "@kitconcept/volto-light-theme": "6.2.0"
   },
   "peerDependencies": {

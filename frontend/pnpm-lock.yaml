@@ -27,6 +27,9 @@ importers:
       '@kitconcept/volto-separator-block':
         specifier: 'workspace: *'
         version: link:packages/volto-separator-block/packages/volto-separator-block
+      '@mbarde/volto-fullcalendar-block':
+        specifier: '*'
+        version: 1.0.1(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@plone/registry':
         specifier: workspace:*
         version: link:core/packages/registry
@@ -1800,6 +1803,37 @@ importers:
       stylelint-prettier:
         specifier: 4.0.2
         version: 4.0.2(prettier@3.1.0)(stylelint@15.11.0(typescript@5.8.3))
+
+  packages/volto-fullcalendar-block:
+    dependencies:
+      '@fullcalendar/core':
+        specifier: 6.1.14
+        version: 6.1.14
+      '@fullcalendar/daygrid':
+        specifier: 6.1.14
+        version: 6.1.14(@fullcalendar/core@6.1.14)
+      '@fullcalendar/icalendar':
+        specifier: 6.1.14
+        version: 6.1.14(@fullcalendar/core@6.1.14)(ical.js@1.5.0)
+      '@fullcalendar/list':
+        specifier: 6.1.14
+        version: 6.1.14(@fullcalendar/core@6.1.14)
+      '@fullcalendar/react':
+        specifier: 6.1.14
+        version: 6.1.14(@fullcalendar/core@6.1.14)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
+      '@fullcalendar/timegrid':
+        specifier: 6.1.14
+        version: 6.1.14(@fullcalendar/core@6.1.14)
+      ical.js:
+        specifier: 1.5.0
+        version: 1.5.0
+    devDependencies:
+      '@plone/scripts':
+        specifier: ^3.0.0
+        version: 3.10.1(debug@4.3.2)
+      cypress:
+        specifier: 13.12.0
+        version: 13.12.0
 
   packages/volto-gdpr-privacy:
     dependencies:
@@ -8132,6 +8166,11 @@ packages:
 
   cypress@13.1.0:
     resolution: {integrity: sha512-LUKxCYlB973QBFls1Up4FAE9QIYobT+2I8NvvAwMfQS2YwsWbr6yx7y9hmsk97iqbHkKwZW3MRjoK1RToBFVdQ==}
+    engines: {node: ^16.0.0 || ^18.0.0 || >=20.0.0}
+    hasBin: true
+
+  cypress@13.12.0:
+    resolution: {integrity: sha512-udzS2JilmI9ApO/UuqurEwOvThclin5ntz7K0BtnHBs+tg2Bl9QShLISXpSEMDv/u8b6mqdoAdyKeZiSqKWL8g==}
     engines: {node: ^16.0.0 || ^18.0.0 || >=20.0.0}
     hasBin: true
 
@@ -25127,6 +25166,51 @@ snapshots:
       '@cypress/request': 3.0.8
       '@cypress/xvfb': 1.2.4(supports-color@8.1.1)
       '@types/node': 16.18.126
+      '@types/sinonjs__fake-timers': 8.1.1
+      '@types/sizzle': 2.3.9
+      arch: 2.2.0
+      blob-util: 2.0.2
+      bluebird: 3.7.2
+      buffer: 5.7.1
+      cachedir: 2.4.0
+      chalk: 4.1.2
+      check-more-types: 2.24.0
+      cli-cursor: 3.1.0
+      cli-table3: 0.6.5
+      commander: 6.2.1
+      common-tags: 1.8.2
+      dayjs: 1.11.13
+      debug: 4.3.4(supports-color@8.1.1)
+      enquirer: 2.4.1
+      eventemitter2: 6.4.7
+      execa: 4.1.0
+      executable: 4.1.1
+      extract-zip: 2.0.1(supports-color@8.1.1)
+      figures: 3.2.0
+      fs-extra: 9.1.0
+      getos: 3.2.1
+      is-ci: 3.0.1
+      is-installed-globally: 0.4.0
+      lazy-ass: 1.6.0
+      listr2: 3.14.0(enquirer@2.4.1)
+      lodash: 4.17.21
+      log-symbols: 4.1.0
+      minimist: 1.2.8
+      ospath: 1.2.2
+      pretty-bytes: 5.6.0
+      process: 0.11.10
+      proxy-from-env: 1.0.0
+      request-progress: 3.0.0
+      semver: 7.7.2
+      supports-color: 8.1.1
+      tmp: 0.2.1
+      untildify: 4.0.0
+      yauzl: 2.10.0
+
+  cypress@13.12.0:
+    dependencies:
+      '@cypress/request': 3.0.8
+      '@cypress/xvfb': 1.2.4(supports-color@8.1.1)
       '@types/sinonjs__fake-timers': 8.1.1
       '@types/sizzle': 2.3.9
       arch: 2.2.0

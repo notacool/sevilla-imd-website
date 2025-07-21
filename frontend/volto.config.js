@@ -3,6 +3,7 @@ const addons = [
   'volto-form-block',
   'volto-dropdownmenu',
   'volto-gdpr-privacy',
+  '@mbarde/volto-fullcalendar-block',
   '@kitconcept/volto-heading-block',
   '@kitconcept/volto-highlight-block',
   '@kitconcept/volto-introduction-block',

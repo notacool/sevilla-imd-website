@@ -31,6 +31,14 @@
     "https": "https://github.com/collective/volto-gdpr-privacy.git",
     "branch": "master"
   },
+  "volto-fullcalendar-block": {
+    "develop": true,
+    "output": "./packages/",
+    "package": "@mbarde/volto-fullcalendar-block",
+    "url": "git@github.com:plone-ve/volto-fullcalendar-block.git",
+    "https": "https://github.com/plone-ve/volto-fullcalendar-block.git",
+    "branch": "main"
+  },
   "volto-accordion-block": {
     "develop": true,
     "output": "./packages/",
