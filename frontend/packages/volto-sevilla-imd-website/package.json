@@ -26,9 +26,6 @@
     "release-major-alpha": "release-it major --preRelease=alpha",
     "release-alpha": "release-it --preRelease=alpha"
   },
-  "addons": [
-    "@kitconcept/volto-light-theme"
-  ],
   "dependencies": {
     "volto-form-block": "workspace: *",
     "volto-dropdownmenu": "workspace: *",
@@ -43,7 +40,7 @@
     "@kitconcept/volto-introduction-block": "workspace: *",
     "@kitconcept/volto-separator-block": "workspace: *",
     "@kitconcept/volto-slider-block": "workspace: *",
-    "@kitconcept/volto-light-theme": "6.2.0"
+    "@kitconcept/volto-light-theme": "7.0.0-alpha.15"
   },
   "peerDependencies": {
     "react": "18.2.0",

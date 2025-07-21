@@ -12,6 +12,7 @@ const addons = [
   '@kitconcept/volto-introduction-block',
   '@kitconcept/volto-separator-block',
   '@kitconcept/volto-slider-block',
+  '@kitconcept/volto-light-theme',
   'volto-sevilla-imd-website',
 ];
 const theme = '@kitconcept/volto-light-theme';
