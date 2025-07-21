@@ -7,13 +7,6 @@
     "tag": "18.23.0",
     "filterBlobs": true
   },
-  "volto-heading-block": {
-    "output": "./packages/",
-    "package": "volto-heading-block",
-    "url": "git@github.com:plone-ve/volto-heading-block.git",
-    "https": "https://github.com/plone-ve/volto-heading-block.git",
-    "branch": "main"
-  },
   "volto-form-block": {
     "output": "./packages/",
     "package": "volto-form-block",
@@ -35,6 +28,14 @@
     "https": "https://github.com/collective/volto-gdpr-privacy.git",
     "branch": "master"
   },
+  "volto-banner-block": {
+    "develop": true,
+    "output": "./packages/",
+    "package": "@kitconcept/volto-banner-block",
+    "url": "git@github.com:kitconcept/volto-banner-block.git",
+    "https": "https://github.com/kitconcept/volto-banner-block.git",
+    "branch": "main"
+  },
   "volto-carousel-block": {
     "output": "./packages/",
     "package": "volto-carousel-block",
@@ -42,11 +43,12 @@
     "https": "https://github.com/kitconcept/volto-carousel-block.git",
     "branch": "main"
   },
-  "volto-banner-block": {
+  "volto-heading-block": {
+    "develop": true,
     "output": "./packages/",
-    "package": "volto-banner-block",
-    "url": "git@github.com:kitconcept/volto-banner-block.git",
-    "https": "https://github.com/kitconcept/volto-banner-block.git",
+    "package": "@kitconcept/volto-heading-block",
+    "url": "git@github.com:plone-ve/volto-heading-block.git",
+    "https": "https://github.com/plone-ve/volto-heading-block.git",
     "branch": "main"
   },
   "volto-highlight-block": {
@@ -54,6 +56,14 @@
     "package": "volto-highlight-block",
     "url": "git@github.com:plone-ve/volto-highlight-block.git",
     "https": "https://github.com/plone-ve/volto-highlight-block.git",
+    "branch": "main"
+  },
+  "volto-introduction-block": {
+    "develop": true,
+    "output": "./packages/",
+    "package": "@kitconcept/volto-introduction-block",
+    "url": "git@github.com:plone-ve/volto-introduction-block.git",
+    "https": "https://github.com/plone-ve/volto-introduction-block.git",
     "branch": "main"
   }
 }
