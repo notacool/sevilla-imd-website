@@ -15,6 +15,9 @@ importers:
       '@eeacms/volto-accordion-block':
         specifier: '^workspace: *'
         version: 10.4.6
+      '@kitconcept/volto-banner-block':
+        specifier: 'workspace: *'
+        version: link:packages/volto-banner-block/packages/volto-banner-block
       '@kitconcept/volto-carousel-block':
         specifier: 'workspace: *'
         version: link:packages/volto-carousel-block/packages/volto-carousel-block
