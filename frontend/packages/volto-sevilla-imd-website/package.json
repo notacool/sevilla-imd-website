@@ -36,12 +36,12 @@
     "@mbarde/volto-fullcalendar-block",
     "volto-form-block",
     "volto-dropdownmenu",
-    "volto-gdpr-privacy",
     "@kitconcept/volto-light-theme"
   ],
   "dependencies": {
     "volto-form-block": "workspace: *",
     "volto-dropdownmenu": "workspace: *",
+    "volto-gdpr-privacy": "workspace: *",
     "@eeacms/volto-accordion-block": "^workspace: *",
     "@kitconcept/volto-heading-block": "^workspace: *",
     "@kitconcept/volto-highlight-block": "workspace: *",

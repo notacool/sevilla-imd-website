@@ -1,5 +1,6 @@
 const addons = [
   '@eeacms/volto-accordion-block',
+  'volto-gdpr-privacy',
   '@kitconcept/volto-heading-block',
   '@kitconcept/volto-highlight-block',
   '@kitconcept/volto-introduction-block',

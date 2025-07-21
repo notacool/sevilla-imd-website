@@ -2010,6 +2010,9 @@ importers:
       volto-form-block:
         specifier: 'workspace: *'
         version: link:../volto-form-block
+      volto-gdpr-privacy:
+        specifier: 'workspace: *'
+        version: link:../volto-gdpr-privacy
     devDependencies:
       '@plone/scripts':
         specifier: ^3.6.1
