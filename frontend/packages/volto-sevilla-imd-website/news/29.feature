@@ -1,0 +1,1 @@
+Enabled the '@kitconcept/volto-logos-block' block for the frontend #29 @macagua
