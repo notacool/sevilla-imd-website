@@ -1,0 +1,1 @@
+Added assets files for the frontend #30 @macagua
