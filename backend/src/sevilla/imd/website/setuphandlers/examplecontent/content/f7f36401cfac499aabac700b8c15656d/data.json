@@ -1,0 +1,203 @@
+{
+  "@id": "/area-privada",
+  "@type": "Document",
+  "UID": "f7f36401cfac499aabac700b8c15656d",
+  "allow_discussion": null,
+  "blocks": {
+    "ac44d86c-6a73-42e9-97d4-a6d2b0826a5f": {
+      "@type": "slate",
+      "plaintext": " Correo Electr\u00f3nico   Portal del Empleado   Partes de Trabajo   Almac\u00e9n   Consulta Reservas de Espacios Deportivos   Acceso Portafirmas m\u00f3vil ",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Correo Electr\u00f3nico"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://mail.google.com/"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Portal del Empleado"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://imd.sevilla.org/app/portalempleado"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Partes de Trabajo"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://imd.sevilla.org/app/partes_trabajo"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Almac\u00e9n"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://imd.sevilla.org/app/almacen"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Consulta Reservas de Espacios Deportivos"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://imd.sevilla.org/app/consulta_reservas"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Acceso Portafirmas m\u00f3vil"
+                    }
+                  ],
+                  "data": {
+                    "url": "https://pfirmamv.ayuntamiento.svq/pfirmav2"
+                  },
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "cd1f81b5-5acb-4b13-a743-9f299651e23c": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "cd1f81b5-5acb-4b13-a743-9f299651e23c",
+      "ac44d86c-6a73-42e9-97d4-a6d2b0826a5f"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-23T15:31:45+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "\u00c1rea Privada (s\u00f3lo personal IMD)",
+  "effective": null,
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "area-privada",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-23T15:59:42+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "\u00c1rea Privada (s\u00f3lo personal IMD)",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-23T15:31:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

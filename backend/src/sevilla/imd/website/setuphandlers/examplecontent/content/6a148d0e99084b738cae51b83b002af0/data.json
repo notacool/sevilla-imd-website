@@ -752,7 +752,7 @@
     "admin"
   ],
   "description": "Tratamiento canal de denuncias",
-  "effective": "2025-07-14T12:10:35+00:00",
+  "effective": "2025-07-14T12:10:00+00:00",
   "exclude_from_nav": true,
   "expires": null,
   "exportimport.constrains": {},

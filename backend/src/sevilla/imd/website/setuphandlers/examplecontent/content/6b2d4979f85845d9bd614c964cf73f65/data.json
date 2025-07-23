@@ -717,7 +717,7 @@
     "admin"
   ],
   "description": "Tratamiento Usuarios que se inscriben en los centros deportivos gestionados por el IMD",
-  "effective": "2025-07-14T19:38:44+00:00",
+  "effective": "2025-07-14T19:38:00+00:00",
   "exclude_from_nav": true,
   "expires": null,
   "exportimport.constrains": {},

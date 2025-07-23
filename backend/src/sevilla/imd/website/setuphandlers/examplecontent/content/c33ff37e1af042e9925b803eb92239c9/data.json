@@ -703,7 +703,7 @@
     "admin"
   ],
   "description": "Tratamiento Contrataci\u00f3n, proveedores y perfil del contratante",
-  "effective": "2025-07-14T19:38:45+00:00",
+  "effective": "2025-07-14T19:38:00+00:00",
   "exclude_from_nav": true,
   "expires": null,
   "exportimport.constrains": {},
