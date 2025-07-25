@@ -1,0 +1,39 @@
+{
+  "@id": "/subvenciones/organizacion",
+  "@type": "Image",
+  "UID": "81a4f653dc954a89abad9ca718c285e1",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T12:18:31+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "organizacion",
+  "image": {
+    "blob_path": "81a4f653dc954a89abad9ca718c285e1/image/Organizaci\u00f3n",
+    "content-type": "image/jpeg",
+    "filename": "Organizaci\u00f3n",
+    "height": 1080,
+    "size": 149351,
+    "width": 1920
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-07-24T12:18:31+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Organizaci\u00f3n",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

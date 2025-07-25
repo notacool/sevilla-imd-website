@@ -1,0 +1,324 @@
+{
+  "@id": "/subvenciones/clubes-deportivos-de-elite",
+  "@type": "Document",
+  "UID": "2a05709736dd4d18bb7fe9052821dad3",
+  "allow_discussion": null,
+  "blocks": {
+    "17e0813f-ca37-411e-99ca-14416de3090c": {
+      "@type": "gridBlock",
+      "blocks": {
+        "215d2c00-0fac-487f-bdec-f9aae9c9fd7c": {
+          "@type": "slate",
+          "plaintext": " FECHAS \n\nEl plazo de presentaci\u00f3n de solicitudes es de quince d\u00edas naturales a contar desde el d\u00eda siguiente de la\u00a0publicaci\u00f3n de esta convocatoria en el Bolet\u00edn Oficial de la Provincia de Sevilla.\n\nFecha de publicaci\u00f3n, convocatoria 2025, en el BOP: 11 de julio de 2025.\n\nPlazo de presentaci\u00f3n de solicitudes: del 12 al 26 de julio, ambos inclusive.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "FECHAS"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "El plazo de presentaci\u00f3n de solicitudes es de quince d\u00edas naturales a contar desde el d\u00eda siguiente de la\u00a0publicaci\u00f3n de esta convocatoria en el Bolet\u00edn Oficial de la Provincia de Sevilla."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fecha de publicaci\u00f3n, convocatoria 2025, en el BOP: 11 de julio de 2025."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Plazo de presentaci\u00f3n de solicitudes: del 12 al 26 de julio, ambos inclusive."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        "fbbb541d-70af-4804-ba1d-483f21416c04": {
+          "@type": "slate",
+          "plaintext": "A continuaci\u00f3n se pueden consultar las bases espec\u00edficas de esta convocatoria, as\u00ed como los modelos necesarios para formalizar su solicitud y justificaci\u00f3n.\n\n Bases de la convocatoria y modelos: ",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "A continuaci\u00f3n se pueden consultar las bases espec\u00edficas de esta convocatoria, as\u00ed como los modelos necesarios para formalizar su solicitud y justificaci\u00f3n."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Bases de la convocatoria y modelos:"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "fbbb541d-70af-4804-ba1d-483f21416c04",
+          "215d2c00-0fac-487f-bdec-f9aae9c9fd7c"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "238204e2-171c-4618-8a8f-38b4093a652f": {
+      "@type": "slate",
+      "plaintext": "Subvenciones",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Subvenciones"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5030615a-9e1d-4a26-9f01-f713dde1ede0": {
+      "@type": "gridBlock",
+      "blocks": {
+        "476daa2c-8282-4fa3-97b3-f7af8105ea63": {
+          "@type": "slate",
+          "plaintext": "La l\u00ednea de subvenci\u00f3n a clubes deportivos de elite tiene por objeto\u00a0regular el procedimiento y la concesi\u00f3n de ayudas econ\u00f3micas en r\u00e9gimen\u00a0de concurrencia no competitiva, para atender y financiar los gastos realizados por los clubes deportivos con CIF\u00a0y domicilio social en el municipio de Sevilla, en competici\u00f3n oficial no profesional y categor\u00eda de edad absoluta,\u00a0siempre que sea organizada por Federaci\u00f3n Espa\u00f1ola o Auton\u00f3mica reconocida por el Consejo Superior de\u00a0Deportes.\n\nLa participaci\u00f3n est\u00e1 circunscrita a deportes de equipo que participen mediante sistema de liga regular, de \u00e1mbito\u00a0nacional.\n\nPodr\u00e1n optar a esta subvenci\u00f3n los equipos de m\u00e1xima, subm\u00e1xima y tercera categor\u00eda en sistema\u00a0liga.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "La l\u00ednea de subvenci\u00f3n a clubes deportivos de elite tiene por objeto\u00a0regular el procedimiento y la concesi\u00f3n de ayudas econ\u00f3micas en r\u00e9gimen\u00a0de concurrencia no competitiva, para atender y financiar los gastos realizados por los clubes deportivos con CIF\u00a0y domicilio social en el municipio de Sevilla, en competici\u00f3n oficial no profesional y categor\u00eda de edad absoluta,\u00a0siempre que sea organizada por Federaci\u00f3n Espa\u00f1ola o Auton\u00f3mica reconocida por el Consejo Superior de\u00a0Deportes."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "La participaci\u00f3n est\u00e1 circunscrita a deportes de equipo que participen mediante sistema de liga regular, de \u00e1mbito\u00a0nacional."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Podr\u00e1n optar a esta subvenci\u00f3n los equipos de m\u00e1xima, subm\u00e1xima y tercera categor\u00eda en sistema\u00a0liga."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        "92664149-b753-43ad-9a70-68331e68e0c7": {
+          "@type": "image",
+          "align": "center",
+          "alt": "Clubes deportivos de \u00e9lite",
+          "credit": {},
+          "description": "",
+          "image_field": "image",
+          "size": "l",
+          "title": "Clubes deportivos de \u00e9lite",
+          "url": "../../resolveuid/b1897bda56a2416e80f541a28363cb69"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "476daa2c-8282-4fa3-97b3-f7af8105ea63",
+          "92664149-b753-43ad-9a70-68331e68e0c7"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "641de37f-a0fd-40c5-b6bf-b2bbe673c443": {
+      "@type": "heading",
+      "heading": "BASES",
+      "styles": {},
+      "theme": "default"
+    },
+    "7483a0f6-2815-4319-bb57-3bc2d2670be0": {
+      "@type": "title"
+    },
+    "d69d7370-4d75-4243-8a30-da23ff33e43a": {
+      "@type": "gridBlock",
+      "blocks": {
+        "63ba3b0e-1403-4e58-805d-91ce2e3c730a": {
+          "@type": "listing",
+          "headlineTag": "h2",
+          "querystring": {
+            "query": [
+              {
+                "i": "portal_type",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "File"
+                ]
+              },
+              {
+                "i": "Subject",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "Clubes deportivos de \u00e9lite"
+                ]
+              }
+            ],
+            "sort_on": "created",
+            "sort_order": "ascending"
+          },
+          "variation": "default"
+        },
+        "bb926987-d57e-4a9f-8c1f-015f8afaa774": {
+          "@type": "empty"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "63ba3b0e-1403-4e58-805d-91ce2e3c730a",
+          "bb926987-d57e-4a9f-8c1f-015f8afaa774"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "7483a0f6-2815-4319-bb57-3bc2d2670be0",
+      "238204e2-171c-4618-8a8f-38b4093a652f",
+      "5030615a-9e1d-4a26-9f01-f713dde1ede0",
+      "641de37f-a0fd-40c5-b6bf-b2bbe673c443",
+      "17e0813f-ca37-411e-99ca-14416de3090c",
+      "d69d7370-4d75-4243-8a30-da23ff33e43a"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-24T19:52:47+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Clubes deportivos de \u00e9lite",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "clubes-deportivos-de-elite",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-24T20:12:53+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Clubes deportivos de \u00e9lite",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-24T19:52:47+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

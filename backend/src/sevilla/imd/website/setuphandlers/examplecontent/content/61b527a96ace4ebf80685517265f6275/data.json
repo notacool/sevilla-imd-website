@@ -1,0 +1,39 @@
+{
+  "@id": "/subvenciones/participacion-competiciones-deportivas",
+  "@type": "Image",
+  "UID": "61b527a96ace4ebf80685517265f6275",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T12:18:31+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "participacion-competiciones-deportivas",
+  "image": {
+    "blob_path": "61b527a96ace4ebf80685517265f6275/image/Participaci\u00f3n competiciones deportivas",
+    "content-type": "image/jpeg",
+    "filename": "Participaci\u00f3n competiciones deportivas",
+    "height": 1080,
+    "size": 626382,
+    "width": 1920
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-07-24T12:18:31+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Participaci\u00f3n competiciones deportivas",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

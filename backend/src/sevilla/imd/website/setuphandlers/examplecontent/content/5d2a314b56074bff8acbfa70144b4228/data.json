@@ -1,0 +1,40 @@
+{
+  "@id": "/subvenciones/convocatoria-2025/anexo-autorizacion-de-documentos",
+  "@type": "File",
+  "UID": "5d2a314b56074bff8acbfa70144b4228",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T19:45:48+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "file": {
+    "blob_path": "5d2a314b56074bff8acbfa70144b4228/file/Anexo Autorizaci\u00f3n de Documentos",
+    "content-type": "application/pdf",
+    "filename": "Anexo Autorizaci\u00f3n de Documentos",
+    "size": 881255
+  },
+  "id": "anexo-autorizacion-de-documentos",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "file_view",
+  "lock": {},
+  "modified": "2025-07-24T20:05:53+00:00",
+  "preview_caption_link": null,
+  "review_state": null,
+  "rights": "",
+  "subjects": [
+    "Clubes deportivos de \u00e9lite"
+  ],
+  "title": "Anexo Autorizaci\u00f3n de Documentos",
+  "type_title": "File",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

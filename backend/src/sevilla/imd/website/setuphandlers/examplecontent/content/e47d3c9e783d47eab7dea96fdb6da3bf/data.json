@@ -1,0 +1,41 @@
+{
+  "@id": "/subvenciones/convocatoria-2025/bases-especificas-de-subvencion-en-la-linea-alta-competicion-plazo-de-solicitudes-del-1-al-31-de-octubre-de-2024",
+  "@type": "File",
+  "UID": "e47d3c9e783d47eab7dea96fdb6da3bf",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T16:26:51+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "file": {
+    "blob_path": "e47d3c9e783d47eab7dea96fdb6da3bf/file/Bases espec\u00edficas de subvenci\u00f3n en la l\u00ednea 'Alta Competici\u00f3n'. Plazo de solicitudes del 1 al 31 de octubre de 2024",
+    "content-type": "application/pdf",
+    "filename": "Bases espec\u00edficas de subvenci\u00f3n en la l\u00ednea 'Alta Competici\u00f3n'. Plazo de solicitudes del 1 al 31 de octubre de 2024",
+    "size": 2905883
+  },
+  "id": "bases-especificas-de-subvencion-en-la-linea-alta-competicion-plazo-de-solicitudes-del-1-al-31-de-octubre-de-2024",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "file_view",
+  "lock": {},
+  "modified": "2025-07-24T17:09:29+00:00",
+  "preview_caption_link": null,
+  "review_state": null,
+  "rights": "",
+  "subjects": [
+    "documentacion relacionada",
+    "Documentacion relacionada"
+  ],
+  "title": "Bases espec\u00edficas de subvenci\u00f3n en la l\u00ednea 'Alta Competici\u00f3n'. Plazo de solicitudes del 1 al 31 de octubre de 2024",
+  "type_title": "File",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

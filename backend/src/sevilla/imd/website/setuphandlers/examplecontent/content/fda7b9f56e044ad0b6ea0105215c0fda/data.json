@@ -7,14 +7,356 @@
     "3e9b6177-2297-40ef-aeb6-3f80f37e2cad": {
       "@type": "title"
     },
+    "8f5b266d-a03e-42a0-b472-4ed87fe73a74": {
+      "@type": "gridBlock",
+      "blocks": {
+        "35172220-7dcc-46f2-85d3-50ecd9ae33cc": {
+          "@type": "image",
+          "align": "center",
+          "alt": "Participaci\u00f3n competiciones deportivas",
+          "credit": {},
+          "description": "",
+          "image_field": "image",
+          "size": "l",
+          "styles": {
+            "blockWidth:noprefix": {
+              "--block-width": "var(--narrow-container-width)"
+            }
+          },
+          "url": "../../resolveuid/61b527a96ace4ebf80685517265f6275"
+        },
+        "c633e668-490a-4574-9a62-c3bc5d61a2b4": {
+          "@type": "slate",
+          "plaintext": "Las subvenciones por \u2018Participaci\u00f3n en Competiciones Deportivas\u2019 tienen como finalidad sufragar los gastos derivados de la participaci\u00f3n de los deportistas de clubes o secciones deportivas, a trav\u00e9s de actuaciones individuales o por equipos, en competiciones deportivas de cualquier \u00e1mbito (excepto los equipos que est\u00e9n adscritos al programa de Alta Competici\u00f3n, que ya perciben subvenci\u00f3n por esta v\u00eda).\n\n\nAcceso para entidades organizadoras: aplicaci\u00f3n de gesti\u00f3n de subvenciones\n\n ACCESO ",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Las subvenciones por \u2018Participaci\u00f3n en Competiciones Deportivas\u2019 tienen como finalidad sufragar los gastos derivados de la participaci\u00f3n de los deportistas de clubes o secciones deportivas, a trav\u00e9s de actuaciones individuales o por equipos, en competiciones deportivas de cualquier \u00e1mbito (excepto los equipos que est\u00e9n adscritos al programa de Alta Competici\u00f3n, que ya perciben subvenci\u00f3n por esta v\u00eda)."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Acceso para entidades organizadoras: aplicaci\u00f3n de gesti\u00f3n de subvenciones\u00a0"
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "ACCESO"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "c633e668-490a-4574-9a62-c3bc5d61a2b4",
+          "35172220-7dcc-46f2-85d3-50ecd9ae33cc"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "9cc1914b-000c-451c-9814-162d884b0260": {
+      "@type": "gridBlock",
+      "blocks": {
+        "ca617453-f447-42e3-9474-0c5b0f81a68a": {
+          "@type": "empty"
+        },
+        "e7cba4f5-83e5-4b2c-8c41-bc8a9d1cefb0": {
+          "@type": "slate",
+          "plaintext": "Solicitudes con requisitos pendientes de subsanaci\u00f3n Solicitudes excluidas Listado completo de solicitudes recibidas Diligencia de publicaci\u00f3n",
+          "value": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Solicitudes con requisitos pendientes de subsanaci\u00f3n"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Solicitudes excluidas"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Listado completo de solicitudes recibidas"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Diligencia de publicaci\u00f3n"
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "e7cba4f5-83e5-4b2c-8c41-bc8a9d1cefb0",
+          "ca617453-f447-42e3-9474-0c5b0f81a68a"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "b746f3dd-176c-47ba-ae48-444373dc9d83": {
+      "@type": "gridBlock",
+      "blocks": {
+        "cf15e9cd-7179-478d-a31a-337a5c837401": {
+          "@type": "slate",
+          "plaintext": " Documentaci\u00f3n relacionada: \n  \n Bases generales de subvenciones, convocatoria 2025    Bases espec\u00edficas de subvenci\u00f3n en la l\u00ednea \r'Participaci\u00f3n en Competiciones Deportivas'. Plazo de \rsolicitudes del 8 de mayo al 9 de junio de 2025.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Documentaci\u00f3n relacionada:"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Bases generales de subvenciones, convocatoria 2025"
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "strong"
+                    },
+                    {
+                      "text": "Bases espec\u00edficas de subvenci\u00f3n en la l\u00ednea \r'Participaci\u00f3n en Competiciones Deportivas'. Plazo de \rsolicitudes del 8 de mayo al 9 de junio de 2025."
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            }
+          ]
+        },
+        "f5cbd480-4ad1-46d9-9722-19437be34ac7": {
+          "@type": "slate",
+          "plaintext": "Para competiciones celebradas durante el periodo comprendido entre el 11 de junio de 2024 y el 10 de junio de 2025.\n\n Estado: finalizado el plazo de subsanaci\u00f3n de solicitudes (del 30 de junio al 11 de julio de 2025).\n\nA continuaci\u00f3n se pueden consultar los listados correspondientes a:",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Para competiciones celebradas durante el periodo comprendido entre el 11 de junio de 2024 y el 10 de junio de 2025."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Estado:"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " finalizado el plazo de subsanaci\u00f3n de solicitudes (del 30 de junio al 11 de julio de 2025)."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "A continuaci\u00f3n se pueden consultar los listados correspondientes a:"
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "f5cbd480-4ad1-46d9-9722-19437be34ac7",
+          "cf15e9cd-7179-478d-a31a-337a5c837401"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
     "dbf32477-64b6-486d-9b19-ad25fdf16770": {
-      "@type": "slate"
+      "@type": "slate",
+      "plaintext": "Subvenciones",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Subvenciones"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "ee320bd7-203d-4f19-87d0-a717cd6a0afe": {
+      "@type": "slate",
+      "plaintext": "CONVOCATORIA 2025",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "CONVOCATORIA 2025"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
     }
   },
   "blocks_layout": {
     "items": [
       "3e9b6177-2297-40ef-aeb6-3f80f37e2cad",
-      "dbf32477-64b6-486d-9b19-ad25fdf16770"
+      "dbf32477-64b6-486d-9b19-ad25fdf16770",
+      "8f5b266d-a03e-42a0-b472-4ed87fe73a74",
+      "ee320bd7-203d-4f19-87d0-a717cd6a0afe",
+      "b746f3dd-176c-47ba-ae48-444373dc9d83",
+      "9cc1914b-000c-451c-9814-162d884b0260"
     ]
   },
   "changeNote": "",
@@ -23,7 +365,7 @@
   "creators": [
     "admin"
   ],
-  "description": "Participaci\u00f3n en competiciones",
+  "description": "Participaci\u00f3n en competiciones deportivas",
   "effective": "2025-07-03T13:55:00+00:00",
   "exclude_from_nav": false,
   "expires": null,
@@ -37,13 +379,13 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:04+00:00",
+  "modified": "2025-07-24T20:22:55+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",
   "rights": "",
   "subjects": [],
-  "title": "Participaci\u00f3n en competiciones",
+  "title": "Participaci\u00f3n en competiciones deportivas",
   "type_title": "Page",
   "version": "current",
   "versioning_enabled": true,

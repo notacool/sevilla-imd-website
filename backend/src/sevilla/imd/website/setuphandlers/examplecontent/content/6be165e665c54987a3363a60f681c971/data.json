@@ -1,0 +1,40 @@
+{
+  "@id": "/subvenciones/convocatoria-2025/bases-de-subvenciones-clubes-deportivos-de-elite",
+  "@type": "File",
+  "UID": "6be165e665c54987a3363a60f681c971",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T17:16:24+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "file": {
+    "blob_path": "6be165e665c54987a3363a60f681c971/file/Bases de subvenciones\u00a0Clubes Deportivos de \u00c9lite",
+    "content-type": "application/pdf",
+    "filename": "Bases de subvenciones\u00a0Clubes Deportivos de \u00c9lite",
+    "size": 886431
+  },
+  "id": "bases-de-subvenciones-clubes-deportivos-de-elite",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "file_view",
+  "lock": {},
+  "modified": "2025-07-24T20:05:53+00:00",
+  "preview_caption_link": null,
+  "review_state": null,
+  "rights": "",
+  "subjects": [
+    "Clubes deportivos de \u00e9lite"
+  ],
+  "title": "Bases de subvenciones\u00a0Clubes Deportivos de \u00c9lite",
+  "type_title": "File",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

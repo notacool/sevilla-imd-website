@@ -4,8 +4,218 @@
   "UID": "f1fcd55c0b1248deb017dd7491d11df1",
   "allow_discussion": null,
   "blocks": {
+    "028f819b-b716-44fe-be50-e6e03c2461f2": {
+      "@type": "heading",
+      "alignment": "left",
+      "heading": "Niveles",
+      "styles": {},
+      "theme": "default"
+    },
+    "16889553-2baf-4da3-9003-254d128a78c2": {
+      "@type": "gridBlock",
+      "blocks": {
+        "0c505acc-ff26-483c-899c-bd39efded261": {
+          "@type": "slate",
+          "plaintext": " Escuelas Deportivas Municipales de Iniciaci\u00f3n \n\nPrebenjam\u00edn a Infantil, y escuelas para personas con discapacidad.\n\nIniciaci\u00f3n",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Escuelas Deportivas Municipales de Iniciaci\u00f3n"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Prebenjam\u00edn a Infantil, y escuelas para personas con discapacidad."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Iniciaci\u00f3n"
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        "e3da90f6-3fb4-4d9e-8594-c031320e4204": {
+          "@type": "slate",
+          "plaintext": " Escuelas Deportivas Municipales de Nivel Superior \n\nCadete y Juvenil.\n\nSuperior",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Escuelas Deportivas Municipales de Nivel Superior"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Cadete y Juvenil."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Superior"
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "0c505acc-ff26-483c-899c-bd39efded261",
+          "e3da90f6-3fb4-4d9e-8594-c031320e4204"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "284b375e-55fc-436b-a412-9c06f1dae550": {
+      "@type": "slate",
+      "plaintext": "Se convocan dos l\u00edneas de subvenci\u00f3n, en funci\u00f3n de los participantes:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Se convocan dos l\u00edneas de subvenci\u00f3n, en funci\u00f3n de los participantes:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5ab419e4-3346-4a76-b578-a078be0365ce": {
+      "@type": "heading",
+      "heading": "Subvenciones",
+      "styles": {},
+      "theme": "default"
+    },
     "b7f931d1-14d6-4556-ac35-5e1e71007559": {
-      "@type": "slate"
+      "@type": "gridBlock",
+      "blocks": {
+        "c726eb65-da6a-4be9-a9d5-74679a6c1522": {
+          "@type": "image",
+          "align": "center",
+          "alt": "Escuelas Deportivas Municipales",
+          "credit": {},
+          "image_field": "image",
+          "size": "l",
+          "styles": {
+            "blockWidth:noprefix": {
+              "--block-width": "var(--narrow-container-width)"
+            }
+          },
+          "url": "../../resolveuid/cb364b1b8f9c4d9290ed75597b328dcf"
+        },
+        "de57b833-d95f-455f-9cb8-e1f3fd7e66b1": {
+          "@type": "slate",
+          "plaintext": "Las subvenciones a Escuelas Deportivas Municipales son uno de los pilares del apoyo al deporte de base del IMD y por ello es una l\u00ednea a la que se presta una especial atenci\u00f3n, con un presupuesto anual superior al mill\u00f3n de euros que permite subvencionar m\u00e1s de 600 escuelas cada temporada en las que participan unos 9.000 ni\u00f1os y j\u00f3venes.\n\nLas inscripciones se realizan directamente a trav\u00e9s de las entidades organizadoras, que pueden ser centros educativos de Educaci\u00f3n Primaria y Secundaria,\u00a0AMPAS de centros educativos, clubes y asociaciones deportivas.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Las subvenciones a Escuelas Deportivas Municipales son uno de los pilares del apoyo al deporte de base del IMD y por ello es una l\u00ednea a la que se presta una especial atenci\u00f3n, con un presupuesto anual superior al mill\u00f3n de euros que permite subvencionar m\u00e1s de 600 escuelas cada temporada en las que participan unos 9.000 ni\u00f1os y j\u00f3venes."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Las inscripciones se realizan directamente a trav\u00e9s de las entidades organizadoras, que pueden ser centros educativos de Educaci\u00f3n Primaria y Secundaria,\u00a0AMPAS de centros educativos, clubes y asociaciones deportivas."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "de57b833-d95f-455f-9cb8-e1f3fd7e66b1",
+          "c726eb65-da6a-4be9-a9d5-74679a6c1522"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
     },
     "da9ebf7a-4356-452e-ba1f-bcc073e20a9f": {
       "@type": "title"
@@ -14,7 +224,11 @@
   "blocks_layout": {
     "items": [
       "da9ebf7a-4356-452e-ba1f-bcc073e20a9f",
-      "b7f931d1-14d6-4556-ac35-5e1e71007559"
+      "5ab419e4-3346-4a76-b578-a078be0365ce",
+      "b7f931d1-14d6-4556-ac35-5e1e71007559",
+      "028f819b-b716-44fe-be50-e6e03c2461f2",
+      "284b375e-55fc-436b-a412-9c06f1dae550",
+      "16889553-2baf-4da3-9003-254d128a78c2"
     ]
   },
   "changeNote": "",
@@ -37,7 +251,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:04+00:00",
+  "modified": "2025-07-24T17:25:03+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

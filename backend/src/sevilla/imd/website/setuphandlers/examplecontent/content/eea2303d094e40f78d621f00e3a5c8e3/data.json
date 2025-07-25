@@ -1,0 +1,41 @@
+{
+  "@id": "/subvenciones/convocatoria-2025/adenda-a-las-bases-especificas",
+  "@type": "File",
+  "UID": "eea2303d094e40f78d621f00e3a5c8e3",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T16:29:09+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "file": {
+    "blob_path": "eea2303d094e40f78d621f00e3a5c8e3/file/Adenda a las Bases Espec\u00edficas",
+    "content-type": "application/pdf",
+    "filename": "Adenda a las Bases Espec\u00edficas",
+    "size": 181877
+  },
+  "id": "adenda-a-las-bases-especificas",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "file_view",
+  "lock": {},
+  "modified": "2025-07-24T17:09:31+00:00",
+  "preview_caption_link": null,
+  "review_state": null,
+  "rights": "",
+  "subjects": [
+    "documentacion relacionada",
+    "Documentacion relacionada"
+  ],
+  "title": "Adenda a las Bases Espec\u00edficas",
+  "type_title": "File",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

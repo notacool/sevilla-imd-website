@@ -4,17 +4,269 @@
   "UID": "f0c3a9c800ac4885b6af2b43eee6734a",
   "allow_discussion": null,
   "blocks": {
-    "b71a42f2-66d7-4da4-8dc4-e36976f64dc5": {
+    "0d8d7f35-f108-432f-b7a9-f8890524e026": {
+      "@type": "gridBlock",
+      "blocks": {
+        "041c0a4a-31ff-469a-81b3-e4fdd4a266e3": {
+          "@type": "listing",
+          "headline": "Documentaci\u00f3n relacionada:",
+          "headlineTag": "h2",
+          "querystring": {
+            "query": [
+              {
+                "i": "portal_type",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "File"
+                ]
+              },
+              {
+                "i": "path",
+                "o": "plone.app.querystring.operation.string.absolutePath",
+                "v": "/subvenciones/convocatoria-2025/"
+              },
+              {
+                "i": "Subject",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "documentacion relacionada"
+                ]
+              }
+            ],
+            "sort_on": "getId",
+            "sort_order": "ascending",
+            "sort_order_boolean": false
+          },
+          "variation": "default"
+        },
+        "fa0c3a76-4ea2-4980-abd8-57bc7be6f4ba": {
+          "@type": "slate",
+          "plaintext": "Para actividades desarrolladas entre el 2 de noviembre de 2024 y el 1 de noviembre de 2025.\n\n Estado: aprobaci\u00f3n definitiva de subvenciones.\n\nEl Consejo de Gobierno del IMD, en sesi\u00f3n celebrada el 7 de febrero de 2025, ha procedido a la aprobaci\u00f3n definitiva de concesi\u00f3n de subvenciones en esta l\u00ednea para la convocatoria 2025. De acuerdo a las Bases de Subvenciones, el plazo de justificaci\u00f3n de las subvenciones ser\u00e1 de 15 d\u00edas h\u00e1biles a partir de la fecha de finalizaci\u00f3n de la actividad.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Para actividades desarrolladas entre el 2 de noviembre de 2024 y el 1 de noviembre de 2025."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Estado:"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " aprobaci\u00f3n definitiva de subvenciones."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "El Consejo de Gobierno del IMD, en sesi\u00f3n celebrada el 7 de febrero de 2025, ha procedido a la aprobaci\u00f3n definitiva de concesi\u00f3n de subvenciones en esta l\u00ednea para la convocatoria 2025. De acuerdo a las Bases de Subvenciones, el plazo de justificaci\u00f3n de las subvenciones ser\u00e1 de 15 d\u00edas h\u00e1biles a partir de la fecha de finalizaci\u00f3n de la actividad."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "fa0c3a76-4ea2-4980-abd8-57bc7be6f4ba",
+          "041c0a4a-31ff-469a-81b3-e4fdd4a266e3"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "2a0b7eaf-7b26-404e-b96a-dfd033f39cef": {
+      "@type": "gridBlock",
+      "blocks": {
+        "32dee8bb-6800-4879-9da1-f09ed349a598": {
+          "@type": "empty"
+        },
+        "587753a4-489a-4a46-b27a-f2fbabbc6191": {
+          "@type": "listing",
+          "headlineTag": "h2",
+          "querystring": {
+            "query": [
+              {
+                "i": "portal_type",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "Link",
+                  "File"
+                ]
+              },
+              {
+                "i": "Subject",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "convocatoria 2025"
+                ]
+              },
+              {
+                "i": "path",
+                "o": "plone.app.querystring.operation.string.absolutePath",
+                "v": "/subvenciones/convocatoria-2025/"
+              }
+            ],
+            "sort_order": "ascending"
+          },
+          "variation": "default"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "587753a4-489a-4a46-b27a-f2fbabbc6191",
+          "32dee8bb-6800-4879-9da1-f09ed349a598"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "59624ac4-06d1-4c67-8a7f-1c842de7db35": {
       "@type": "slate"
+    },
+    "5c6c766b-7dc1-4653-8085-9a9e5544c131": {
+      "@type": "heading",
+      "heading": "Convocatoria 2025",
+      "theme": "default"
+    },
+    "952848db-7df4-469e-809f-5d3d30ed4271": {
+      "@type": "gridBlock",
+      "blocks": {
+        "018553ec-3bac-45e9-97f2-c314f416e509": {
+          "@type": "slate",
+          "plaintext": "Las subvenciones a \u2018Organizaci\u00f3n de Actividades Deportivas\u2019 tienen como finalidad sufragar los gastos inherentes a la organizaci\u00f3n de competiciones deportivas oficiales, no oficiales y de actividades f\u00edsico-deportivas no competitivas dirigidas a diferentes edades y colectivos de personas, con el objetivo de dinamizar el tejido asociativo deportivo de la ciudad de Sevilla.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Las subvenciones a \u2018Organizaci\u00f3n de Actividades Deportivas\u2019 tienen como finalidad sufragar los gastos inherentes a la organizaci\u00f3n de competiciones deportivas oficiales, no oficiales y de actividades f\u00edsico-deportivas no competitivas dirigidas a diferentes edades y colectivos de personas, con el objetivo de dinamizar el tejido asociativo deportivo de la ciudad de Sevilla."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        "1fdc5b70-365f-48b3-a866-913151f526f7": {
+          "@type": "image",
+          "align": "center",
+          "alt": "Organizaci\u00f3n de actividades deportivas",
+          "credit": {},
+          "description": "",
+          "image_field": "image",
+          "size": "l",
+          "styles": {
+            "blockWidth:noprefix": {
+              "--block-width": "var(--narrow-container-width)"
+            }
+          },
+          "url": "../../resolveuid/81a4f653dc954a89abad9ca718c285e1"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "018553ec-3bac-45e9-97f2-c314f416e509",
+          "1fdc5b70-365f-48b3-a866-913151f526f7"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "b71a42f2-66d7-4da4-8dc4-e36976f64dc5": {
+      "@type": "heading",
+      "heading": "Subvenciones",
+      "theme": "default"
     },
     "bf0e8b9a-6ea6-428c-9c93-4a4dbaadd382": {
       "@type": "title"
+    },
+    "cf7d69db-c96e-4230-b5b6-d1c7f98ee900": {
+      "@type": "gridBlock",
+      "blocks": {
+        "80c07100-0ee6-441b-bcd6-25cbd378cba5": {
+          "@type": "slate",
+          "plaintext": "Acceso para entidades organizadoras: aplicaci\u00f3n de gesti\u00f3n de subvenciones.\n\nAcceso",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Acceso para entidades organizadoras: aplicaci\u00f3n de gesti\u00f3n de subvenciones."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Acceso"
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        "bf5f3e34-b97b-4709-810e-c44bb6058aa6": {
+          "@type": "empty"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "80c07100-0ee6-441b-bcd6-25cbd378cba5",
+          "bf5f3e34-b97b-4709-810e-c44bb6058aa6"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
     }
   },
   "blocks_layout": {
     "items": [
       "bf0e8b9a-6ea6-428c-9c93-4a4dbaadd382",
-      "b71a42f2-66d7-4da4-8dc4-e36976f64dc5"
+      "b71a42f2-66d7-4da4-8dc4-e36976f64dc5",
+      "952848db-7df4-469e-809f-5d3d30ed4271",
+      "cf7d69db-c96e-4230-b5b6-d1c7f98ee900",
+      "5c6c766b-7dc1-4653-8085-9a9e5544c131",
+      "0d8d7f35-f108-432f-b7a9-f8890524e026",
+      "2a0b7eaf-7b26-404e-b96a-dfd033f39cef",
+      "59624ac4-06d1-4c67-8a7f-1c842de7db35"
     ]
   },
   "changeNote": "",
@@ -37,7 +289,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:04+00:00",
+  "modified": "2025-07-24T17:11:12+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

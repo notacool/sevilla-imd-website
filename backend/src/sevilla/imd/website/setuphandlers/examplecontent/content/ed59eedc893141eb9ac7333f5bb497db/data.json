@@ -1,0 +1,39 @@
+{
+  "@id": "/subvenciones/alta-competicion",
+  "@type": "Image",
+  "UID": "ed59eedc893141eb9ac7333f5bb497db",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T12:18:32+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "alta-competicion",
+  "image": {
+    "blob_path": "ed59eedc893141eb9ac7333f5bb497db/image/Alta competici\u00f3n",
+    "content-type": "image/jpeg",
+    "filename": "Alta competici\u00f3n",
+    "height": 1080,
+    "size": 359222,
+    "width": 1920
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-07-24T12:18:32+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Alta competici\u00f3n",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -4,17 +4,268 @@
   "UID": "4d9aa48f924843ff82de77a6da4b4de3",
   "allow_discussion": null,
   "blocks": {
+    "47a4855a-d12c-4a40-8b65-fb2d9cb2d7db": {
+      "@type": "gridBlock",
+      "blocks": {
+        "3771861a-5f26-49eb-bb97-573b8ccc79a4": {
+          "@type": "slate",
+          "plaintext": "Acceso para entidades organizadoras: aplicaci\u00f3n de gesti\u00f3n de subvenciones.\n\nAcceso",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Acceso para entidades organizadoras: aplicaci\u00f3n de gesti\u00f3n de subvenciones."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Acceso"
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "3771861a-5f26-49eb-bb97-573b8ccc79a4"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "4811d20b-74e8-4cc6-b444-b433ce2f587e": {
+      "@type": "gridBlock",
+      "blocks": {
+        "29cf8820-9367-4a29-98cd-c6632e6d3f29": {
+          "@type": "listing",
+          "headline": "Documentaci\u00f3n relacionada:",
+          "headlineTag": "h2",
+          "querystring": {
+            "query": [
+              {
+                "i": "portal_type",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "Link"
+                ]
+              },
+              {
+                "i": "path",
+                "o": "plone.app.querystring.operation.string.absolutePath",
+                "v": "/subvenciones/equipos-de-alta-competicion/"
+              }
+            ],
+            "sort_order": "ascending"
+          },
+          "variation": "default"
+        },
+        "ba8c5df2-a802-45b2-aed1-24ceed200806": {
+          "@type": "slate",
+          "plaintext": " Convocatoria 2025 \n\n Estado: aprobaci\u00f3n definitiva de concesi\u00f3n de subvenciones.\n\nEl Consejo de Gobierno del IMD, en sesi\u00f3n celebrada el 14 de marzo de 2025, ha procedido a la aprobaci\u00f3n definitiva de concesi\u00f3n de subvenciones de apoyo a los equipos de alta competici\u00f3n. A continuaci\u00f3n se pueden consultar los listados de subvenciones aprobadas y excluidas. Se conceden 37 subvenciones por un importe total de 240.000 euros.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Convocatoria 2025"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Estado:"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " aprobaci\u00f3n definitiva de concesi\u00f3n de subvenciones."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "El Consejo de Gobierno del IMD, en sesi\u00f3n celebrada el 14 de marzo de 2025, ha procedido a la aprobaci\u00f3n definitiva de concesi\u00f3n de subvenciones de apoyo a los equipos de alta competici\u00f3n. A continuaci\u00f3n se pueden consultar los listados de subvenciones aprobadas y excluidas. Se conceden 37 subvenciones por un importe total de 240.000 euros."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "ba8c5df2-a802-45b2-aed1-24ceed200806",
+          "29cf8820-9367-4a29-98cd-c6632e6d3f29"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "6f9efea1-d587-48fc-821d-7fafe308fab8": {
+      "@type": "slate"
+    },
+    "76543d2f-bb26-4155-9be0-ec3bedc48eab": {
+      "@type": "gridBlock",
+      "blocks": {
+        "51bde00b-ae6e-4ec8-96c4-048ef35ce65e": {
+          "@type": "slate",
+          "plaintext": "La l\u00ednea de apoyo a la \u2018Alta Competici\u00f3n\u2019 tiene como finalidad la concesi\u00f3n de subvenciones en r\u00e9gimen de concurrencia competitiva para atender la participaci\u00f3n de los clubes deportivos de Sevilla capital en competici\u00f3n oficial no profesional en categor\u00eda de edad absoluta, siempre que sea organizada por Federaci\u00f3n Espa\u00f1ola o Auton\u00f3mica reconocida por el Consejo Superior de Deportes.\n\nLa participaci\u00f3n est\u00e1 circunscrita a deportes de equipo que participen en competiciones oficiales mediante sistema de liga regular o por sistema de concentraci\u00f3n, de \u00e1mbito nacional o auton\u00f3mico. Pueden optar a esta subvenci\u00f3n los equipos de m\u00e1xima, subm\u00e1xima y tercera categor\u00eda en sistema liga y de m\u00e1xima o subm\u00e1xima categor\u00eda en sistema concentraci\u00f3n.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "La l\u00ednea de apoyo a la \u2018Alta Competici\u00f3n\u2019 tiene como finalidad la concesi\u00f3n de subvenciones en r\u00e9gimen de concurrencia competitiva para atender la participaci\u00f3n de los clubes deportivos de Sevilla capital en competici\u00f3n oficial no profesional en categor\u00eda de edad absoluta, siempre que sea organizada por Federaci\u00f3n Espa\u00f1ola o Auton\u00f3mica reconocida por el Consejo Superior de Deportes."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "La participaci\u00f3n est\u00e1 circunscrita a deportes de equipo que participen en competiciones oficiales mediante sistema de liga regular o por sistema de concentraci\u00f3n, de \u00e1mbito nacional o auton\u00f3mico. Pueden optar a esta subvenci\u00f3n los equipos de m\u00e1xima, subm\u00e1xima y tercera categor\u00eda en sistema liga y de m\u00e1xima o subm\u00e1xima categor\u00eda en sistema concentraci\u00f3n."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        "c8e317a1-9ef0-4ade-8ba3-84d37ef37378": {
+          "@type": "image",
+          "align": "center",
+          "credit": {},
+          "description": "",
+          "image_field": "image",
+          "size": "l",
+          "styles": {
+            "blockWidth:noprefix": {
+              "--block-width": "var(--narrow-container-width)"
+            }
+          },
+          "url": "../../resolveuid/ed59eedc893141eb9ac7333f5bb497db"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "51bde00b-ae6e-4ec8-96c4-048ef35ce65e",
+          "c8e317a1-9ef0-4ade-8ba3-84d37ef37378"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
     "78479f4f-fcc8-48f4-ae10-09ba6c48fb58": {
       "@type": "title"
     },
-    "7b76932f-f262-452f-8c95-c51864c6bcb0": {
-      "@type": "slate"
+    "7f013a3b-a1aa-4a3b-9944-5032f3fec071": {
+      "@type": "gridBlock",
+      "blocks": {
+        "3df5f80d-ed47-48bc-be7c-ea7604d3e50b": {
+          "@type": "listing",
+          "headlineTag": "h2",
+          "querystring": {
+            "query": [
+              {
+                "i": "portal_type",
+                "o": "plone.app.querystring.operation.selection.any",
+                "v": [
+                  "Link"
+                ]
+              },
+              {
+                "i": "path",
+                "o": "plone.app.querystring.operation.string.absolutePath",
+                "v": "/subvenciones/equipos-de-alta-competicion/"
+              }
+            ],
+            "sort_order": "ascending"
+          },
+          "variation": "default"
+        },
+        "c81a9da4-5286-4a87-a838-e9fe9adeb2b3": {
+          "@type": "empty"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "3df5f80d-ed47-48bc-be7c-ea7604d3e50b",
+          "c81a9da4-5286-4a87-a838-e9fe9adeb2b3"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "f2d76533-79fb-425a-9d53-2fc3f4be1747": {
+      "@type": "heading",
+      "heading": "Subvenciones",
+      "theme": "default"
     }
   },
   "blocks_layout": {
     "items": [
       "78479f4f-fcc8-48f4-ae10-09ba6c48fb58",
-      "7b76932f-f262-452f-8c95-c51864c6bcb0"
+      "f2d76533-79fb-425a-9d53-2fc3f4be1747",
+      "76543d2f-bb26-4155-9be0-ec3bedc48eab",
+      "47a4855a-d12c-4a40-8b65-fb2d9cb2d7db",
+      "4811d20b-74e8-4cc6-b444-b433ce2f587e",
+      "7f013a3b-a1aa-4a3b-9944-5032f3fec071",
+      "6f9efea1-d587-48fc-821d-7fafe308fab8"
     ]
   },
   "changeNote": "",
@@ -37,13 +288,13 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:04+00:00",
+  "modified": "2025-07-24T13:19:05+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",
   "rights": "",
   "subjects": [],
-  "title": "Equipos de alta competici\u00f3n",
+  "title": "Alta competici\u00f3n",
   "type_title": "Page",
   "version": "current",
   "versioning_enabled": true,

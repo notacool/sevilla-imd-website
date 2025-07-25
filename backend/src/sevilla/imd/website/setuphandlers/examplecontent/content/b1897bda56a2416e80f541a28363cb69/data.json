@@ -1,0 +1,39 @@
+{
+  "@id": "/subvenciones/clubes-deportivos-de-elite/clubes-deportivos-de-elite",
+  "@type": "Image",
+  "UID": "b1897bda56a2416e80f541a28363cb69",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T12:18:32+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "clubes-deportivos-de-elite",
+  "image": {
+    "blob_path": "b1897bda56a2416e80f541a28363cb69/image/Clubes deportivos de \u00e9lite",
+    "content-type": "image/jpeg",
+    "filename": "Clubes deportivos de \u00e9lite",
+    "height": 1080,
+    "size": 225709,
+    "width": 1920
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-07-24T20:11:16+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Clubes deportivos de \u00e9lite",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

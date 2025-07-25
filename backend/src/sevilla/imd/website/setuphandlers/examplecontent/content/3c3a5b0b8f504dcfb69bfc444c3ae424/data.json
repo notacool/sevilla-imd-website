@@ -1,0 +1,63 @@
+{
+  "@id": "/subvenciones/convocatoria-2025",
+  "@type": "Document",
+  "UID": "3c3a5b0b8f504dcfb69bfc444c3ae424",
+  "allow_discussion": null,
+  "blocks": {
+    "237394b1-6ef0-484c-b587-8a98020dd866": {
+      "@type": "slate"
+    },
+    "7bbe82f7-994d-4347-aed7-f33a675c6199": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "7bbe82f7-994d-4347-aed7-f33a675c6199",
+      "237394b1-6ef0-484c-b587-8a98020dd866"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-07-24T15:07:15+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Convocatoria 2025",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "convocatoria-2025",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-07-24T19:45:49+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Convocatoria 2025",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-07-24T15:07:15+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,40 @@
+{
+  "@id": "/subvenciones/convocatoria-2025/diligencia-de-publicacion",
+  "@type": "File",
+  "UID": "96b0b9b3adb14970b32861212ce1e275",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T16:47:49+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "file": {
+    "blob_path": "96b0b9b3adb14970b32861212ce1e275/file/Diligencia de publicaci\u00f3n",
+    "content-type": "application/pdf",
+    "filename": "Diligencia de publicaci\u00f3n",
+    "size": 122481
+  },
+  "id": "diligencia-de-publicacion",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "file_view",
+  "lock": {},
+  "modified": "2025-07-24T17:00:42+00:00",
+  "preview_caption_link": null,
+  "review_state": null,
+  "rights": "",
+  "subjects": [
+    "convocatoria 2025"
+  ],
+  "title": "Diligencia de publicaci\u00f3n",
+  "type_title": "File",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

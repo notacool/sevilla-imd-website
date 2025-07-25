@@ -1,0 +1,39 @@
+{
+  "@id": "/subvenciones/escuelas-deportivas-municipales/escuelas-deportivas-municipales.jpg",
+  "@type": "Image",
+  "UID": "cb364b1b8f9c4d9290ed75597b328dcf",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T13:08:47+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "escuelas-deportivas-municipales.jpg",
+  "image": {
+    "blob_path": "cb364b1b8f9c4d9290ed75597b328dcf/image/Escuelas Deportivas Municipales.jpg",
+    "content-type": "image/jpeg",
+    "filename": "Escuelas Deportivas Municipales.jpg",
+    "height": 512,
+    "size": 565817,
+    "width": 910
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-07-24T13:08:47+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Escuelas Deportivas Municipales",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

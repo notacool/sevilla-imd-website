@@ -1,0 +1,39 @@
+{
+  "@id": "/subvenciones/background",
+  "@type": "Image",
+  "UID": "1e361df0ab0f4fc48fd32019b3c6fb09",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T12:18:31+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "background",
+  "image": {
+    "blob_path": "1e361df0ab0f4fc48fd32019b3c6fb09/image/Background",
+    "content-type": "image/svg+xml",
+    "filename": "Background",
+    "height": 1779,
+    "size": 2408,
+    "width": 1920
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-07-24T12:18:31+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Background",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

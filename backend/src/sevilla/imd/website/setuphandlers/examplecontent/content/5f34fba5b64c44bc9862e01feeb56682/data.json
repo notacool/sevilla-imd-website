@@ -1,0 +1,40 @@
+{
+  "@id": "/subvenciones/convocatoria-2025/relacion-de-justificantes-de-gastos",
+  "@type": "File",
+  "UID": "5f34fba5b64c44bc9862e01feeb56682",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T19:45:48+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "file": {
+    "blob_path": "5f34fba5b64c44bc9862e01feeb56682/file/Relaci\u00f3n de Justificantes de Gastos",
+    "content-type": "application/pdf",
+    "filename": "Relaci\u00f3n de Justificantes de Gastos",
+    "size": 991635
+  },
+  "id": "relacion-de-justificantes-de-gastos",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "file_view",
+  "lock": {},
+  "modified": "2025-07-24T20:05:53+00:00",
+  "preview_caption_link": null,
+  "review_state": null,
+  "rights": "",
+  "subjects": [
+    "Clubes deportivos de \u00e9lite"
+  ],
+  "title": "Relaci\u00f3n de Justificantes de Gastos",
+  "type_title": "File",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

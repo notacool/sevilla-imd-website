@@ -1,0 +1,40 @@
+{
+  "@id": "/subvenciones/convocatoria-2025/cuenta-justificativa",
+  "@type": "File",
+  "UID": "2ed93a4531e14e7e96aae1a0e1b478eb",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-07-24T19:45:47+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "file": {
+    "blob_path": "2ed93a4531e14e7e96aae1a0e1b478eb/file/Cuenta Justificativa",
+    "content-type": "application/pdf",
+    "filename": "Cuenta Justificativa",
+    "size": 864829
+  },
+  "id": "cuenta-justificativa",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "file_view",
+  "lock": {},
+  "modified": "2025-07-24T20:05:53+00:00",
+  "preview_caption_link": null,
+  "review_state": null,
+  "rights": "",
+  "subjects": [
+    "Clubes deportivos de \u00e9lite"
+  ],
+  "title": "Cuenta Justificativa",
+  "type_title": "File",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
