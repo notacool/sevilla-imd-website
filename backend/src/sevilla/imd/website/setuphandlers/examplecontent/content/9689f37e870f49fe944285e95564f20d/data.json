@@ -4,17 +4,471 @@
   "UID": "9689f37e870f49fe944285e95564f20d",
   "allow_discussion": null,
   "blocks": {
-    "57028451-79ef-4c31-9047-e28a876c47b0": {
-      "@type": "slate"
+    "06495d74-95b9-4fd9-8792-fe8a5223841b": {
+      "@type": "heading",
+      "heading": "El IMD",
+      "theme": "default"
+    },
+    "0a69dd60-3a51-4722-acbc-e39523cd85c9": {
+      "@type": "slate",
+      "plaintext": "Directorio de tel\u00e9fonos de los servicios centrales",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Directorio de tel\u00e9fonos de los servicios centrales"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "5ef6f3f0-17b7-4e34-abbe-de8399967286": {
+      "@type": "heading",
+      "heading": "Normativa",
+      "styles": {},
+      "theme": "default"
+    },
+    "748a189c-50d5-4f51-b5ef-176551931b05": {
+      "@type": "gridBlock",
+      "blocks": {
+        "291b9bfd-7193-41da-b375-63cd164809c6": {
+          "@type": "empty"
+        },
+        "c8ec47ab-3adf-4428-8984-e29e957268cd": {
+          "@type": "slate",
+          "plaintext": " El\u00a0Instituto Municipal de Deportes\u00a0del Ayuntamiento de Sevilla\u00a0es el organismo responsable del deporte municipal en la ciudad de Sevilla. \n\nEl IMD es un Organismo Aut\u00f3nomo de car\u00e1cter administrativo, con personalidad jur\u00eddica propia y autonom\u00eda financiera y funcional, conforme a lo dispuesto en la Ley Reguladora de las Bases del R\u00e9gimen Local, y plasmado en el articulo 1 de sus Estatutos (aprobados definitivamente por el pleno del Ayuntamiento en sesi\u00f3n celebrada el d\u00eda 25 de octubre de 1991, publicados el d\u00eda 2 de diciembre en el B.O.P., con fecha de entrada en vigor el d\u00eda 21 de diciembre de 1991). La \u00faltima modificaci\u00f3n de los Estatutos del IMD fue aprobada por el Pleno del Ayuntamiento de Sevilla el 20 de enero de 2005, y publicada el 18 de abril en el BOP n\u00ba 87 de 2005.",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "El\u00a0Instituto Municipal de Deportes\u00a0del Ayuntamiento de Sevilla\u00a0es el organismo responsable del deporte municipal en la ciudad de Sevilla."
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "El IMD es un Organismo Aut\u00f3nomo de car\u00e1cter administrativo, con personalidad jur\u00eddica propia y autonom\u00eda financiera y funcional, conforme a lo dispuesto en la Ley Reguladora de las Bases del R\u00e9gimen Local, y plasmado en el articulo 1 de sus Estatutos (aprobados definitivamente por el pleno del Ayuntamiento en sesi\u00f3n celebrada el d\u00eda 25 de octubre de 1991, publicados el d\u00eda 2 de diciembre en el B.O.P., con fecha de entrada en vigor el d\u00eda 21 de diciembre de 1991). La \u00faltima modificaci\u00f3n de los Estatutos del IMD fue aprobada por el Pleno del Ayuntamiento de Sevilla el 20 de enero de 2005, y publicada el 18 de abril en el BOP n\u00ba 87 de 2005."
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "291b9bfd-7193-41da-b375-63cd164809c6",
+          "c8ec47ab-3adf-4428-8984-e29e957268cd"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "81b0c72e-ce79-4045-97d1-0bd0350de427": {
+      "@type": "gridBlock",
+      "blocks": {
+        "8cc433c2-273d-496d-aebc-f2d27b928278": {
+          "@type": "slate",
+          "plaintext": " Servicio de deportes \nJuegos Deportivos Municipales:\u00a0955475237 Secci\u00f3n de Competici\u00f3n:\u00a0955 475 093 Secci\u00f3n de Promoci\u00f3n Deportiva:\u00a0955 475 166 y 955 471 274\n Servicio de centros deportivos \nSecci\u00f3n de Obras y Proyectos:\u00a0955 475 109 Secci\u00f3n de Instalaciones Deportivas:\u00a0955 475 339 Secci\u00f3n de Mantenimiento:\u00a0955 475 110\n Servicio de administraci\u00f3n y recursos humanos \nSecci\u00f3n de Administraci\u00f3n:\u00a0955 475 051 Secci\u00f3n de Recursos Humanos:\u00a0955 475 064 / -66 /-55\n Servicio de intervenci\u00f3n \nSecci\u00f3n de Intervenci\u00f3n:\u00a0955 475 035\n\n Secci\u00f3n de inform\u00e1tica \nTel\u00e9fono: 955 475 025",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Servicio de deportes"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Juegos Deportivos Municipales:\u00a0955475237"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Competici\u00f3n:\u00a0955 475 093"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Promoci\u00f3n Deportiva:\u00a0955 475 166 y 955 471 274"
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Servicio de centros deportivos"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Obras y Proyectos:\u00a0955 475 109"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Instalaciones Deportivas:\u00a0955 475 339"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Mantenimiento:\u00a0955 475 110"
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Servicio de administraci\u00f3n y recursos humanos"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Administraci\u00f3n:\u00a0955 475 051"
+                    }
+                  ],
+                  "type": "li"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Recursos Humanos:\u00a0955 475 064 / -66 /-55"
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Servicio de intervenci\u00f3n"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de Intervenci\u00f3n:\u00a0955 475 035"
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Secci\u00f3n de inform\u00e1tica"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Tel\u00e9fono: 955 475 025"
+                    }
+                  ],
+                  "type": "li"
+                }
+              ],
+              "type": "ul"
+            }
+          ]
+        },
+        "f0ff8287-db77-4c36-b65e-e3222e7907d2": {
+          "@type": "image",
+          "align": "center",
+          "size": "l",
+          "url": ""
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "8cc433c2-273d-496d-aebc-f2d27b928278",
+          "f0ff8287-db77-4c36-b65e-e3222e7907d2"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "d05de8de-fd9d-4332-ade6-18c27e9af5a1": {
+      "@type": "slate",
+      "plaintext": "Instituto Municipal de Deportes de Sevilla",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Instituto Municipal de Deportes de Sevilla"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
     },
     "d40bb6f5-bcf1-413d-a457-ee0ccb069ee4": {
       "@type": "title"
+    },
+    "db0579e2-a5cf-471f-a807-5b153b0ecaa5": {
+      "@type": "gridBlock",
+      "blocks": {
+        "851b9aed-f7a1-42d2-9527-3468d1623ee8": {
+          "@type": "image",
+          "align": "center",
+          "size": "l",
+          "url": ""
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "851b9aed-f7a1-42d2-9527-3468d1623ee8"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "dbf38cdf-66f0-411b-b86d-1c31ccefe1ca": {
+      "@type": "heading",
+      "heading": "Organigrama",
+      "theme": "default"
+    },
+    "ecd9f6ca-9dce-4d96-b5dc-050b282135d3": {
+      "@type": "gridBlock",
+      "blocks": {
+        "1e86e65f-f321-4c9c-a78d-9300ec2c11e6": {
+          "@type": "slate",
+          "plaintext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n Pinche en el enlace que quiera visitar: \n\nEstatutos publicados en el BOP 00/00/0000",
+          "value": [
+            {
+              "children": [
+                {
+                  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Pinche en el enlace que quiera visitar:"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "p"
+            },
+            {
+              "children": [
+                {
+                  "text": "Estatutos publicados en el BOP 00/00/0000"
+                }
+              ],
+              "type": "p"
+            }
+          ]
+        },
+        "421173af-9381-4b1f-81a3-befda69e97ce": {
+          "@type": "image",
+          "align": "center",
+          "size": "l",
+          "url": ""
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "1e86e65f-f321-4c9c-a78d-9300ec2c11e6",
+          "421173af-9381-4b1f-81a3-befda69e97ce"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "f1bba5be-1088-4e96-a587-4656f0b60a09": {
+      "@type": "slate",
+      "plaintext": "Estructura y sedes administrativas",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Estructura y sedes administrativas"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
     }
   },
   "blocks_layout": {
     "items": [
       "d40bb6f5-bcf1-413d-a457-ee0ccb069ee4",
-      "57028451-79ef-4c31-9047-e28a876c47b0"
+      "06495d74-95b9-4fd9-8792-fe8a5223841b",
+      "d05de8de-fd9d-4332-ade6-18c27e9af5a1",
+      "748a189c-50d5-4f51-b5ef-176551931b05",
+      "5ef6f3f0-17b7-4e34-abbe-de8399967286",
+      "ecd9f6ca-9dce-4d96-b5dc-050b282135d3",
+      "dbf38cdf-66f0-411b-b86d-1c31ccefe1ca",
+      "f1bba5be-1088-4e96-a587-4656f0b60a09",
+      "db0579e2-a5cf-471f-a807-5b153b0ecaa5",
+      "0a69dd60-3a51-4722-acbc-e39523cd85c9",
+      "81b0c72e-ce79-4045-97d1-0bd0350de427"
     ]
   },
   "changeNote": "",
@@ -37,7 +491,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-03T13:55:04+00:00",
+  "modified": "2025-07-25T00:46:02+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",
