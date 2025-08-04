@@ -192,12 +192,12 @@ acceptance-test:
 .PHONY: acceptance-frontend-image-build
 acceptance-frontend-image-build:
 	@echo "Build acceptance frontend image"
-	@docker build frontend -t notacool/sevilla-imd-website-frontend:acceptance -f frontend/Dockerfile --build-arg VOLTO_VERSION=$(VOLTO_VERSION)
+	@docker build frontend -t notacool-git/sevilla-imd-website-frontend:acceptance -f frontend/Dockerfile --build-arg VOLTO_VERSION=$(VOLTO_VERSION)
 
 .PHONY: acceptance-backend-image-build
 acceptance-backend-image-build:
 	@echo "Build acceptance backend image"
-	@docker build backend -t notacool/sevilla-imd-website-backend:acceptance -f backend/Dockerfile.acceptance --build-arg PLONE_VERSION=$(PLONE_VERSION)
+	@docker build backend -t notacool-git/sevilla-imd-website-backend:acceptance -f backend/Dockerfile.acceptance --build-arg PLONE_VERSION=$(PLONE_VERSION)
 
 .PHONY: acceptance-images-build
 acceptance-images-build: ## Build Acceptance frontend/backend images
@@ -207,12 +207,12 @@ acceptance-images-build: ## Build Acceptance frontend/backend images
 .PHONY: acceptance-frontend-container-start
 acceptance-frontend-container-start:
 	@echo "Start acceptance frontend"
-	@docker run --rm -p 3000:3000 --name sevilla-imd-website-frontend-acceptance --link sevilla-imd-website-backend-acceptance:backend -e RAZZLE_API_PATH=http://localhost:55001/plone -e RAZZLE_INTERNAL_API_PATH=http://backend:55001/plone -d notacool/sevilla-imd-website-frontend:acceptance
+	@docker run --rm -p 3000:3000 --name sevilla-imd-website-frontend-acceptance --link sevilla-imd-website-backend-acceptance:backend -e RAZZLE_API_PATH=http://localhost:55001/plone -e RAZZLE_INTERNAL_API_PATH=http://backend:55001/plone -d notacool-git/sevilla-imd-website-frontend:acceptance
 
 .PHONY: acceptance-backend-container-start
 acceptance-backend-container-start:
 	@echo "Start acceptance backend"
-	@docker run --rm -p 55001:55001 --name sevilla-imd-website-backend-acceptance -d notacool/sevilla-imd-website-backend:acceptance
+	@docker run --rm -p 55001:55001 --name sevilla-imd-website-backend-acceptance -d notacool-git/sevilla-imd-website-backend:acceptance
 
 .PHONY: acceptance-containers-start
 acceptance-containers-start: ## Start Acceptance containers

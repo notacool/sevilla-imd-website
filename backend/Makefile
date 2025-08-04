@@ -15,7 +15,7 @@ GREEN=`tput setaf 2`
 RESET=`tput sgr0`
 YELLOW=`tput setaf 3`
 
-IMAGE_NAME_PREFIX=ghcr.io/notacool/sevilla-imd-website
+IMAGE_NAME_PREFIX=ghcr.io/notacool-git/sevilla-imd-website
 IMAGE_TAG=latest
 
 # Python checks

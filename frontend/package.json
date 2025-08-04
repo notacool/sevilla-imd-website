@@ -3,7 +3,7 @@
   "version": "1.0.0-alpha.0",
   "description": "A new project using Plone 6.1.1 for the Sevilla IMD Website",
   "author": "Instituto Municipal de Deportes de Sevilla",
-  "homepage": "https://github.com/notacool/sevilla-imd-website",
+  "homepage": "https://github.com/notacool-git/sevilla-imd-website",
   "license": "MIT",
   "keywords": [
     "volto-addon",

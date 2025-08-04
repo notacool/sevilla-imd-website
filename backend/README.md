@@ -22,8 +22,8 @@ make create-site
 
 ## Contribute
 
-- [Issue tracker](https://github.com/notacool/sevilla-imd-website/issues)
-- [Source code](https://github.com/notacool/sevilla-imd-website/)
+- [Issue tracker](https://github.com/notacool-git/sevilla-imd-website/issues)
+- [Source code](https://github.com/notacool-git/sevilla-imd-website/)
 
 ### Prerequisites ✅
 
@@ -38,7 +38,7 @@ make create-site
 1.  Clone this repository.
 
     ```shell
-    git clone git@github.com:notacool/sevilla-imd-website.git
+    git clone git@github.com:notacool-git/sevilla-imd-website.git
     cd sevilla-imd-website/backend
     ```
 

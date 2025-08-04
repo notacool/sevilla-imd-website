@@ -2,8 +2,8 @@
 
 [![Built with Cookieplone](https://img.shields.io/badge/built%20with-Cookieplone-0083be.svg?logo=cookiecutter)](https://github.com/plone/cookieplone-templates/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Backend Tests](https://github.com/notacool/sevilla-imd-website/actions/workflows/backend.yml/badge.svg)](https://github.com/notacool/sevilla-imd-website/actions/workflows/backend.yml)
-[![Frontend Tests](https://github.com/notacool/sevilla-imd-website/actions/workflows/frontend.yml/badge.svg)](https://github.com/notacool/sevilla-imd-website/actions/workflows/frontend.yml)
+[![Backend Tests](https://github.com/notacool-git/sevilla-imd-website/actions/workflows/backend.yml/badge.svg)](https://github.com/notacool-git/sevilla-imd-website/actions/workflows/backend.yml)
+[![Frontend Tests](https://github.com/notacool-git/sevilla-imd-website/actions/workflows/frontend.yml/badge.svg)](https://github.com/notacool-git/sevilla-imd-website/actions/workflows/frontend.yml)
 
 A new project using Plone 6.1.1 for the Sevilla IMD Website
 
@@ -25,7 +25,7 @@ A new project using Plone 6.1.1 for the Sevilla IMD Website
 1.  Clone this repository, then change your working directory.
 
     ```shell
-    git clone git@github.com:notacool/sevilla-imd-website.git
+    git clone git@github.com:notacool-git/sevilla-imd-website.git
     cd sevilla-imd-website
     ```
 

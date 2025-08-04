@@ -42,10 +42,10 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/notacool/sevilla-imd-website"
+Homepage = "https://github.com/notacool-git/sevilla-imd-website"
 PyPI = "https://pypi.org/project/sevilla.imd.website"
-Source = "https://github.com/notacool/sevilla-imd-website"
-Tracker = "https://github.com/notacool/sevilla-imd-website/issues"
+Source = "https://github.com/notacool-git/sevilla-imd-website"
+Tracker = "https://github.com/notacool-git/sevilla-imd-website/issues"
 
 
 [project.entry-points."plone.autoinclude.plugin"]
@@ -78,7 +78,7 @@ filename = "CHANGELOG.md"
 start_string = "<!-- towncrier release notes start -->\n"
 title_format = "## {version} ({project_date})"
 template = "news/.changelog_template.jinja"
-issue_format = "[#{issue}](https://github.com/notacool/sevilla-imd-website/issues/{issue})"
+issue_format = "[#{issue}](https://github.com/notacool-git/sevilla-imd-website/issues/{issue})"
 underlines = ["", "", ""]
 
 [[tool.towncrier.type]]
