@@ -36,7 +36,6 @@
     "@plone/volto": "workspace:*",
     "@plone/registry": "workspace:*",
     "volto-form-block": "workspace: *",
-    "volto-dropdownmenu": "workspace: *",
     "volto-gdpr-privacy": "workspace: *",
     "@mbarde/volto-fullcalendar-block": "*",
     "@eeacms/volto-accordion-block": "^workspace: *",

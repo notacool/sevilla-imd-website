@@ -45,9 +45,6 @@ importers:
       '@plone/volto':
         specifier: workspace:*
         version: link:core/packages/volto
-      volto-dropdownmenu:
-        specifier: 'workspace: *'
-        version: link:packages/volto-dropdownmenu
       volto-form-block:
         specifier: 'workspace: *'
         version: link:packages/volto-form-block
@@ -1741,22 +1738,6 @@ importers:
         specifier: ^19.0.2
         version: 19.0.3(@types/node@22.15.32)(magicast@0.3.5)
 
-  packages/volto-dropdownmenu:
-    dependencies:
-      '@plone/volto':
-        specifier: '>=16.0.0-alpha.38'
-        version: 18.23.0(@babel/runtime@7.27.6)(@popperjs/core@2.11.8)(@types/react-dom@18.3.7(@types/react@18.3.23))(@types/react@18.3.23)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4)
-      react-outside-click-handler:
-        specifier: 1.3.0
-        version: 1.3.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
-    devDependencies:
-      '@plone/scripts':
-        specifier: ^2.0.0
-        version: 2.3.0
-      release-it:
-        specifier: ^14.10.1
-        version: 14.14.3(encoding@0.1.13)
-
   packages/volto-form-block:
     dependencies:
       '@hcaptcha/react-hcaptcha':
@@ -2094,9 +2075,6 @@ importers:
       react-dom:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
-      volto-dropdownmenu:
-        specifier: 'workspace: *'
-        version: link:../volto-dropdownmenu
       volto-form-block:
         specifier: 'workspace: *'
         version: link:../volto-form-block
@@ -22976,7 +22954,7 @@ snapshots:
       sirv: 3.0.1
       tinyglobby: 0.2.14
       tinyrainbow: 1.2.0
-      vitest: 2.1.9(@types/node@22.15.32)(@vitest/ui@2.1.9)(jsdom@21.1.2)(less@3.11.1)(lightningcss@1.30.1)(sass@1.89.2)(terser@5.43.1)
+      vitest: 2.1.9(@types/node@20.19.1)(@vitest/ui@2.1.9)(jsdom@22.1.0)(less@3.11.1)(lightningcss@1.30.1)(sass@1.89.2)(terser@5.43.1)
     optional: true
 
   '@vitest/ui@2.1.9(vitest@3.2.4)':
