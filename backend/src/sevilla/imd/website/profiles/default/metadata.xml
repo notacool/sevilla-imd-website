@@ -11,5 +11,6 @@
     <dependency>profile-collective.volto.gdprcookie:default</dependency>
     <dependency>profile-collective.geolocationbehavior:default</dependency>
     <dependency>profile-plone.formwidget.geolocation:default</dependency>
+    <dependency>profile-kitconcept.voltolighttheme:default</dependency>
   </dependencies>
 </metadata>

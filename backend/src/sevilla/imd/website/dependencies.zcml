@@ -10,4 +10,5 @@
   <include package="collective.volto.gdprcookie" />
   <include package="collective.geolocationbehavior" />
   <include package="plone.formwidget.geolocation" />
+  <include package="kitconcept.voltolighttheme" />
 </configure>
