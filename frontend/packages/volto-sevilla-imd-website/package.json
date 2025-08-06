@@ -11,10 +11,10 @@
     "react"
   ],
   "author": "Instituto Municipal de Deportes de Sevilla",
-  "homepage": "https://github.com/notacool-git/sevilla-imd-website#readme",
+  "homepage": "https://github.com/notacool/sevilla-imd-website#readme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:notacool-git/sevilla-imd-website"
+    "url": "git@github.com:notacool/sevilla-imd-website"
   },
   "publishConfig": {
     "access": "public"

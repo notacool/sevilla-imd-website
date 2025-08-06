@@ -4,7 +4,7 @@ A new project using Plone 6.1.1 for the Sevilla IMD Website
 
 [![npm](https://img.shields.io/npm/v/volto-sevilla-imd-website)](https://www.npmjs.com/package/volto-sevilla-imd-website)
 [![](https://img.shields.io/badge/-Storybook-ff4785?logo=Storybook&logoColor=white&style=flat-square)](https://notacool.github.io/volto-sevilla-imd-website/)
-[![CI](https://github.com/notacool-git/sevilla-imd-website/actions/workflows/main.yml/badge.svg)](https://github.com/notacool-git/sevilla-imd-website/actions/workflows/main.yml)
+[![CI](https://github.com/notacool/sevilla-imd-website/actions/workflows/main.yml/badge.svg)](https://github.com/notacool/sevilla-imd-website/actions/workflows/main.yml)
 
 
 ## Features
@@ -98,7 +98,7 @@ For these reasons, it only works with pnpm and Volto 18.
 1.  Clone this repository, then change your working directory.
 
     ```shell
-    git clone git@github.com:notacool-git/sevilla-imd-website.git
+    git clone git@github.com:notacool/sevilla-imd-website.git
     cd sevilla-imd-website/frontend
     ```
 
