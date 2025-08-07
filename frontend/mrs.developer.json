@@ -93,7 +93,7 @@
     "package": "@kitconcept/volto-separator-block",
     "url": "git@github.com:plone-ve/volto-separator-block.git",
     "https": "https://github.com/plone-ve/volto-separator-block.git",
-    "branch": "master"
+    "branch": "main"
   },
   "volto-slider-block": {
     "develop": true,
