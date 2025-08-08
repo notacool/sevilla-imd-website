@@ -26,7 +26,7 @@ DOCKER_IMAGE_ACCEPTANCE=plone/server-acceptance:${PLONE_VERSION}
 ADDON_NAME='volto-sevilla-imd-website'
 IMAGE_NAME=ghcr.io/notacool/sevilla-imd-website-frontend
 IMAGE_TAG=latest
-VOLTO_VERSION = $(shell cat ./mrs.developer.json | python -c "import sys, json; print(json.load(sys.stdin)['core']['tag'])")
+VOLTO_VERSION = $(shell cat ./mrs.developer.json | python3 -c "import sys, json; print(json.load(sys.stdin)['core']['tag'])")
 
 .PHONY: help
 help: ## Show this help
