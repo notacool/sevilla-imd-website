@@ -148,6 +148,11 @@ stack-start:  ## Local Stack: Start Services
 	VOLTO_VERSION=$(VOLTO_VERSION) PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose.yml up -d --build
 	@echo "Now visit: http://sevilla-imd-website.localhost"
 
+.PHONY: stack-start-backend
+stack-start-backend:  ## Local Backend Stack: Start Backend Services
+	@echo "Start local Docker stack"
+	VOLTO_VERSION=$(VOLTO_VERSION) PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose-backend.yml up -d --build
+
 .PHONY: stack-create-site
 stack-create-site:  ## Local Stack: Create a new site
 	@echo "Create a new site in the local Docker stack"
