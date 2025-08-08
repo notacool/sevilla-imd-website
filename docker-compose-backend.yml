@@ -25,6 +25,8 @@ services:
       PG_SYSTEM_DEFAULT_TEXT_SEARCH_CONFIG: ${POSTGRES_DEFAULT_TEXT_SEARCH_CONFIG}
       TZ: ${POSTGRES_TZ}
       PGTZ: ${POSTGRES_PGTZ}
+    ports:
+      - "${POSTGRES_PORT}:5432"
     volumes:
       - vol-site-data:/var/lib/postgresql/data
     healthcheck:
