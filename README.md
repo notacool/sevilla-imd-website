@@ -75,6 +75,10 @@ make stack-create-site
 
 And... you're all set! Your Plone site is up and running locally! 🚀
 
+### IMD Sevilla Stack Deployment 📦
+
+Please, checkout the [Installation Operations for Sevilla IMD Website](devops/README-IMD-Sevilla.md) documentation.
+
 ## Project structure 🏗️
 
 This monorepo consists of the following distinct sections:
