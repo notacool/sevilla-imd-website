@@ -67,7 +67,25 @@ You need either a Ubuntu or Debian based system for [imd.notacoolcompany.com](ht
 Execute the following to start container orchestration using ``docker compose`` for building PostgreSQL database and Plone CMS backend images:
 
 ```shell
-make stack-start-backend
+make stack-backend-start
+```
+
+Execute the following command to check the status of the Backend Docker :
+
+```shell
+stack-backend-status
+```
+
+Execute the following command to stop Backend Docker stack:
+
+```shell
+stack-backend-stop
+```
+
+Execute the following command to remove the Backend services, volumes and networks:
+
+```shell
+stack-backend-rm
 ```
 
 #### Volto Frontend Maquine(s)
@@ -75,7 +93,25 @@ make stack-start-backend
 Execute the following to start container orchestration using ``docker compose`` for building Volto app client Frontend image:
 
 ```shell
-make stack-start-frontend
+make stack-frontend-start
+```
+
+Execute the following command to check the status of the Frontend Docker :
+
+```shell
+stack-frontend-status
+```
+
+Execute the following command to stop Frontend Docker stack:
+
+```shell
+stack-frontend-stop
+```
+
+Execute the following command to remove the Frontend services, volumes and networks:
+
+```shell
+stack-frontend-rm
 ```
 
 ### Log Monitoring

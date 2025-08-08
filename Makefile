@@ -174,15 +174,47 @@ stack-rm:  ## Local Stack: Remove Services and Volumes
 # Sevilla IMD Website Deployment Stack
 ###########################################
 
-.PHONY: stack-start-backend
-stack-start-backend:  ## Sevilla IMD Website Backend Stack: Start Backend Services
+.PHONY: stack-backend-start
+stack-backend-start:  ## Sevilla IMD Website Backend Stack: Start Backend Services
 	@echo "Start Backend Docker stack"
 	PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose-backend.yml up -d --build
 
-.PHONY: stack-start-frontend
-stack-start-frontend:  ## Sevilla IMD Website Frontend Stack: Start Frontend Services
+.PHONY: stack-backend-status
+stack-backend-status:  ## Sevilla IMD Website Backend Stack: Check Status
+	@echo "Check the status of the Backend Docker stack"
+	@docker compose -f docker-compose-backend.yml ps
+
+.PHONY: stack-backend-stop
+stack-backend-stop:  ## Sevilla IMD Website Backend Stack: Stop Services
+	@echo "Stop Backend Docker stack"
+	@docker compose -f docker-compose-backend.yml stop
+
+.PHONY: stack-backend-rm
+stack-backend-rm:  ## Sevilla IMD Website Backend Stack: Remove Services, Volumes and Networks
+	@echo "Remove Backend Docker stack"
+	@docker compose -f docker-compose-backend.yml down
+	@echo "Remove Backend volume data"
+	@docker volume rm $(PROJECT_NAME)_vol-site-data
+
+.PHONY: stack-frontend-start
+stack-frontend-start:  ## Sevilla IMD Website Frontend Stack: Start Frontend Services
 	@echo "Start Frontend Docker stack"
 	VOLTO_VERSION=$(VOLTO_VERSION) docker compose -f docker-compose-frontend.yml up -d --build
+
+.PHONY: stack-frontend-status
+stack-frontend-status:  ## Sevilla IMD Website Frontend Stack: Check Status
+	@echo "Check the status of the Frontend Docker stack"
+	@docker compose -f docker-compose-frontend.yml ps
+
+.PHONY: stack-frontend-stop
+stack-frontend-stop:  ## Sevilla IMD Website Frontend Stack: Stop Services
+	@echo "Stop Frontend Docker stack"
+	@docker compose -f docker-compose-frontend.yml stop
+
+.PHONY: stack-frontend-rm
+stack-frontend-rm:  ## Sevilla IMD Website Frontend Stack: Remove Services and Networks
+	@echo "Remove Frontend Docker stack"
+	@docker compose -f docker-compose-frontend.yml down
 
 ###########################################
 # Acceptance
