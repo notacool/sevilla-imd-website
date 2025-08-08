@@ -43,6 +43,7 @@ PLONE_PORT=8080
 VOLTO_VERSION=18.23.0
 VOLTO_PORT=3000
 RAZZLE_INTERNAL_API_PATH=http://backend:8080/Plone
+VOLTO_ROBOTSTXT="User-agent: *\nDisallow: /slides/\nDisallow: /te-destacamos/\nDisallow: /avisos/\nDisallow: /background\nDisallow: /ficheros/\nDisallow: /selects/\nDisallow: /fotos-uso-privado/\nDisallow: /area-privada/\nDisallow: /app/carreras/clasificaciones/\nDisallow: /app/maraton/"
 
 # PostgreSQL Server
 POSTGRES_VERSION=14.15
