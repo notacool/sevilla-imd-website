@@ -179,6 +179,11 @@ stack-start-backend:  ## Sevilla IMD Website Backend Stack: Start Backend Servic
 	@echo "Start Backend Docker stack"
 	PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose-backend.yml up -d --build
 
+.PHONY: stack-start-frontend
+stack-start-frontend:  ## Sevilla IMD Website Frontend Stack: Start Frontend Services
+	@echo "Start Frontend Docker stack"
+	VOLTO_VERSION=$(VOLTO_VERSION) docker compose -f docker-compose-frontend.yml up -d --build
+
 ###########################################
 # Acceptance
 ###########################################
