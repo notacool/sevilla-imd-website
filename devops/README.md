@@ -8,7 +8,7 @@ Welcome to the DevOps documentation for Sevilla IMD Website! In this guide, we'l
 
 - **Docker Swarm** takes it a step further by turning a group of Docker engines into a single, virtual Docker engine. It allows us to deploy our containers across multiple machines, enhancing availability and scalability. It's like having a swarm of bees working harmoniously to build, run, and scale your application! 🐝🌟
 
-### Our Docker Stack 📚
+## Our Docker Stack 📚
 
 We deploy a robust website running [Plone](https://plone.org/) using a Docker stack that consists of:
 
@@ -20,8 +20,8 @@ We deploy a robust website running [Plone](https://plone.org/) using a Docker st
 
 - **Postgres 14 Database:** A reliable, robust database to store the site data, ensuring that our content is safe, secure, and quickly accessible. 🗃️⚡
 
-
 Now, let’s dive into the setup! 🏊‍♂️💫
+
 ## Setup
 
 Ensure you navigate to the `devops` folder before executing any commands listed in this document. From the root of your repository, execute:
@@ -40,7 +40,7 @@ cp .env_dist .env
 
 Edit the `.env` file to suit your environment. For example:
 
-```
+```ini
 ANSIBLE_REMOTE_PORT=22
 DEPLOY_ENV=prod
 DEPLOY_HOST=imd.notacoolcompany.com
@@ -52,11 +52,9 @@ STACK_NAME=imd-notacoolcompany-com
 
 Note: The `.env` file is included in `.gitignore`, ensuring environment-specific configurations aren't pushed to the repository.
 
-
 ### Server installation
 
 You need either a Ubuntu or Debian based system for imd.notacoolcompany.com, enable SSH, and install a supported version of Python 3 on that system.
-
 
 ### Ansible Installation
 

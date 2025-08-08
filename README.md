@@ -11,46 +11,44 @@ A new project using Plone 6.1.1 for the Sevilla IMD Website
 
 ### Prerequisites ✅
 
--   An [operating system](https://6.docs.plone.org/install/create-project-cookieplone.html#prerequisites-for-installation) that runs all the requirements mentioned.
--   [uv](https://6.docs.plone.org/install/create-project-cookieplone.html#uv)
--   [nvm](https://6.docs.plone.org/install/create-project-cookieplone.html#nvm)
--   [Node.js and pnpm](https://6.docs.plone.org/install/create-project.html#node-js) 22
--   [Make](https://6.docs.plone.org/install/create-project-cookieplone.html#make)
--   [Git](https://6.docs.plone.org/install/create-project-cookieplone.html#git)
--   [Docker](https://docs.docker.com/get-started/get-docker/) (optional)
-
+- An [operating system](https://6.docs.plone.org/install/create-project-cookieplone.html#prerequisites-for-installation) that runs all the requirements mentioned.
+- [uv](https://6.docs.plone.org/install/create-project-cookieplone.html#uv)
+- [nvm](https://6.docs.plone.org/install/create-project-cookieplone.html#nvm)
+- [Node.js and pnpm](https://6.docs.plone.org/install/create-project.html#node-js) 22
+- [Make](https://6.docs.plone.org/install/create-project-cookieplone.html#make)
+- [Git](https://6.docs.plone.org/install/create-project-cookieplone.html#git)
+- [Docker](https://docs.docker.com/get-started/get-docker/) (optional)
 
 ### Installation 🔧
 
-1.  Clone this repository, then change your working directory.
+1. Clone this repository, then change your working directory.
 
     ```shell
     git clone git@github.com:notacool/sevilla-imd-website.git
     cd sevilla-imd-website
     ```
 
-2.  Install this code base.
+2. Install this code base.
 
     ```shell
     make install
     ```
 
-
 ### Fire Up the Servers 🔥
 
-1.  Create a new Plone site on your first run.
+1. Create a new Plone site on your first run.
 
     ```shell
     make backend-create-site
     ```
 
-2.  Start the backend at http://localhost:8080/.
+2. Start the backend at http://localhost:8080/.
 
     ```shell
     make backend-start
     ```
 
-3.  In a new shell session, start the frontend at http://localhost:3000/.
+3. In a new shell session, start the frontend at http://localhost:3000/.
 
     ```shell
     make frontend-start
@@ -122,6 +120,7 @@ make format
 Formatters can also be run within the `backend` or `frontend` folders.
 
 ### Linting the codebase
+
 or `lint`:
 
  ```shell

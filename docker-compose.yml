@@ -2,6 +2,7 @@
 name: sevilla-imd-website
 
 services:
+### Traefik Server #########################################
   traefik:
     image: traefik:v2.11
 
@@ -31,6 +32,8 @@ services:
       - --accesslog
       - --log
       - --api
+
+### Varnish Cache Server Cluster Purger #########################################
   purger:
     image: ghcr.io/kitconcept/cluster-purger:latest
     environment:
@@ -39,6 +42,7 @@ services:
       PURGER_MODE: "compose"
       PURGER_PUBLIC_SITES: "['sevilla-imd-website.localhost']"
 
+### Varnish Cache Server #########################################
   varnish:
     build:
       context: devops/varnish
@@ -49,13 +53,17 @@ services:
       - traefik.http.services.svc-varnish.loadbalancer.server.port=80
     depends_on:
       - backend
+
+### Volto Frontend #########################################
   frontend:
     build:
       context: ./frontend
       args:
         - VOLTO_VERSION=${VOLTO_VERSION}
     environment:
-      RAZZLE_INTERNAL_API_PATH: http://backend:8080/Plone
+      RAZZLE_INTERNAL_API_PATH: ${RAZZLE_INTERNAL_API_PATH}
+    ports:
+      - "${VOLTO_PORT}:3000"
     depends_on:
       - backend
     labels:
@@ -75,13 +83,16 @@ services:
       - traefik.http.routers.rt-frontend-internal.entrypoints=http
       - traefik.http.routers.rt-frontend-internal.service=svc-frontend
 
+### Plone CMS #########################################
   backend:
     build:
       context: ./backend
       args:
-        - PLONE_VERSION=${PLONE_VERSION}
+        - PLONE_VERSION=${PLONE_VERSION:-6.1.2}
     environment:
       RELSTORAGE_DSN: "dbname='${DB_NAME:-plone}' user='${DB_NAME:-plone}' host='${DB_HOST:-db}' password='${DB_PASSWORD:-jtSdjwghqspy}' port='${DB_PORT:-5432}'"
+    ports:
+      - "${PLONE_PORT}:8080"
     depends_on:
       - db
     labels:
@@ -125,14 +136,18 @@ services:
       - traefik.http.routers.rt-backend-classic.service=svc-backend
       - traefik.http.routers.rt-backend-classic.middlewares=gzip,mw-backend-auth,mw-backend-vhm-classic
 
+### PostgreSQL Server #########################################
   db:
-    image: postgres:14.15
+    image: postgres:${POSTGRES_VERSION}
     environment:
-      POSTGRES_USER: plone
-      POSTGRES_PASSWORD: jtSdjwghqspy
-      POSTGRES_DB: plone
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "${POSTGRES_PORT}:5432"
     volumes:
       - vol-site-data:/var/lib/postgresql/data
 
+### Docker Volumes #########################################
 volumes:
   vol-site-data: {}
