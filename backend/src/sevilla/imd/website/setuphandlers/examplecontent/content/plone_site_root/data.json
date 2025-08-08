@@ -601,6 +601,7 @@
       "a9b59282-1f01-4030-93c0-ae8e0dd0ca5c"
     ]
   },
+  "complementary_logo": null,
   "contributors": [],
   "creators": [
     "admin"
@@ -610,7 +611,11 @@
   "expires": null,
   "exportimport.constrains": {},
   "exportimport.conversation": [],
+  "has_fat_menu": true,
+  "has_intranet_header": false,
+  "header_actions": [],
   "id": "Plone",
+  "intranet_flag": null,
   "is_folderish": true,
   "items_total": 10,
   "language": "##DEFAULT##",
@@ -618,6 +623,7 @@
     "locked": false,
     "stealable": true
   },
+  "logo": null,
   "review_state": null,
   "rights": "",
   "subjects": [],
