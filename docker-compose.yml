@@ -33,7 +33,7 @@ services:
       - --log
       - --api
 
-### Varnish Cache Server Cluster Purger #########################################
+### Varnish Cluster Purger #########################################
   purger:
     image: ghcr.io/kitconcept/cluster-purger:latest
     environment:
