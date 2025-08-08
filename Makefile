@@ -148,11 +148,6 @@ stack-start:  ## Local Stack: Start Services
 	VOLTO_VERSION=$(VOLTO_VERSION) PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose.yml up -d --build
 	@echo "Now visit: http://sevilla-imd-website.localhost"
 
-.PHONY: stack-start-backend
-stack-start-backend:  ## Local Backend Stack: Start Backend Services
-	@echo "Start local Docker stack"
-	VOLTO_VERSION=$(VOLTO_VERSION) PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose-backend.yml up -d --build
-
 .PHONY: stack-create-site
 stack-create-site:  ## Local Stack: Create a new site
 	@echo "Create a new site in the local Docker stack"
@@ -174,6 +169,15 @@ stack-rm:  ## Local Stack: Remove Services and Volumes
 	@docker compose -f docker-compose.yml down
 	@echo "Remove local volume data"
 	@docker volume rm $(PROJECT_NAME)_vol-site-data
+
+###########################################
+# Sevilla IMD Website Deployment Stack
+###########################################
+
+.PHONY: stack-start-backend
+stack-start-backend:  ## Sevilla IMD Website Backend Stack: Start Backend Services
+	@echo "Start Backend Docker stack"
+	PLONE_VERSION=$(PLONE_VERSION) docker compose -f docker-compose-backend.yml up -d --build
 
 ###########################################
 # Acceptance

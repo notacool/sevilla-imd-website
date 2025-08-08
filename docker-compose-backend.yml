@@ -22,9 +22,17 @@ services:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ${POSTGRES_DB}
+      PG_SYSTEM_DEFAULT_TEXT_SEARCH_CONFIG: ${POSTGRES_DEFAULT_TEXT_SEARCH_CONFIG}
+      TZ: ${POSTGRES_TZ}
+      PGTZ: ${POSTGRES_PGTZ}
     volumes:
       - vol-site-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -d ${POSTGRES_DB} -h ${POSTGRES_HOST} -p ${POSTGRES_PORT} -U ${POSTGRES_USER}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
-### Stack Volumes #########################################
+### Docker Volumes #########################################
 volumes:
   vol-site-data: {}
