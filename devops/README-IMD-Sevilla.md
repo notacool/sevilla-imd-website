@@ -8,6 +8,8 @@ Welcome to the Installation documentation for Sevilla IMD Website! In this guide
 
 We deploy a robust website running [Plone](https://plone.org/) using a Docker stack that consists of:
 
+- **Plone Frontend using Volto:** A modern, fast, React-based frontend that delivers an exceptional user experience. It's like having a sleek, high-performance car to navigate the web! 🏎️💨
+
 - **Plone Backend:** Responsible for the API, it's the engine under the hood, ensuring that data is processed, stored, and retrieved efficiently. 🏭🚀
 
 - **Postgres 14 Database:** A reliable, robust database to store the site data, ensuring that our content is safe, secure, and quickly accessible. 🗃️⚡
@@ -68,6 +70,14 @@ Execute the following to start container orchestration using ``docker compose`` 
 make stack-start-backend
 ```
 
+#### Volto Frontend Maquine(s)
+
+Execute the following to start container orchestration using ``docker compose`` for building Volto app client Frontend image:
+
+```shell
+make stack-start-frontend
+```
+
 ### Log Monitoring
 
 Monitor logs for each service using the commands below:
@@ -86,6 +96,12 @@ You can see the Plone CMS backend container logs, executing the following comman
 
 ```shell
 docker compose logs -f backend
+```
+
+You can see the Volto app client container logs, executing the following command:
+
+```shell
+docker compose logs -f frontend
 ```
 
 With the above commands you can verify that the containers and their processes are running correctly.

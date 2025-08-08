@@ -1,5 +1,6 @@
 # syntax=docker/dockerfile:1
 ARG VOLTO_VERSION
+ARG RAZZLE_INTERNAL_API_PATH
 FROM plone/frontend-builder:${VOLTO_VERSION:-18.23.0} AS builder
 
 COPY --chown=node packages/volto-sevilla-imd-website /app/packages/volto-sevilla-imd-website

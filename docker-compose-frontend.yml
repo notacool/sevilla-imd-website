@@ -1,0 +1,14 @@
+---
+name: sevilla-imd-website
+
+services:
+### Volto Frontend #########################################
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        - VOLTO_VERSION=${VOLTO_VERSION}
+    environment:
+      RAZZLE_INTERNAL_API_PATH: ${VOLTO_RAZZLE_INTERNAL_API_PATH-'http://backend:8080/Plone'}
+    ports:
+      - "${VOLTO_PORT}:3000"
