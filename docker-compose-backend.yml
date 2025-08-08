@@ -15,7 +15,7 @@ services:
     depends_on:
       - db
 
-### PostgreSQL #########################################
+### PostgreSQL Server #########################################
   db:
     image: postgres:${POSTGRES_VERSION}
     environment:
@@ -25,5 +25,6 @@ services:
     volumes:
       - vol-site-data:/var/lib/postgresql/data
 
+### Stack Volumes #########################################
 volumes:
   vol-site-data: {}
