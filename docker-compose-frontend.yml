@@ -12,6 +12,6 @@ services:
         - VOLTO_ROBOTSTXT=${VOLTO_ROBOTSTXT}
     environment:
       RAZZLE_INTERNAL_API_PATH: ${RAZZLE_INTERNAL_API_PATH-'http://backend:8080/Plone'}
-      VOLTO_ROBOTSTXT: ${VOLTO_VOLTO_ROBOTSTXT}
+      VOLTO_ROBOTSTXT: ${VOLTO_ROBOTSTXT}
     ports:
       - "${VOLTO_PORT}:3000"
