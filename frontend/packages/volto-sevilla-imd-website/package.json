@@ -30,7 +30,7 @@
     "volto-form-block": "workspace:*",
     "volto-gdpr-privacy": "workspace:*",
     "@mbarde/volto-fullcalendar-block": "workspace:*",
-    "@eeacms/volto-accordion-block": "workspace:*",
+    "@eeacms/volto-accordion-block": "11.0.4",
     "@kitconcept/volto-carousel-block": "workspace:*",
     "@kitconcept/volto-banner-block": "workspace:*",
     "@kitconcept/volto-button-block": "workspace:*",

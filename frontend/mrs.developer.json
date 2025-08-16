@@ -31,14 +31,6 @@
     "https": "https://github.com/plone-ve/volto-fullcalendar-block.git",
     "branch": "main"
   },
-  "volto-accordion-block": {
-    "develop": true,
-    "output": "./packages/",
-    "package": "@eeacms/volto-accordion-block",
-    "url": "git@github.com:plone-ve/volto-accordion-block.git",
-    "https": "https://github.com/plone-ve/volto-accordion-block.git",
-    "branch": "master"
-  },
   "volto-button-block": {
     "develop": true,
     "output": "./packages/",
