@@ -4,103 +4,75 @@
  */
 
 import React from 'react';
-import { UniversalLink } from '@plone/volto/components';
-import { Container } from 'semantic-ui-react';
-import Icon from '@plone/volto/components/theme/Icon/Icon';
-import facebookSVG from '../../icons/facebook-default.svg';
-import instagramSVG from '../../icons/instagram-default.svg';
-import twitterSVG from '../../icons/twitter-default.svg';
-import youtubeSVG from '../../icons/youtube-default.svg';
+import 'volto-sevilla-imd-website/theme/_footer.scss';
 
-
-export default function Footer() {
+const Footer = () => {
   return (
-    <footer id="footer">
-      <div className="">
-        <div className="col1">
-          <div className="imdParent">
-            <div className="imd">
-              <p className="imd1">IMD</p>
-            </div>
-            <div className="institutoMunicipalDe">Instituto Municipal de Deportes de Sevilla</div>
-          </div>
-          <div className="direccinWrapper">
-            <div className="direccin">Dirección</div>
-          </div>
-          <div className="edificioSipsParent">
-            <div className="direccin">Edificio SIPS</div>
-            <div className="direccin">Pol. Ind. Arte Sacro, calle Química 5</div>
-            <div className="direccin">41015 Sevilla</div>
-          </div>
-        </div>
-        <div className="imdLinksAlt">
+    <footer className="footer">
+      <div className="footer-background"></div>
 
-          <div className="content">
-              <div className="text">
-                <div className="page">
-                <UniversalLink className="item" href="/area-privada" title="Area privada">
-                  Area privada
-                </UniversalLink>
-                </div>
-              </div>
-              <div className="text">
-                <div className="page">
-                <UniversalLink className="item" href="/sitemap" title="Mapa del sitio">
-                  Mapa del sitio
-                </UniversalLink>
-                </div>
-              </div>
-              <div className="text">
-                <div className="page">
-                <UniversalLink className="item" href="/politica-de-privacidad" title="Política de privacidad">
-                  Política de privacidad
-                </UniversalLink>
-                </div>
-              </div>
-              <div className="text">
-                <div className="page">
-                <UniversalLink className="item" href="/accesibilidad" title="Accesibilidad">
-                  Accesibilidad
-                </UniversalLink>
-                </div>
-              </div>
-              <div className="text">
-                <div className="page">
-                <UniversalLink className="item" href="/aviso-legal" title="Aviso Legal">
-                  Aviso Legal
-                </UniversalLink>
-                </div>
-              </div>
+      <div className="footer-content">
+        {/* Column 1 - IMD Information */}
+        <div className="info-column">
+          <div className="imd-wrapper">
+            <h3>IMD</h3>
+            <p className="fullname">Instituto Municipal de Deportes de Sevilla</p>
+          </div>
+
+          <div className="address-wrapper">
+            <h4>Dirección</h4>
+            <p>Edificio SIPS</p>
+            <p>Pol. Ind. Arte Sacro, calle Química 5</p>
+            <p>41015 Sevilla</p>
           </div>
         </div>
-        <div className="permaneceEnContactoParent">
-          <div className="permaneceEnContacto">
-            <p>Permanece en contacto</p>
+
+        {/* Column 2 - Links */}
+        <div className="links-column">
+          <a href="/area-privada">Área privada</a>
+          <a href="/mapa-sitio">Mapa del sitio</a>
+          <a href="/accesibilidad">Accesibilidad</a>
+          <a href="/contacto">Contacto</a>
+          <a href="/politica-cookies">Política de cookies</a>
+          <a href="/politica-privacidad">Política de privacidad</a>
+          <a href="/aviso-legal">Aviso legal</a>
+        </div>
+
+        {/* Column 3 - Newsletter */}
+        <div className="newsletter-column">
+          <h3>Subscribirse al boletín</h3>
+          <div className="newsletter-form">
+            <label>Email</label>
+            <input
+              type="email"
+              placeholder="Escribe tu Email"
+              className="newsletter-input"
+            />
+            <button className="subscribe-button">
+              <span>SUBSCRIBIRSE</span>
+              <i className="subscribe-icon"></i>
+            </button>
           </div>
-          <div className="iconsSocial">
-            <div className="buttonssocial48px">
-              <div className="buttonssocial48pxChild"></div>
-              <Icon name={facebookSVG} size="48px" />
-            </div>
-            <div className="buttonssocial48px">
-              <div className="buttonssocial48pxChild"></div>
-              <Icon name={instagramSVG} size="48px" />
-            </div>
-            <div className="buttonssocial48px">
-              <div className="buttonssocial48pxChild"></div>
-              <Icon name={twitterSVG} size="48px" />
-            </div>
-            <div className="buttonssocial48px">
-              <div className="buttonssocial48pxChild"></div>
-              <Icon name={youtubeSVG} size="48px" />
-            </div>
+        </div>
+
+        {/* Social Media Section */}
+        <div className="social-section">
+          <h3>Permanece en contacto</h3>
+          <div className="social-icons">
+            <a href="#" className="social-icon facebook"></a>
+            <a href="#" className="social-icon twitter"></a>
+            <a href="#" className="social-icon youtube"></a>
+            <a href="#" className="social-icon instagram"></a>
           </div>
         </div>
       </div>
-      <div className="bottomArea">
-        <div className="bg" />
-        <div className="imd2025">IMD @ 2025</div>
+
+      {/* Bottom Area */}
+      <div className="bottom-area">
+        <p>IMD@2025</p>
       </div>
     </footer>
   );
-}
+};
+
+export default Footer;
