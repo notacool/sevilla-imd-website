@@ -9,7 +9,7 @@ $text-accent: #cb8e00;
   position: relative;
   width: 100%;
   background-color: $primary-color;
-  height: 48px;
+  height: 60px;
 }
 
 .topbar-content {
@@ -70,10 +70,10 @@ $text-accent: #cb8e00;
     align-items: center;
     justify-content: center;
     &-inner {
-      height: 1px;
+      // height: 1px;
       width: 24px;
-      transform: rotate(90deg);
-      img {
+      transform: rotate(0deg);
+      svg {
         display: block;
         max-width: none;
         width: 100%;

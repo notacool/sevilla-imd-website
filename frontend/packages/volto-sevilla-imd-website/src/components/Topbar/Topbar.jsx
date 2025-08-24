@@ -1,19 +1,18 @@
 /**
  * Topbar component.
- * @module components/Header/Topbar clima soleado
+ * @module components/Topbar/Topbar
  */
 
 import React from 'react';
-//import '../../../theme/_topbar.scss';
-import 'volto-sevilla-imd-website/theme/_topbar.scss';
+import Icon from '@plone/volto/components/theme/Icon/Icon';
+import weatherIcon from '../../icons/weather/sunny-climate.svg';
+import verticalLine from '../../icons/vertical-line.svg';
+import facebookIcon from '../../icons/social/facebook-default.svg';
+import twitterIcon from '../../icons/social/twitter-default.svg';
+import youtubeIcon from '../../icons/social/youtube-default.svg';
+import instagramIcon from '../../icons/social/instagram-default.svg';
 
-// Image assets
-const imgIconWeather = 'volto-sevilla-imd-website/icons/sunny-climate.svg.svg';
-const imgLine = 'volto-sevilla-imd-website/icons/vertical-line.svg';
-const imgIconFacebook = 'volto-sevilla-imd-website/icons/social/facebook-default.svg';
-const imgIconX = 'volto-sevilla-imd-website/icons/social/x-default.svg';
-const imgIconYoutube = 'volto-sevilla-imd-website/icons/social/youtube-default.svg';
-const imgIconInsta = 'volto-sevilla-imd-website/icons/social/instagram-default.svg';
+import 'volto-sevilla-imd-website/theme/_topbar.scss';
 
 const Topbar = () => {
   return (
@@ -22,12 +21,12 @@ const Topbar = () => {
         <div className="weather-widget">
           <div className="weather-data">
             <div className="weather-icon">
-              <img alt="Weather" src={imgIconWeather} />
+              <Icon name={weatherIcon} size="38px" />
             </div>
             <div className="weather-divider">
               <div className="divider-line">
                 <div className="divider-line-inner">
-                  <img alt="" src={imgLine} />
+                  <Icon name={verticalLine} size="24px" />
                 </div>
               </div>
             </div>
@@ -47,16 +46,16 @@ const Topbar = () => {
         <div className="social-widget">
           <div className="social-icons">
             <a href="https://facebook.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img alt="Facebook" src={imgIconFacebook} />
+              <Icon name={facebookIcon} size="24px" />
             </a>
             <a href="https://x.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img alt="X" src={imgIconX} />
+              <Icon name={twitterIcon} size="24px" />
             </a>
             <a href="https://youtube.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img alt="Youtube" src={imgIconYoutube} />
+              <Icon name={youtubeIcon} size="24px" />
             </a>
             <a href="https://instagram.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img alt="Instagram" src={imgIconInsta} />
+              <Icon name={instagramIcon} size="24px" />
             </a>
           </div>
         </div>
