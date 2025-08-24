@@ -1,0 +1,279 @@
+// Variables
+$primary-300: #ffefcb;
+$primary-1600: #cb8e00;
+$primary-1400: #f2a900;
+$ocher-200: #f6f3ed;
+$ocher-400: #e1dac7;
+$ocher-600: #d4c9ad;
+$black: #1a202c;
+$white: #ffffff;
+
+// Mixins
+@mixin card-shadow {
+  box-shadow: 0px 0px 24px 0px rgba(203, 142, 0, 0.2);
+}
+
+// Events Section
+.events-section {
+  position: relative;
+  width: 100%;
+  height: 855px;
+}
+
+.events-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('./static/images/bg-s2.svg');
+
+//   img {
+//     width: 100%;
+//     height: 100%;
+//     object-fit: cover;
+//   }
+}
+
+// Content Layout
+.events-content {
+  position: absolute;
+  left: 262px;
+  width: 1396px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-end;
+}
+
+// Slider Controls
+.slider-controls {
+  display: flex;
+  gap: 8px;
+
+  .slider-button {
+    width: 82px;
+    height: 82px;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $ocher-600;
+    transition: background-color 0.3s ease;
+
+    img {
+      width: 62px;
+      height: 62px;
+    }
+
+    &.left {
+      background-image: url('./static/icons/slider-left-arrow-default.svg');
+    }
+
+    &.right {
+      background-image: url('./static/icons/slider-right-arrow-default.svg');
+    }
+
+    &.left:hover {
+      background-image: url('./static/icons/slider-left-arrow-hover.svg');
+    }
+
+    &.right:hover {
+      background-image: url('./static/icons/slider-right-arrow-hover.svg');
+    }
+
+    &.active {
+      background-color: $ocher-400;
+    }
+
+    &:hover {
+      background-color: $ocher-400;
+    }
+  }
+}
+
+// Event Cards
+.event-cards {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: center;
+}
+
+.event-card {
+  display: flex;
+  width: 100%;
+  @include card-shadow;
+  border-radius: 16px;
+  overflow: hidden;
+
+  .card-content {
+    width: 50%;
+    height: 392px;
+    background-color: $primary-300;
+    padding: 47px 31px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .content-text {
+    width: 637px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .event-title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    color: $black;
+    margin: 0;
+    line-height: normal;
+  }
+
+  .event-subtitle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: $black;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  .event-date {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: $black;
+
+    .day {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+      font-size: 56px;
+      line-height: normal;
+    }
+
+    .month {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 1.6;
+    }
+  }
+
+  .event-description {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.6;
+    color: $black;
+    margin: 0;
+    width: 618px;
+  }
+
+  .event-link {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    text-decoration: none;
+    color: $primary-1600;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.2;
+
+    .arrow-icon {
+      width: 62px;
+      height: 62px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.3s ease;
+    }
+
+    &:hover {
+      .arrow-icon {
+        transform: translateX(5px);
+      }
+    }
+  }
+
+  .card-image {
+    width: 50%;
+    height: 392px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transform: scaleY(-1);
+    }
+  }
+}
+
+// Slider Pagination
+.slider-pagination {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+
+  .pagination-bar {
+    height: 16px;
+    background-color: $ocher-600;
+
+    &:first-child {
+      width: 100px;
+    }
+
+    &:not(:first-child) {
+      width: 40px;
+    }
+
+    &.active {
+      background-color: $ocher-400;
+    }
+  }
+}
+
+// Responsive Design
+@media (max-width: 1600px) {
+  .events-content {
+    left: 120px;
+    width: calc(100% - 240px);
+  }
+
+  .event-card {
+    .content-text {
+      width: 100%;
+    }
+
+    .event-description {
+      width: 100%;
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  .events-content {
+    left: 60px;
+    width: calc(100% - 120px);
+  }
+
+  .event-card {
+    flex-direction: column;
+
+    .card-content,
+    .card-image {
+      width: 100%;
+    }
+  }
+}
