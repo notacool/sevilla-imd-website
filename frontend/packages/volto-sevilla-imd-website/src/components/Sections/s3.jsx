@@ -13,7 +13,7 @@ import AvisosImg from './avisos.jpg';
 import PerfilImg from './perfil.jpg';
 import TransparenciaImg from './transparencia.jpg';
 import AntifraudeImg from './antifraude.jpg';
-import 'volto-sevilla-imd-website/theme/_s3.scss';
+// import 'volto-sevilla-imd-website/theme/components/_s3.scss';
 
 const S3 = () => {
   return (
