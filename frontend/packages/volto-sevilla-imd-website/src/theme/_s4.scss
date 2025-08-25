@@ -21,6 +21,67 @@
     }
   }
 
+  .slider-controls {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    //margin: 2rem 0;
+    margin-right: 4em;
+
+    .slider-dots {
+      display: flex;
+      gap: 0.5rem;
+
+      .dot {
+        width: 6.25rem;
+        height: 1rem;
+        background: #E1DAC7;
+        cursor: pointer;
+
+        &:not(:first-child) {
+          width: 2.5rem;
+        }
+
+        &.active {
+          background: #D4C9AD;
+        }
+      }
+    }
+
+    .slider-arrows {
+      display: flex;
+      gap: 0.5rem;
+
+      .arrow {
+        width: 5.125rem;
+        height: 5.125rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #E1DAC7;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+
+        &.next {
+          background: #D4C9AD;
+        }
+
+        &:hover {
+          opacity: 0.9;
+        }
+
+        svg {
+          // width: 3.875rem;
+          width: 62px;
+          // height: 3.875rem;
+          height: 62px;
+        }
+      }
+    }
+  }
+
   .news-grid {
     .news-card {
       background: #FFEFCB;
@@ -30,6 +91,10 @@
       margin-bottom: 1rem;
 
       &.featured {
+        width: 1113px;
+        height: 1098px;
+        margin-left: 60px;
+
         .card-content {
           .image-wrapper {
             height: 25.43rem;
@@ -109,65 +174,11 @@
         }
       }
     }
-  }
 
-  .slider-controls {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 1rem;
-    margin: 2rem 0;
-
-    .slider-dots {
-      display: flex;
-      gap: 0.5rem;
-
-      .dot {
-        width: 6.25rem;
-        height: 1rem;
-        background: #E1DAC7;
-        cursor: pointer;
-
-        &:not(:first-child) {
-          width: 2.5rem;
-        }
-
-        &.active {
-          background: #D4C9AD;
-        }
-      }
-    }
-
-    .slider-arrows {
-      display: flex;
-      gap: 0.5rem;
-
-      .arrow {
-        width: 5.125rem;
-        height: 5.125rem;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: #E1DAC7;
-        border: none;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-
-        &.next {
-          background: #D4C9AD;
-        }
-
-        &:hover {
-          opacity: 0.9;
-        }
-
-        svg {
-          // width: 3.875rem;
-          width: 62px;
-          // height: 3.875rem;
-          height: 62px;
-        }
-      }
+    .regular-news{
+      width: 547px;
+      height: 517px;
+      // margin-right: 60px;
     }
   }
 
