@@ -5,6 +5,7 @@ import 'volto-sevilla-imd-website/theme/_s2.scss';
 import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
 import LinkExternalIcon from './link-external.png';
+// import 'volto-sevilla-imd-website/theme/_s2.scss';
 
 const S2 = () => {
   return (
