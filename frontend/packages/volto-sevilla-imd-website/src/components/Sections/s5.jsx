@@ -6,7 +6,7 @@ import moment from 'moment';
 import CalendarIcon from './calendar.png';
 import ArrowRightYellowIcon from './arrow-right-yellow.png';
 import ArrowLeftYellowIcon from './arrow-left-yellow.png';
-import 'volto-sevilla-imd-website/theme/_s5.scss';
+// import 'volto-sevilla-imd-website/theme/components/_s5.scss';
 
 const S5 = () => {
   const [currentDate, setCurrentDate] = useState(moment());
