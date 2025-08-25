@@ -5,7 +5,7 @@ import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/defau
 import moment from 'moment';
 import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
-import 'volto-sevilla-imd-website/theme/_s4.scss';
+// import 'volto-sevilla-imd-website/theme/components/_s4.scss';
 
 const S4 = () => {
   const newsItems = [
