@@ -2,9 +2,7 @@ import React from 'react';
 import { Container, Grid, Header, Image, Button } from 'semantic-ui-react';
 import { UniversalLink } from '@plone/volto/components';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-import Icon from '@plone/volto/components/theme/Icon/Icon';
-// import { flattenToAppURL } from '@plone/volto/helpers';
-// import { format } from 'date-fns';
+import moment from 'moment';
 import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
 import 'volto-sevilla-imd-website/theme/_s4.scss';
@@ -43,9 +41,10 @@ const S4 = () => {
       {/* <Container> */}
         {/* Title Section */}
         <div className="section-header">
-          <Header as="h2" className="section-title">
+          {/* <Header as="h2" className="section-title">
             Noticias y eventos
-          </Header>
+          </Header> */}
+          <h2 className="section-title">Noticias y eventos</h2>
         </div>
 
         <div className="news-grid">
@@ -68,8 +67,7 @@ const S4 = () => {
                           <div className="indicator-line"></div>
                           <Header as="h3">{item.title}</Header>
                           <p className="description">{item.description}</p>
-                          {/* <p className="date">{format(new Date(item.date), 'dd/MM/yyyy')}</p> */}
-                          <p className="date">{item.date}</p>
+                          <p className="date">{moment(item.date).format('DD/MM/YYYY')}</p>
                         </div>
                       </div>
                     </div>
@@ -94,8 +92,7 @@ const S4 = () => {
                             <div className="indicator-line"></div>
                             <Header as="h3">{item.title}</Header>
                             <p className="description">{item.description}</p>
-                            {/* <p className="date">{format(new Date(item.date), 'dd/MM/yyyy')}</p> */}
-                            <p className="date">{item.date}</p>
+                            <p className="date">{moment(item.date).format('DD/MM/YYYY')}</p>
                           </div>
                         </div>
                       </div>
@@ -109,15 +106,11 @@ const S4 = () => {
                     <span className="dot"></span>
                   </div>
                   <div className="slider-arrows">
-                    <button className="arrow prev" aria-label="Previous slide">
-                      {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-left-slider-default.png')}
-                        alt="" /> */}
-                      <Icon name={ArrowLeftSliderDefaultIcon} size="62px" />
+                    <button className="arrow prev" aria-label="Diapositiva anterior">
+                      <Image src={ArrowLeftSliderDefaultIcon} alt="Anterior" />
                     </button>
-                    <button className="arrow next" aria-label="Next slide">
-                      {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-right-slider-default.png')}
-                        alt="" /> */}
-                      <Icon name={ArrowRightSliderDefaultIcon} size="62px" />
+                    <button className="arrow next" aria-label="Diapositiva siguiente">
+                      <Image src={ArrowRightSliderDefaultIcon} alt="Siguiente" />
                     </button>
                   </div>
                 </div>
