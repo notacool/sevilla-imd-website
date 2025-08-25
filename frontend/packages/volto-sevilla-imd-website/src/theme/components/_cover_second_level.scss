@@ -1,0 +1,112 @@
+.section-cover-second-level {
+  position: relative;
+  width: 100%;
+  height: 17.5rem; // 280px
+
+  .cover-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #FFFBF2;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../static/images/bg-cover-second-level.jpg');
+
+    // img {
+    //   width: 100%;
+    //   height: 100%;
+    //   object-fit: cover;
+    // }
+  }
+
+  .breadcrumbs {
+    position: absolute;
+    top: 2.625rem; // 42px
+    left: 7.5rem; // 120px
+    display: flex;
+    align-items: center;
+    gap: 0.125rem; // 2px
+
+    .breadcrumb-item {
+      display: flex;
+      align-items: center;
+      gap: 0.625rem; // 10px
+
+      a, span {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 0.875rem; // 14px
+        line-height: 1.5;
+      }
+
+      a {
+        font-weight: 400;
+        color: #070500;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      span {
+        font-weight: 700;
+        color: #CB8E00;
+      }
+
+      &:not(:last-child) {
+        .icon {
+          width: 1.5rem; // 24px
+          height: 1.5rem;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+
+          svg {
+            width: 1rem;
+            height: 1rem;
+          }
+        }
+      }
+    }
+  }
+
+  .page-title {
+    position: absolute;
+    top: 9.125rem; // 146px
+    left: 7.5rem; // 120px
+    max-width: 37.5625rem; // 601px
+
+    h1 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 400; // Regular weight for second level
+      font-size: 4rem; // 64px - smaller than first level
+      color: #070500;
+      margin: 0;
+      line-height: 1.2;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section-cover-second-level {
+    height: 15rem; // 240px - smaller for mobile
+
+    .breadcrumbs {
+      left: 1rem;
+      right: 1rem;
+    }
+
+    .page-title {
+      left: 1rem;
+      right: 1rem;
+      max-width: 100%;
+
+      h1 {
+        font-size: 2.5rem; // Smaller font size for mobile
+      }
+    }
+  }
+}
