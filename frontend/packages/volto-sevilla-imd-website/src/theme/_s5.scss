@@ -1,0 +1,312 @@
+.section-s5 {
+  background-color: #FFFBF2;
+  padding: 6rem 0;
+  position: relative;
+  min-height: 1678px;
+
+  .section-title {
+    text-align: center;
+    margin-bottom: 5rem;
+
+    h2 {
+      color: #AD033B;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 3.5rem;
+      font-weight: 700;
+      line-height: 1;
+      margin: 0;
+    }
+  }
+
+  .section-subtitle {
+    display: flex;
+    align-items: center;
+    gap: 1.333rem;
+    margin-bottom: 3rem;
+    margin-left: 7.625rem;
+
+    .icon {
+      width: 2.625rem;
+      height: 2.625rem;
+    }
+
+    .text {
+      color: #AD033B;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 1.75rem;
+      font-weight: 400;
+      letter-spacing: 0.7rem;
+      text-transform: uppercase;
+    }
+  }
+
+  .events-container {
+    position: relative;
+    margin-top: 5rem;
+
+    .background-image {
+      position: absolute;
+      height: 57.5rem;
+      width: 95rem;
+      left: 4.5rem;
+      top: 0;
+      border-radius: 2rem;
+      background-color: #FFFBF2;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-image: url('./static/images/bg-s5.jpg');
+    }
+
+    .calendar-section {
+      position: absolute;
+      right: 10.375rem;
+      top: 7rem;
+      width: 43rem;
+      height: 40.3125rem;
+
+      .calendar-container {
+        background: #FFEFCB;
+        border: 1px solid #FFDD90;
+        border-radius: 1.333rem;
+        padding: 2.5rem;
+
+        .calendar-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 2.5rem;
+
+          .month-year {
+            color: #AD033B;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 2rem;
+            font-weight: 800;
+          }
+
+          .navigation {
+            display: flex;
+            gap: 1.5rem;
+            background: #FFFFFF;
+            border-radius: 1rem;
+            padding: 0.25rem 1.5rem;
+            width: 120px;
+            height: 32px;
+
+            button {
+              background: none;
+              border: none;
+              padding: 0;
+              cursor: pointer;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+
+              svg {
+                width: 1.5rem;
+                height: 1.5rem;
+              }
+            }
+          }
+        }
+
+        .calendar-grid {
+          .weekdays {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            background: #FFDD90;
+            margin-bottom: 0.083rem;
+
+            .weekday {
+              color: #AD033B;
+              font-family: 'Open Sans', sans-serif;
+              font-size: 1rem;
+              font-weight: 600;
+              text-align: center;
+              padding: 1.667rem;
+            }
+          }
+
+          .days {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+
+            .day {
+              border: 1px solid #FFDD90;
+              padding: 1.667rem;
+              text-align: center;
+              font-family: 'Inter', sans-serif;
+              font-size: 1.167rem;
+
+              &.current-month {
+                color: #070500;
+              }
+
+              &.other-month {
+                color: #F2A900;
+                background: #FFE9B7;
+              }
+
+              &.active {
+                background: #F2A900;
+                color: #FFFFFF;
+                font-weight: 600;
+                cursor: pointer;
+              }
+
+              &.highlight {
+                background: #FFD87C;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .events-list {
+      position: absolute;
+      top: 7rem;
+      left: 9.625rem;
+      width: 33.5rem;
+
+      .event-card {
+        background: transparent;
+        border: 2px solid #FFFFFF;
+        border-radius: 0.885rem;
+        padding: 1rem;
+        margin-bottom: 1rem;
+
+        .event-content {
+          display: flex;
+          gap: 1.5rem;
+          align-items: center;
+
+          .event-image {
+            width: 7.5rem;
+            // height: 7.5rem;
+            height: 4rem;
+            background: #2E2000;
+            border-radius: 0.75rem;
+          }
+
+          .event-details {
+            flex: 1;
+
+            .event-date {
+              color: #AD033B;
+              font-family: 'Open Sans', sans-serif;
+              font-size: 1.125rem;
+              margin-bottom: 0.25rem;
+            }
+
+            .event-title {
+              color: #070500;
+              font-family: 'Open Sans', sans-serif;
+              font-size: 1.125rem;
+              line-height: 1.6;
+              margin-bottom: 0.5rem;
+            }
+
+            .event-link {
+              display: flex;
+              align-items: center;
+              gap: 0.25rem;
+              color: #2E2000;
+              font-family: 'Open Sans', sans-serif;
+              font-size: 1.125rem;
+              font-weight: 600;
+              text-transform: uppercase;
+              letter-spacing: 0.09rem;
+              text-decoration: none;
+
+              svg {
+                width: 1.5rem;
+                height: 1.5rem;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .more-events-button {
+    text-align: center;
+    margin-top: 3rem;
+    position: absolute;
+    left: 50%;
+    bottom: 4rem;
+    transform: translateX(-50%);
+
+    .ui.button.more-events {
+      background: #FFFFFF;
+      border: 1px solid #F2A900;
+      border-radius: 1.25rem;
+      color: #070500;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 1.125rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      padding: 1rem 2rem;
+      letter-spacing: 0.09rem;
+      transition: all 0.3s ease;
+
+      &:hover {
+        background: #F2A900;
+        color: #FFFFFF;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section-s5 {
+    .section-subtitle {
+      margin-left: 1rem;
+
+      .text {
+        font-size: 1.5rem;
+      }
+    }
+
+    .section-title {
+      h2 {
+        font-size: 2.5rem;
+      }
+    }
+
+    .events-container {
+      .background-image {
+        left: 1rem;
+        right: 1rem;
+        width: auto;
+      }
+
+      .calendar-section {
+        position: relative;
+        right: auto;
+        width: 90%;
+        margin: 0 auto;
+        padding: 1rem;
+      }
+
+      .events-list {
+        position: relative;
+        left: auto;
+        width: 90%;
+        margin: 2rem auto 0;
+
+        .event-card {
+          .event-content {
+            flex-direction: column;
+
+            .event-image {
+              width: 100%;
+              height: 12rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}
