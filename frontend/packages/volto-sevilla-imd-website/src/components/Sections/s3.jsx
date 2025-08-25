@@ -4,29 +4,21 @@ import { flattenToAppURL } from '@plone/volto/helpers';
 import { UniversalLink } from '@plone/volto/components';
 import Icon from '@plone/volto/components/theme/Icon/Icon';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-// import NotificationsIcon from './images/icons/notifications.svg';
-import NotificationsIcon from './notifications.svg';
-// import FeaturedIcon from './images/icons/featured.svg';
-import FeaturedIcon from './featured.svg';
-import LinkExternalIcon from './link-external.svg';
-// import SliderLeftArrowDefaultIcon from './images/icons/slider-left-arrow-default.svg';
-import SliderLeftArrowDefaultIcon from './slider-left-arrow-default.svg';
-// import SliderRightArrowDefaultIcon from './images/icons/slider-right-arrow-default.svg';
-import SliderRightArrowDefaultIcon from './slider-right-arrow-default.svg';
-// import AvisosImg from './images/featured/avisos.jpg';
+import NotificationsIcon from './notifications.png';
+import FeaturedIcon from './featured.png';
+import LinkExternalIcon from './link-external.png';
+import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
+import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
 import AvisosImg from './avisos.jpg';
-// import PerfilImg from './images/featured/perfil.jpg';
 import PerfilImg from './perfil.jpg';
-// import TransparenciaImg from './images/featured/transparencia.jpg';
 import TransparenciaImg from './transparencia.jpg';
-// import AntifraudeImg from './images/featured/antifraude.jpg';
 import AntifraudeImg from './antifraude.jpg';
 import 'volto-sevilla-imd-website/theme/_s3.scss';
 
 const S3 = () => {
   return (
     <div className="section-s3">
-      <Container>
+      {/* <Container> */}
         <div className="section-header">
           <Header as="h2" className="section-title">
             Actualidad
@@ -36,7 +28,8 @@ const S3 = () => {
         <div className="news-section">
           <div className="section-subtitle">
             <div className="icon">
-              <Icon name={NotificationsIcon} size="42px" />
+              {/* <Icon name={NotificationsIcon} size="42px" /> */}
+              <Image src={NotificationsIcon} alt="Avisos" />
               {/* <Image src={flattenToAppURL('/++theme++imd-theme/images/icons/notifications.svg')} alt="AVISOS" /> */}
             </div>
             <Header as="h3">AVISOS</Header>
@@ -105,8 +98,8 @@ const S3 = () => {
         <div className="featured-section">
           <div className="section-subtitle">
             <div className="icon">
-              {/* <Image src={FeaturedIcon} alt="TE DESTACAMOS" /> */}
-              <Icon name={FeaturedIcon} size="42px" />
+              {/* <Icon name={FeaturedIcon} size="42px" /> */}
+              <Image src={FeaturedIcon} alt="TE DESTACAMOS" />
             </div>
             <Header as="h3">TE DESTACAMOS</Header>
           </div>
@@ -176,16 +169,16 @@ const S3 = () => {
             <div className="slider-arrows">
               <button className="arrow prev">
                 {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-left.svg')} alt="Previous" /> */}
-                <Icon name={SliderLeftArrowDefaultIcon} size="62px" />
+                <Icon name={ArrowLeftSliderDefaultIcon} size="62px" />
               </button>
               <button className="arrow next">
                 {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-right.svg')} alt="Next" /> */}
-                <Icon name={SliderRightArrowDefaultIcon} size="62px" />
+                <Icon name={ArrowRightSliderDefaultIcon} size="62px" />
               </button>
             </div>
           </div>
         </div>
-      </Container>
+      {/* </Container> */}
     </div>
   );
 };

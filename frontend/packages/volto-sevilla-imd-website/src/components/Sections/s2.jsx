@@ -2,34 +2,29 @@ import React from 'react';
 import { Image } from 'semantic-ui-react';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import 'volto-sevilla-imd-website/theme/_s2.scss';
-// import sliderLeftArrowDefaultSVG from '../../icons/slider-left-arrow-default.svg';
-import sliderLeftArrowDefaultSVG from './slider-left-arrow-default.svg';
-// import sliderRightArrowDefaultSVG from '../../icons/slider-right-arrow-default.svg';
-import sliderRightArrowDefaultSVG from './slider-right-arrow-default.svg';
-// import linkExternalSVG from '../../icons/link-external.svg';
-import linkExternalSVG from './link-external.svg';
+import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
+import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
+import LinkExternalIcon from './link-external.png';
 
 const S2 = () => {
   return (
     <section className="events-section">
-      <div className="events-background">
-        {/* <img src="./static/images/bg-s2.jpg" alt="Eventos" /> */}
-      </div>
+      {/* Events Background */}
+      <div className="events-background" />
 
+      {/* Events Content */}
       <div className="events-content">
         {/* Slider Controls */}
         <div className="slider-controls">
           <button className="slider-button left">
-            {/* <img src="./slider-left-arrow-default.svg" alt="Anterior" /> */}
             <Image
-              src={sliderLeftArrowDefaultSVG}
+              src={ArrowLeftSliderDefaultIcon}
               alt="Anterior"
             />
           </button>
           <button className="slider-button right active">
-            {/* <img src="./slider-right-arrow-default.svg" alt="Siguiente" /> */}
             <Image
-              src={sliderRightArrowDefaultSVG}
+              src={ArrowRightSliderDefaultIcon}
               alt="Siguiente"
             />
           </button>
@@ -59,9 +54,8 @@ const S2 = () => {
                 <a href="#" className="event-link">
                   <span><a href="#" title="Visita su web">Visita su web</a></span>
                   <div className="arrow-icon">
-                    {/* <img src='./link-external.svg' alt="Visita su web" /> */}
                     <Image
-                        src={linkExternalSVG}
+                        src={LinkExternalIcon}
                         alt="Visita su web"
                     />
                   </div>
@@ -69,7 +63,6 @@ const S2 = () => {
               </div>
             </div>
             <div className="card-image">
-              {/* <img src="/static/images/rentangule-default.png" alt="Imagen de Evento" /> */}
               <Image
                 src={DefaultImageSVG}
                 alt="Imagen de Evento"

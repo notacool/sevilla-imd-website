@@ -5,8 +5,8 @@ import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/defau
 import Icon from '@plone/volto/components/theme/Icon/Icon';
 // import { flattenToAppURL } from '@plone/volto/helpers';
 // import { format } from 'date-fns';
-import SliderLeftArrowDefaultIcon from './slider-left-arrow-default.svg';
-import SliderRightArrowDefaultIcon from './slider-right-arrow-default.svg';
+import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
+import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
 import 'volto-sevilla-imd-website/theme/_s4.scss';
 
 const S4 = () => {
@@ -40,7 +40,8 @@ const S4 = () => {
 
   return (
     <div className="section-s4">
-      <Container>
+      {/* <Container> */}
+        {/* Title Section */}
         <div className="section-header">
           <Header as="h2" className="section-title">
             Noticias y eventos
@@ -109,14 +110,14 @@ const S4 = () => {
                   </div>
                   <div className="slider-arrows">
                     <button className="arrow prev" aria-label="Previous slide">
-                      {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-left.svg')}
+                      {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-left-slider-default.png')}
                         alt="" /> */}
-                      <Icon name={SliderLeftArrowDefaultIcon} size="62px" />
+                      <Icon name={ArrowLeftSliderDefaultIcon} size="62px" />
                     </button>
                     <button className="arrow next" aria-label="Next slide">
-                      {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-right.svg')}
+                      {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-right-slider-default.png')}
                         alt="" /> */}
-                      <Icon name={SliderRightArrowDefaultIcon} size="62px" />
+                      <Icon name={ArrowRightSliderDefaultIcon} size="62px" />
                     </button>
                   </div>
                 </div>
@@ -125,12 +126,13 @@ const S4 = () => {
           </Grid>
         </div>
 
+        {/* More News Button */}
         <div className="more-news-button">
           <Button className="more-news">
             MÁS NOTICIAS
           </Button>
         </div>
-      </Container>
+      {/* </Container> */}
     </div>
   );
 };
