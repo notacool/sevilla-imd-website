@@ -12,7 +12,7 @@ import twitterIcon from '../../icons/social/twitter-default.svg';
 import youtubeIcon from '../../icons/social/youtube-default.svg';
 import instagramIcon from '../../icons/social/instagram-default.svg';
 
-// import 'volto-sevilla-imd-website/theme/_topbar.scss';
+// import 'volto-sevilla-imd-website/theme/components/_topbar.scss';
 
 const Topbar = () => {
   return (

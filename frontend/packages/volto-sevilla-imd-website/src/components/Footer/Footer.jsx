@@ -6,7 +6,7 @@
 import React from 'react';
 import { Image } from 'semantic-ui-react';
 import ArrowRightYellowIcon from './arrow-right-yellow.png';
-import 'volto-sevilla-imd-website/theme/_footer.scss';
+// import 'volto-sevilla-imd-website/theme/components/_footer.scss';
 
 const Footer = () => {
   return (

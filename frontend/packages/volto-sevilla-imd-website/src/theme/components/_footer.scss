@@ -9,12 +9,12 @@ $white: #ffffff;
 .footer {
   position: relative;
   width: 100%;
-  
+
   .footer-background {
     position: absolute;
     height: 668px;
     width: 100%;
-    background-image: url('./static/images/bg-footer.jpg');
+    background-image: url('../static/images/bg-footer.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -178,19 +178,19 @@ $white: #ffffff;
     }
 
     &.facebook {
-      background-image: url('./static/social/facebook-default.svg');
+      background-image: url('../static/social/facebook-default.svg');
     }
 
     &.twitter {
-      background-image: url('./static/social/twitter-default.svg');
+      background-image: url('../static/social/twitter-default.svg');
     }
 
     &.youtube {
-      background-image: url('./static/social/youtube-default.svg');
+      background-image: url('../static/social/youtube-default.svg');
     }
 
     &.instagram {
-      background-image: url('./static/social/instagram-default.svg');
+      background-image: url('../static/social/instagram-default.svg');
     }
   }
 }

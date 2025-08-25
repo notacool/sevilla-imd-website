@@ -1,11 +1,10 @@
 import React from 'react';
 import { Image } from 'semantic-ui-react';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-import 'volto-sevilla-imd-website/theme/_s2.scss';
 import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
 import LinkExternalIcon from './link-external.png';
-// import 'volto-sevilla-imd-website/theme/_s2.scss';
+// import 'volto-sevilla-imd-website/theme/components/_s2.scss';
 
 const S2 = () => {
   return (
