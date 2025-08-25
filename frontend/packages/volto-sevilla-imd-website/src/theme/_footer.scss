@@ -89,6 +89,8 @@ $white: #ffffff;
 
 // Newsletter Column
 .newsletter-column {
+  margin-left: 50px;
+
   h3 {
     font-size: 20px;
     line-height: 1.6;
@@ -136,6 +138,8 @@ $white: #ffffff;
       text-transform: uppercase;
       cursor: pointer;
       transition: all 0.2s ease;
+      width: 199px;
+      height: 44px;
 
       &:hover {
         background-color: $primary-light;
@@ -146,6 +150,9 @@ $white: #ffffff;
 
 // Social Section
 .social-section {
+  margin-top: 210px;
+  margin-right: 200px;
+
   h3 {
     font-size: 20px;
     line-height: 1.6;
@@ -193,7 +200,7 @@ $white: #ffffff;
   position: relative;
   height: 68px;
   background-color: $secondary-dark;
-  margin-top: 68px;
+  margin-top: 220px;
 
   p {
     position: absolute;
