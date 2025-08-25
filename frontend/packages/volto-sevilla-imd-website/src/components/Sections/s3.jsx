@@ -28,9 +28,7 @@ const S3 = () => {
         <div className="news-section">
           <div className="section-subtitle">
             <div className="icon">
-              {/* <Icon name={NotificationsIcon} size="42px" /> */}
               <Image src={NotificationsIcon} alt="Avisos" />
-              {/* <Image src={flattenToAppURL('/++theme++imd-theme/images/icons/notifications.svg')} alt="AVISOS" /> */}
             </div>
             <Header as="h3">AVISOS</Header>
           </div>
@@ -47,8 +45,8 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          <Icon name={LinkExternalIcon} size="24px" />
-                          {/* <Image src={LinkExternalIcon} alt="Visita su web" /> */}
+                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
+                          <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
                     </div>
@@ -65,8 +63,8 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          <Icon name={LinkExternalIcon} size="24px" />
-                          {/* <Image src={LinkExternalIcon} alt="Visita su web" /> */}
+                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
+                          <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
                     </div>
@@ -83,8 +81,8 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          <Icon name={LinkExternalIcon} size="24px" />
-                          {/* <Image src={LinkExternalIcon} alt="Visita su web" /> */}
+                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
+                          <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
                     </div>
@@ -98,10 +96,20 @@ const S3 = () => {
         <div className="featured-section">
           <div className="section-subtitle">
             <div className="icon">
-              {/* <Icon name={FeaturedIcon} size="42px" /> */}
               <Image src={FeaturedIcon} alt="TE DESTACAMOS" />
             </div>
             <Header as="h3">TE DESTACAMOS</Header>
+          </div>
+
+          <div className="slider-controls">
+            <div className="slider-arrows">
+              <button className="arrow prev">
+                <Image src={ArrowLeftSliderDefaultIcon} alt="Anterior" />
+              </button>
+              <button className="arrow next">
+                <Image src={ArrowRightSliderDefaultIcon} alt="Siguiente" />
+              </button>
+            </div>
           </div>
 
           <Grid columns={3}>
@@ -165,16 +173,6 @@ const S3 = () => {
               <span className="dot active"></span>
               <span className="dot"></span>
               <span className="dot"></span>
-            </div>
-            <div className="slider-arrows">
-              <button className="arrow prev">
-                {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-left.svg')} alt="Previous" /> */}
-                <Icon name={ArrowLeftSliderDefaultIcon} size="62px" />
-              </button>
-              <button className="arrow next">
-                {/* <Image src={flattenToAppURL('/++theme++imd-theme/icons/arrow-right.svg')} alt="Next" /> */}
-                <Icon name={ArrowRightSliderDefaultIcon} size="62px" />
-              </button>
             </div>
           </div>
         </div>
