@@ -74,19 +74,19 @@ make stack-backend-start
 Execute the following command to check the status of the Backend Docker :
 
 ```shell
-stack-backend-status
+make stack-backend-status
 ```
 
 Execute the following command to stop Backend Docker stack:
 
 ```shell
-stack-backend-stop
+make stack-backend-stop
 ```
 
 Execute the following command to remove the Backend services, volumes and networks:
 
 ```shell
-stack-backend-rm
+make stack-backend-rm
 ```
 
 #### Volto Frontend Maquine(s)
@@ -100,19 +100,19 @@ make stack-frontend-start
 Execute the following command to check the status of the Frontend Docker :
 
 ```shell
-stack-frontend-status
+make stack-frontend-status
 ```
 
 Execute the following command to stop Frontend Docker stack:
 
 ```shell
-stack-frontend-stop
+make stack-frontend-stop
 ```
 
 Execute the following command to remove the Frontend services, volumes and networks:
 
 ```shell
-stack-frontend-rm
+make stack-frontend-rm
 ```
 
 ### Log Monitoring
