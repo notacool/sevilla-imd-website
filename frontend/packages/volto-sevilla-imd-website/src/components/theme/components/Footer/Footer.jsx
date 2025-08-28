@@ -4,6 +4,6 @@
  * To override it, override the @kitconcept/volto-light-theme one instead of
  * this one.
  */
-// import Footer from 'volto-sevilla-imd-website/components/Footer';
+import Footer from 'volto-sevilla-imd-website/components/Footer';
 
-// export default Footer;
+export default Footer;
