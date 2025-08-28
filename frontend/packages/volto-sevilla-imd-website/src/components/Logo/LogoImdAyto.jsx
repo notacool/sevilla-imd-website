@@ -1,6 +1,6 @@
 /**
  * Logo component.
- * @module components/Logo/LogoAYTO
+ * @module components/Logo/LogoImdAyto
  */
 
 import { defineMessages, useIntl } from 'react-intl';
