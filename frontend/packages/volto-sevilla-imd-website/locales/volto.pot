@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
-"POT-Creation-Date: 2024-03-22T12:43:34.158Z\n"
+"POT-Creation-Date: 2025-09-08T19:31:51.390Z\n"
 "Last-Translator: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -12,3 +12,48 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
+
+#. Default: "Ayuntamiento de Sevilla"
+#: components/Logo/LogoImdAyto
+msgid "Ayuntamiento de Sevilla"
+msgstr ""
+
+#. Default: "Button Target"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Button Target"
+msgstr ""
+
+#. Default: "Button text"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Button text"
+msgstr ""
+
+#. Default: "Description"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Description"
+msgstr ""
+
+#. Default: "Instituto Municipal de Deportes - Ayuntamiento de Sevilla"
+#: components/Logo/Logo
+msgid "Instituto Municipal de Deportes - Ayuntamiento de Sevilla"
+msgstr ""
+
+#. Default: "Subtitle"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Subtitle"
+msgstr ""
+
+#. Default: "Teaser Featured Block"
+#: components/Blocks/TeaserFeatured/messages
+msgid "TeaserFeaturedBlock"
+msgstr ""
+
+#. Default: "Title"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Title"
+msgstr ""
+
+#. Default: "Loading forecast..."
+#: components/Topbar/Topbar
+msgid "loading_forecast"
+msgstr ""
