@@ -1,4 +1,3 @@
-
 ---
 name: Documentación
 about: Solicita una mejora o corrección en la documentación
