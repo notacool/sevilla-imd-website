@@ -1,4 +1,3 @@
-
 ---
 name: Bugfix
 about: Reporta un error para ser corregido

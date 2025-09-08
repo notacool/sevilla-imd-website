@@ -1,4 +1,3 @@
-
 ---
 name: Feature
 about: Solicita una nueva funcionalidad o mejora

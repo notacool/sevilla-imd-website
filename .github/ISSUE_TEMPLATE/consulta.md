@@ -1,4 +1,3 @@
-
 ---
 name: Consulta al desarrollador
 about: Realiza una consulta técnica o funcional

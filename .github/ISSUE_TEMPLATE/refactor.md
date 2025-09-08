@@ -1,4 +1,3 @@
-
 ---
 name: Refactor
 about: Solicita una refactorización de código
