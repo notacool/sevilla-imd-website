@@ -1,12 +1,16 @@
+/**
+ * S5 component.
+ * @module components/Sections/s5
+ */
+
 import React, { useState } from 'react';
 import { Container, Header, Image, Button } from 'semantic-ui-react';
 import { UniversalLink } from '@plone/volto/components';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import moment from 'moment';
-import CalendarIcon from './calendar.png';
+import CalendarIcon from 'volto-sevilla-imd-website/icons/calendar.png';
 import ArrowRightYellowIcon from './arrow-right-yellow.png';
 import ArrowLeftYellowIcon from './arrow-left-yellow.png';
-// import 'volto-sevilla-imd-website/theme/components/_s5.scss';
 
 const S5 = () => {
   const [currentDate, setCurrentDate] = useState(moment());
