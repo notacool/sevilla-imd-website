@@ -1,5 +1,9 @@
+/**
+ * S1 component.
+ * @module components/Sections/s1
+ */
+
 import React from 'react';
-// import 'volto-sevilla-imd-website/theme/components/_s1.scss';
 
 const S1 = () => {
   return (
