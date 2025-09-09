@@ -1,19 +1,22 @@
+/**
+ * S3 component.
+ * @module components/Sections/s3
+ */
+
 import React from 'react';
 import { Container, Grid, Header, Image, Card } from 'semantic-ui-react';
 import { flattenToAppURL } from '@plone/volto/helpers';
 import { UniversalLink } from '@plone/volto/components';
-import Icon from '@plone/volto/components/theme/Icon/Icon';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-import NotificationsIcon from './notifications.png';
-import FeaturedIcon from './featured.png';
-import LinkExternalIcon from './link-external.png';
-import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
-import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
-import AvisosImg from './avisos.jpg';
-import PerfilImg from './perfil.jpg';
-import TransparenciaImg from './transparencia.jpg';
-import AntifraudeImg from './antifraude.jpg';
-// import 'volto-sevilla-imd-website/theme/components/_s3.scss';
+import NotificationsIcon from 'volto-sevilla-imd-website/icons/notifications.png';
+import FeaturedIcon from 'volto-sevilla-imd-website/icons/featured.png';
+import LinkExternalIcon from 'volto-sevilla-imd-website/icons/link-external.png';
+import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
+import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
+import AvisosImg from 'volto-sevilla-imd-website/theme/static/images/featured/avisos.jpg';
+import PerfilImg from 'volto-sevilla-imd-website/theme/static/images/featured/perfil.jpg';
+import TransparenciaImg from 'volto-sevilla-imd-website/theme/static/images/featured/transparencia.jpg';
+import AntifraudeImg from 'volto-sevilla-imd-website/theme/static/images/featured/antifraude.jpg';
 
 const S3 = () => {
   return (
@@ -45,7 +48,6 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
                           <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
@@ -63,7 +65,6 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
                           <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
@@ -81,7 +82,6 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
                           <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
