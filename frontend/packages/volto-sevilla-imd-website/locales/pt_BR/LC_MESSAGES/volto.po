@@ -15,3 +15,43 @@ msgstr ""
 "Language-Name: Português do Brasil\n"
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
+
+#. Default: "Ayuntamiento de Sevilla"
+#: components/Logo/LogoImdAyto
+msgid "Ayuntamiento de Sevilla"
+msgstr ""
+
+#. Default: "Button Target"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Button Target"
+msgstr ""
+
+#. Default: "Button text"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Button text"
+msgstr ""
+
+#. Default: "Description"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Description"
+msgstr ""
+
+#. Default: "Instituto Municipal de Deportes - Ayuntamiento de Sevilla"
+#: components/Logo/Logo
+msgid "Instituto Municipal de Deportes - Ayuntamiento de Sevilla"
+msgstr ""
+
+#. Default: "Subtitle"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Subtitle"
+msgstr ""
+
+#. Default: "Teaser Featured Block"
+#: components/Blocks/TeaserFeatured/messages
+msgid "TeaserFeaturedBlock"
+msgstr ""
+
+#. Default: "Title"
+#: components/Blocks/TeaserFeatured/messages
+msgid "Title"
+msgstr ""
