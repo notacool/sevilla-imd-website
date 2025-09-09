@@ -1,11 +1,15 @@
+/**
+ * S4 component.
+ * @module components/Sections/s4
+ */
+
 import React from 'react';
 import { Container, Grid, Header, Image, Button } from 'semantic-ui-react';
 import { UniversalLink } from '@plone/volto/components';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import moment from 'moment';
-import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
-import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
-// import 'volto-sevilla-imd-website/theme/components/_s4.scss';
+import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
+import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
 
 const S4 = () => {
   const newsItems = [
