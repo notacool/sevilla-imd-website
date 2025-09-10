@@ -1,19 +1,22 @@
+/**
+ * S3 component.
+ * @module components/Sections/s3
+ */
+
 import React from 'react';
 import { Container, Grid, Header, Image, Card } from 'semantic-ui-react';
 import { flattenToAppURL } from '@plone/volto/helpers';
 import { UniversalLink } from '@plone/volto/components';
-import Icon from '@plone/volto/components/theme/Icon/Icon';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-import NotificationsIcon from './notifications.png';
-import FeaturedIcon from './featured.png';
-import LinkExternalIcon from './link-external.png';
-import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
-import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
-import AvisosImg from './avisos.jpg';
-import PerfilImg from './perfil.jpg';
-import TransparenciaImg from './transparencia.jpg';
-import AntifraudeImg from './antifraude.jpg';
-// import 'volto-sevilla-imd-website/theme/components/_s3.scss';
+import NotificationsIcon from 'volto-sevilla-imd-website/icons/notifications.png';
+import FeaturedIcon from 'volto-sevilla-imd-website/icons/featured.png';
+import LinkExternalIcon from 'volto-sevilla-imd-website/icons/link-external.png';
+import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
+import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
+import AvisosImg from 'volto-sevilla-imd-website/components/Sections/avisos.jpg';
+import PerfilImg from 'volto-sevilla-imd-website/components/Sections/perfil.jpg';
+import TransparenciaImg from 'volto-sevilla-imd-website/components/Sections/transparencia.jpg';
+import AntifraudeImg from 'volto-sevilla-imd-website/components/Sections/antifraude.jpg';
 
 const S3 = () => {
   return (
@@ -45,7 +48,6 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
                           <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
@@ -63,7 +65,6 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
                           <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
@@ -81,7 +82,6 @@ const S3 = () => {
                       <UniversalLink href="#" className="card-link">
                         Más información
                         <span className="icon-arrow">
-                          {/* <Icon name={LinkExternalIcon} size="24px" /> */}
                           <Image src={LinkExternalIcon} alt="Visita su web" />
                         </span>
                       </UniversalLink>
@@ -118,22 +118,19 @@ const S3 = () => {
                 {
                   title: 'Perfil del contratante',
                   description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
-                  // image: {PerfilImg},
-                  // image: 'https://2024.ploneconf.org/en/news/all-good-things-and-see-you-in-jyvaskyla-finland/@@images/image-1600-a85e2b77916737ede1959c4ad35076d2.jpeg',
+                  image: PerfilImg,
                   link: '#',
                 },
                 {
                   title: 'Portal de transparencia',
                   description: 'Visita la web del portal de transparencia del Ayuntamiento de Sevilla.',
-                  // image: {TransparenciaImg},
-                  // image: 'https://2024.ploneconf.org/en/news/schedule-announced-for-the-2024-plone-conference/@@images/image-1600-803bb2b55fbb3e1667ce2110afe9deca.jpeg',
+                  image: TransparenciaImg,
                   link: '#',
                 },
                 {
                   title: 'Canal de denuncias antifraude',
                   description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
-                  // image: {AntifraudeImg},
-                  // image: 'https://2024.ploneconf.org/en/assets/tse.jpg/@@images/image-1600-d80644f6518e21555e9bb6186fe851dc.jpeg',
+                  image: AntifraudeImg,
                   link: '#',
                 }
               ].map((item, index) => (
@@ -143,13 +140,13 @@ const S3 = () => {
                       {!item?.image && (
                         <img src={DefaultImageSVG} alt="Default Image" />
                       )}
-                      {/* {item?.image && (
+                      {item?.image && (
                         <img
                           // src={flattenToAppURL(item.image)}
                           src={item.image}
                           alt={item.title}
                         />
-                      )} */}
+                      )}
                       <div className="card-body">
                         <div className="card-line"></div>
                         <Header as="h4">{item.title}</Header>

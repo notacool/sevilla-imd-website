@@ -1,3 +1,8 @@
+/**
+ * Card Events component.
+ * @module components/Cards/CardEvents
+ */
+
 import React from 'react';
 import classNames from 'classnames';
 import moment from 'moment';
