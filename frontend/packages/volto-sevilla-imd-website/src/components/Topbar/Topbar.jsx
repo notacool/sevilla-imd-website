@@ -75,7 +75,6 @@ import clima73Icon from 'volto-sevilla-imd-website/icons/weather/temps/73.png';
 // import clima73nIcon from 'volto-sevilla-imd-website/icons/weather/temps/73n.png';
 import clima74Icon from 'volto-sevilla-imd-website/icons/weather/temps/74.png';
 // import clima74nIcon from 'volto-sevilla-imd-website/icons/weather/temps/74n.png';
-// import 'volto-sevilla-imd-website/theme/components/_topbar.scss';
 
 const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
 

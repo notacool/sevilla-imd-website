@@ -7,7 +7,6 @@ import React from 'react';
 import classNames from 'classnames';
 import moment from 'moment';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-// import 'volto-sevilla-imd-website/theme/components/_card_events.scss';
 
 const CardEvents = ({
   title,

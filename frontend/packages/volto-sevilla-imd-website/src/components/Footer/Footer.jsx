@@ -5,7 +5,6 @@
 
 import React from 'react';
 import ArrowRightYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-yellow.png';
-// import 'volto-sevilla-imd-website/theme/components/_footer.scss';
 
 const Footer = () => {
   return (
