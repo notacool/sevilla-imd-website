@@ -1,3 +1,8 @@
+/**
+ * Card Notifications component.
+ * @module components/Cards/CardNotifications
+ */
+
 import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
 import { Image } from 'semantic-ui-react';
