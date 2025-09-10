@@ -54,7 +54,6 @@ const CardFeatured = ({
             >
               <span>{linkText}</span>
               <div className="icon">
-                {/* <Icon name={externalLinkIcon} size="62px" /> */}
                 <Image src={LinkExternalIcon} alt={title || "Visita su web"} />
               </div>
             </UniversalLink>
