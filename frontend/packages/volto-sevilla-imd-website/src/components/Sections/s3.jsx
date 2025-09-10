@@ -118,19 +118,19 @@ const S3 = () => {
                 {
                   title: 'Perfil del contratante',
                   description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
-                  image: {PerfilImg},
+                  image: PerfilImg,
                   link: '#',
                 },
                 {
                   title: 'Portal de transparencia',
                   description: 'Visita la web del portal de transparencia del Ayuntamiento de Sevilla.',
-                  image: {TransparenciaImg},
+                  image: TransparenciaImg,
                   link: '#',
                 },
                 {
                   title: 'Canal de denuncias antifraude',
                   description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
-                  image: {AntifraudeImg},
+                  image: AntifraudeImg,
                   link: '#',
                 }
               ].map((item, index) => (
