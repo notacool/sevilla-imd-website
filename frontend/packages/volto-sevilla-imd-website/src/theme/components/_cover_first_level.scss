@@ -9,7 +9,7 @@
     height: 100%;
     top: 0;
     left: 0;
-    background-color: #FFFBF2;
+    // background-color: #FFFBF2;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@
       gap: 0.625rem; // 10px
 
       a, span {
-        font-family: 'Open Sans', sans-serif;
+        font-family: $page-font-template;
         font-size: 0.875rem; // 14px
         line-height: 1.5;
       }
@@ -80,7 +80,7 @@
     max-width: 37.5625rem; // 601px
 
     h1 {
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-weight: 700;
       font-size: 5rem; // 80px
       color: #070500;
