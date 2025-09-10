@@ -7,8 +7,7 @@ import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
 import { Image } from 'semantic-ui-react';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-import ArrowRightDiagonalYellowIcon from './arrow-right-diagonal-yellow.svg';
-// import 'volto-sevilla-imd-website/theme/components/_card_notifications.scss';
+import ArrowRightDiagonalYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-diagonal-yellow.png';
 
 const CardNotifications = ({
   status,

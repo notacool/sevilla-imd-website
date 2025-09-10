@@ -1,8 +1,7 @@
 import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
 import Icon from '@plone/volto/components/theme/Icon/Icon';
-import ArrowRightBreadcrumbsIcon from './arrow-right-breadcrumbs.svg';
-// import 'volto-sevilla-imd-website/theme/components/_cover_second_level.scss';
+import ArrowRightBreadcrumbsIcon from 'volto-sevilla-imd-website/icons/arrow-right-breadcrumbs.svg';
 
 const CoverSecondLevel = ({ title, breadcrumbs }) => {
   // Default breadcrumbs if none provided
