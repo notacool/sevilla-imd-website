@@ -1,3 +1,8 @@
+/**
+ * Cover Second Level Breadcrumbs component.
+ * @module components/Breadcrumbs/CoverSecondLevel
+ */
+
 import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
 import Icon from '@plone/volto/components/theme/Icon/Icon';

@@ -57,3 +57,8 @@ msgstr "Bloque Teaser Destacado"
 #: components/Blocks/TeaserFeatured/messages
 msgid "Title"
 msgstr "Título"
+
+#. Default: "Loading forecast..."
+#: components/Topbar/Topbar
+msgid "loading_forecast"
+msgstr "Cargando previsión climatológica..."
