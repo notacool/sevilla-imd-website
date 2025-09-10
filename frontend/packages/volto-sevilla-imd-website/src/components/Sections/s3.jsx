@@ -13,10 +13,10 @@ import FeaturedIcon from 'volto-sevilla-imd-website/icons/featured.png';
 import LinkExternalIcon from 'volto-sevilla-imd-website/icons/link-external.png';
 import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
-import AvisosImg from 'volto-sevilla-imd-website/components/Sections/avisos.jpg';
-import PerfilImg from 'volto-sevilla-imd-website/components/Sections/perfil.jpg';
-import TransparenciaImg from 'volto-sevilla-imd-website/components/Sections/transparencia.jpg';
-import AntifraudeImg from 'volto-sevilla-imd-website/components/Sections/antifraude.jpg';
+import AvisosImg from 'volto-sevilla-imd-website/theme/static/images/featured/avisos.jpg';
+import PerfilImg from 'volto-sevilla-imd-website/theme/static/images/featured/perfil.jpg';
+import TransparenciaImg from 'volto-sevilla-imd-website/theme/static/images/featured/transparencia.jpg';
+import AntifraudeImg from 'volto-sevilla-imd-website/theme/static/images/featured/antifraude.jpg';
 
 const S3 = () => {
   return (
