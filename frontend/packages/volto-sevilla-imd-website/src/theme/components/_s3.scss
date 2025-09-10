@@ -8,7 +8,7 @@
 
     .section-title {
       color: #AD033B;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 3.5rem;
       font-weight: 700;
       line-height: 1;
@@ -37,7 +37,7 @@
 
     h3 {
       color: #AD033B;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 1.75rem;
       font-weight: 400;
       letter-spacing: 0.7rem;
