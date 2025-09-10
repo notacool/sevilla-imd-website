@@ -34,45 +34,6 @@
 }
 
 // Slider Controls
-// .slider-controls {
-//   display: flex;
-//   gap: 8px;
-
-//   .slider-button {
-//     width: 82px;
-//     height: 82px;
-//     border: none;
-//     cursor: pointer;
-//     padding: 10px;
-//     display: flex;
-//     align-items: center;
-//     justify-content: center;
-//     background-color: $ocher-600-s2;
-//     transition: background-color 0.3s ease;
-
-//     img {
-//       width: 62px;
-//       height: 62px;
-//     }
-
-//     &.left {
-//       background-image: url('../static/icons/arrow-left-slider-default.svg');
-//     }
-
-//     &.right {
-//       background-image: url('../static/icons/arrow-right-slider-default.svg');
-//     }
-
-//     &.active {
-//       background-color: $ocher-400-s2;
-//     }
-
-//     &:hover {
-//       background-color: $ocher-400-s2;
-//     }
-//   }
-// }
-
 .slider-controls {
   display: flex;
   justify-content: flex-end;
@@ -89,7 +50,7 @@
     .dot {
       width: 6.25rem;
       height: 1rem;
-      background: #E1DAC7;
+      background: $ocher-400-s2;
       cursor: pointer;
 
       &:not(:first-child) {
@@ -97,7 +58,7 @@
       }
 
       &.active {
-        background: #D4C9AD;
+        background: $ocher-600-s2;
       }
     }
   }
@@ -112,13 +73,13 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      background: #E1DAC7;
+      background: $ocher-400-s2;
       border: none;
       cursor: pointer;
       transition: background-color 0.3s ease;
 
       &.next {
-        background: #D4C9AD;
+        background: $ocher-600-s2;
       }
 
       &:hover {
