@@ -38,7 +38,7 @@
         top: 0;
         width: 100%;
         overflow: hidden;
-        background-color: #FFFBF2;
+        // background-color: #FFFBF2;
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -83,7 +83,7 @@
       }
 
       .card-title {
-        font-family: 'Open Sans', sans-serif;
+        font-family: $page-font-template;
         font-weight: 700;
         font-size: 1.5rem; // 24px
         line-height: 1.6;
@@ -92,7 +92,7 @@
       }
 
       .card-description {
-        font-family: 'Open Sans', sans-serif;
+        font-family: $page-font-template;
         font-weight: 400;
         font-size: 1.125rem; // 18px
         line-height: 1.6;
@@ -107,7 +107,7 @@
         text-decoration: none;
 
         span {
-          font-family: 'Open Sans', sans-serif;
+          font-family: $page-font-template;
           font-weight: 600;
           font-size: 1rem; // 16px
           line-height: 1.2;

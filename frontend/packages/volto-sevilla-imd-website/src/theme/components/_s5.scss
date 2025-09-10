@@ -10,7 +10,7 @@
 
     h2 {
       color: #AD033B;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 3.5rem;
       font-weight: 700;
       line-height: 1;
@@ -32,7 +32,7 @@
 
     .text {
       color: #AD033B;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 1.75rem;
       font-weight: 400;
       letter-spacing: 0.7rem;
@@ -79,7 +79,7 @@
 
           .month-year {
             color: #AD033B;
-            font-family: 'Open Sans', sans-serif;
+            font-family: $page-font-template;
             font-size: 2rem;
             font-weight: 800;
           }
@@ -119,7 +119,7 @@
 
             .weekday {
               color: #AD033B;
-              font-family: 'Open Sans', sans-serif;
+              font-family: $page-font-template;
               font-size: 1rem;
               font-weight: 600;
               text-align: center;
@@ -194,14 +194,14 @@
 
             .event-date {
               color: #AD033B;
-              font-family: 'Open Sans', sans-serif;
+              font-family: $page-font-template;
               font-size: 1.125rem;
               margin-bottom: 0.25rem;
             }
 
             .event-title {
               color: #070500;
-              font-family: 'Open Sans', sans-serif;
+              font-family: $page-font-template;
               font-size: 1.125rem;
               line-height: 1.6;
               margin-bottom: 0.5rem;
@@ -212,7 +212,7 @@
               align-items: center;
               gap: 0.25rem;
               color: #2E2000;
-              font-family: 'Open Sans', sans-serif;
+              font-family: $page-font-template;
               font-size: 1.125rem;
               font-weight: 600;
               text-transform: uppercase;
@@ -243,7 +243,7 @@
       border: 1px solid #F2A900;
       border-radius: 1.25rem;
       color: #070500;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 1.125rem;
       font-weight: 600;
       text-transform: uppercase;

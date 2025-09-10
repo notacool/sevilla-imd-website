@@ -52,3 +52,8 @@ msgstr ""
 #: components/Blocks/TeaserFeatured/messages
 msgid "Title"
 msgstr ""
+
+#. Default: "Loading forecast..."
+#: components/Topbar/Topbar
+msgid "loading_forecast"
+msgstr ""

@@ -1,10 +1,14 @@
+/**
+ * S2 component.
+ * @module components/Sections/s2
+ */
+
 import React from 'react';
 import { Image } from 'semantic-ui-react';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
-import ArrowLeftSliderDefaultIcon from './arrow-left-slider-default.png';
-import ArrowRightSliderDefaultIcon from './arrow-right-slider-default.png';
-import LinkExternalIcon from './link-external.png';
-// import 'volto-sevilla-imd-website/theme/components/_s2.scss';
+import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
+import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
+import LinkExternalIcon from 'volto-sevilla-imd-website/icons/link-external.png';
 
 const S2 = () => {
   return (
@@ -16,6 +20,17 @@ const S2 = () => {
       <div className="events-content">
         {/* Slider Controls */}
         <div className="slider-controls">
+          <div className="slider-arrows">
+            <button className="arrow prev" aria-label="Diapositiva anterior">
+              <Image src={ArrowLeftSliderDefaultIcon} alt="Anterior" />
+            </button>
+            <button className="arrow next" aria-label="Diapositiva siguiente">
+              <Image src={ArrowRightSliderDefaultIcon} alt="Siguiente" />
+            </button>
+          </div>
+        </div>
+        {/* Slider Controls */}
+        {/* <div className="slider-controls">
           <button className="slider-button left">
             <Image
               src={ArrowLeftSliderDefaultIcon}
@@ -28,7 +43,9 @@ const S2 = () => {
               alt="Siguiente"
             />
           </button>
-        </div>
+          <br />
+          <br />
+        </div> */}
 
         {/* Event Card */}
         <div className="event-cards">

@@ -4,6 +4,7 @@
  */
 
 import React from 'react';
+import { UniversalLink } from '@plone/volto/components';
 
 const TeaserFeatured = (props) => {
   const { data, className } = props;
@@ -26,10 +27,12 @@ const TeaserFeatured = (props) => {
           </p>
           <button className="cta-button">
             <span>
-                <a href={(data.teaser_featured_link && data.teaser_featured_link[0] && data.teaser_featured_link[0]['@id']) || "/sobre-nosotros"}
-                   title={data.button || 'Sobre nosotros'}>
-                    {data.button || 'Sobre nosotros'}
-                </a>
+              <UniversalLink
+                href={(data.teaser_featured_link && data.teaser_featured_link[0] && data.teaser_featured_link[0]['@id']) || "/sobre-nosotros"}
+                title={data.button || 'Sobre nosotros'}
+              >
+                {data.button || 'Sobre nosotros'}
+              </UniversalLink>
             </span>
           </button>
         </div>

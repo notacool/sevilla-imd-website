@@ -4,8 +4,7 @@
  */
 
 import React from 'react';
-import { Image } from 'semantic-ui-react';
-import ArrowRightYellowIcon from './arrow-right-yellow.png';
+import ArrowRightYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-yellow.png';
 // import 'volto-sevilla-imd-website/theme/components/_footer.scss';
 
 const Footer = () => {
@@ -52,8 +51,7 @@ const Footer = () => {
             />
             <button className="subscribe-button">
               <span>SUBSCRIBIRSE</span>
-              {/* <i className="subscribe-icon"></i> */}
-              <Image src={ArrowRightYellowIcon} alt="SUBSCRIBIRSE" />
+              <img src={ArrowRightYellowIcon} alt="SUBSCRIBIRSE" />
             </button>
           </div>
         </div>

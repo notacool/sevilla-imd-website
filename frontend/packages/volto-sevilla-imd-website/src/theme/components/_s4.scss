@@ -13,7 +13,7 @@
 
     .section-title {
       color: #AD033B;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 3.5rem;
       font-weight: 700;
       line-height: 1;
@@ -148,7 +148,7 @@
 
           h3 {
             color: #000000;
-            font-family: 'Open Sans', sans-serif;
+            font-family: $page-font-template;
             font-size: 1.5rem;
             font-weight: 700;
             line-height: 1.6;
@@ -157,7 +157,7 @@
 
           .description {
             color: #000000;
-            font-family: 'Open Sans', sans-serif;
+            font-family: $page-font-template;
             font-size: 1.125rem;
             line-height: 1.6;
             margin: 0 0 1rem;
@@ -165,7 +165,7 @@
 
           .date {
             color: #000000;
-            font-family: 'Open Sans', sans-serif;
+            font-family: $page-font-template;
             font-size: 0.875rem;
             line-height: 1.5;
             text-align: right;
@@ -191,7 +191,7 @@
       border: 1px solid #F2A900;
       border-radius: 1.25rem;
       color: #070500;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 1.125rem;
       font-weight: 600;
       text-transform: uppercase;
