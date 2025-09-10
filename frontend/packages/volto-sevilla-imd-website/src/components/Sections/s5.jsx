@@ -9,8 +9,8 @@ import { UniversalLink } from '@plone/volto/components';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import moment from 'moment';
 import CalendarIcon from 'volto-sevilla-imd-website/icons/calendar.png';
-import ArrowRightYellowIcon from './arrow-right-yellow.png';
-import ArrowLeftYellowIcon from './arrow-left-yellow.png';
+import ArrowRightYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-yellow.png';
+import ArrowLeftYellowIcon from 'volto-sevilla-imd-website/icons/arrow-left-yellow.png';
 
 const S5 = () => {
   const [currentDate, setCurrentDate] = useState(moment());
