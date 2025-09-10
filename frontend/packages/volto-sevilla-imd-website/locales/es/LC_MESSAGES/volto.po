@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Plone\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:45-0400\n"
-"PO-Revision-Date: 2025-09-09 12:55+0200\n"
+"PO-Revision-Date: 2025-09-11 00:08+0200\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: ES <LL@li.org>\n"
 "Language: es\n"
@@ -21,7 +21,7 @@ msgstr ""
 #. Default: "Ayuntamiento de Sevilla"
 #: components/Logo/LogoImdAyto
 msgid "Ayuntamiento de Sevilla"
-msgstr ""
+msgstr "Ayuntamiento de Sevilla"
 
 #. Default: "Button Target"
 #: components/Blocks/TeaserFeatured/messages
@@ -41,7 +41,7 @@ msgstr "Descripción"
 #. Default: "Instituto Municipal de Deportes - Ayuntamiento de Sevilla"
 #: components/Logo/Logo
 msgid "Instituto Municipal de Deportes - Ayuntamiento de Sevilla"
-msgstr ""
+msgstr "Instituto Municipal de Deportes - Ayuntamiento de Sevilla"
 
 #. Default: "Subtitle"
 #: components/Blocks/TeaserFeatured/messages

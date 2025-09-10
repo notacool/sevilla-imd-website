@@ -5,7 +5,7 @@
 
 import { defineMessages, useIntl } from 'react-intl';
 import { Image } from 'semantic-ui-react';
-import ImdAytoLogo from './logo_imd_ayto.svg';
+import ImdAytoLogo from 'volto-sevilla-imd-website/theme/static/logos/logo_imd_ayto.svg';
 
 const messages = defineMessages({
   ayto_sevilla: {
