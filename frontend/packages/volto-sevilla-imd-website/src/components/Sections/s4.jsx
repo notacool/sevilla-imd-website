@@ -120,14 +120,6 @@ const S4 = () => {
                     <span className="dot"></span>
                     <span className="dot"></span>
                   </div>
-                  {/* <div className="slider-arrows">
-                    <button className="arrow prev" aria-label="Diapositiva anterior">
-                      <Image src={ArrowLeftSliderDefaultIcon} alt="Anterior" />
-                    </button>
-                    <button className="arrow next" aria-label="Diapositiva siguiente">
-                      <Image src={ArrowRightSliderDefaultIcon} alt="Siguiente" />
-                    </button>
-                  </div> */}
                 </div>
               </Grid.Column>
             </Grid.Row>

@@ -1,7 +1,6 @@
 import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
 import { Image } from 'semantic-ui-react';
-import Icon from '@plone/volto/components/theme/Icon/Icon';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import LinkExternalIcon from 'volto-sevilla-imd-website/icons/link-external.png';
 // import 'volto-sevilla-imd-website/theme/components/_card_featured.scss';
