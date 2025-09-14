@@ -1,14 +1,8 @@
-// Variables
-$primary-color: #f2a900;
-$primary-light: #fffbf2;
-$text-dark: #2e2000;
-$text-accent: #cb8e00;
-
 // Topbar
 .topbar {
   position: relative;
   width: 100%;
-  background-color: $primary-color;
+  background-color: $primary-color-topbar;
   height: 60px;
 }
 
@@ -24,7 +18,7 @@ $text-accent: #cb8e00;
 
 // Weather Widget
 .weather-widget {
-  background-color: $primary-light;
+  background-color: $primary-light-topbar;
   border-radius: 42px;
   box-sizing: border-box;
   padding: 6px 16px;
@@ -86,10 +80,10 @@ $text-accent: #cb8e00;
 .weather-city {
   padding: 8px 0;
   p {
-    font-family: 'Open Sans', sans-serif;
+    font-family: $page-font-template;
     font-weight: normal;
     font-size: 16px;
-    color: $text-dark;
+    color: $text-dark-topbar;
     line-height: 1.6;
     margin: 0;
     white-space: pre;
@@ -101,7 +95,7 @@ $text-accent: #cb8e00;
   gap: 8px;
   align-items: center;
   justify-content: flex-start;
-  font-family: 'Open Sans', sans-serif;
+  font-family: $page-font-template;
   width: 100px;
   text-wrap: nowrap;
 }
@@ -110,7 +104,7 @@ $text-accent: #cb8e00;
   p {
     font-size: 24px;
     font-weight: bold;
-    color: $text-dark;
+    color: $text-dark-topbar;
     line-height: 1.6;
     margin: 0;
     white-space: pre;
@@ -121,7 +115,7 @@ $text-accent: #cb8e00;
   p {
     font-size: 16px;
     font-weight: bold;
-    color: $text-accent;
+    color: $text-accent-topbar;
     margin: 0;
     white-space: pre;
   }
@@ -129,7 +123,7 @@ $text-accent: #cb8e00;
 
 // Social Widget
 .social-widget {
-  border: 1px solid $primary-light;
+  border: 1px solid $primary-light-topbar;
   border-radius: 42px;
   box-sizing: border-box;
   padding: 6px 16px;
