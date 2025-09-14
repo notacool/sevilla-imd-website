@@ -1,6 +1,6 @@
 /**
  * Card Call Action component.
- * @module components/Cards/CardCallAction
+ * @module components/Cards/CardCallToAction
  */
 
 import React from 'react';
@@ -8,7 +8,7 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import ArrowRightYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-yellow.png';
 
-const CardCallAction = ({
+const CardCallToAction = ({
   title,
   description,
   buttonText,
@@ -39,7 +39,7 @@ const CardCallAction = ({
   );
 };
 
-CardCallAction.propTypes = {
+CardCallToAction.propTypes = {
   title: PropTypes.string,
   description: PropTypes.string,
   buttonText: PropTypes.string,
@@ -47,4 +47,4 @@ CardCallAction.propTypes = {
   onClick: PropTypes.func,
 };
 
-export default CardCallAction;
+export default CardCallToAction;
