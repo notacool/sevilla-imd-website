@@ -8,14 +8,10 @@ import { FormattedMessage } from 'react-intl';
 import moment from 'moment';
 import Icon from '@plone/volto/components/theme/Icon/Icon';
 import verticalLine from 'volto-sevilla-imd-website/icons/vertical-line.svg';
-import facebookIcon from 'volto-sevilla-imd-website/icons/social/facebook-default.png';
-import facebookHoverIcon from 'volto-sevilla-imd-website/icons/social/facebook-hover.png';
-import twitterIcon from 'volto-sevilla-imd-website/icons/social/twitter-default.png';
-import twitterHoverIcon from 'volto-sevilla-imd-website/icons/social/twitter-hover.png';
-import youtubeIcon from 'volto-sevilla-imd-website/icons/social/youtube-default.png';
-import youtubeHoverIcon from 'volto-sevilla-imd-website/icons/social/youtube-hover.png';
-import instagramIcon from 'volto-sevilla-imd-website/icons/social/instagram-default.png';
-import instagramHoverIcon from 'volto-sevilla-imd-website/icons/social/instagram-hover.png';
+import facebookIcon from 'volto-sevilla-imd-website/icons/social/facebook-default.svg';
+import twitterIcon from 'volto-sevilla-imd-website/icons/social/twitter-default.svg';
+import youtubeIcon from 'volto-sevilla-imd-website/icons/social/youtube-default.svg';
+import instagramIcon from 'volto-sevilla-imd-website/icons/social/instagram-default.svg';
 
 import clima11Icon from 'volto-sevilla-imd-website/icons/weather/temps/11.png';
 import clima11nIcon from 'volto-sevilla-imd-website/icons/weather/temps/11n.png';
@@ -240,24 +236,16 @@ const Topbar = () => {
         <div className="social-widget">
           <div className="social-icons">
             <a href="https://facebook.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img src={facebookIcon} width="24px"
-                    onMouseOver={(e) => {e.target.src = facebookHoverIcon}}
-                    onMouseOut={(e) => {e.target.src = facebookIcon}} />
+              <Icon name={facebookIcon} size="24px" />
             </a>
             <a href="https://x.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img src={twitterIcon} width="24px"
-                   onMouseOver={(e) => {e.target.src = twitterHoverIcon}}
-                   onMouseOut={(e) => {e.target.src = twitterIcon}} />
+              <Icon name={twitterIcon} size="24px" />
             </a>
             <a href="https://youtube.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img src={youtubeIcon} width="24px"
-                   onMouseOver={(e) => {e.target.src = youtubeHoverIcon}}
-                   onMouseOut={(e) => {e.target.src = youtubeIcon}} />
+              <Icon name={youtubeIcon} size="24px" />
             </a>
             <a href="https://instagram.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <img src={instagramHoverIcon} width="24px"
-                   onMouseOver={(e) => {e.target.src = instagramHoverIcon}}
-                   onMouseOut={(e) => {e.target.src = instagramIcon}} />
+              <Icon name={instagramIcon} size="24px" />
             </a>
           </div>
         </div>
