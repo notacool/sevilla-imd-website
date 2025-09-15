@@ -7,11 +7,16 @@ import React, { useEffect, useState } from 'react';
 import { FormattedMessage } from 'react-intl';
 import moment from 'moment';
 import Icon from '@plone/volto/components/theme/Icon/Icon';
+import SocialIcon from 'volto-sevilla-imd-website/components/SocialIcon';
 import verticalLine from 'volto-sevilla-imd-website/icons/vertical-line.svg';
-import facebookIcon from 'volto-sevilla-imd-website/icons/social/facebook-default.svg';
-import twitterIcon from 'volto-sevilla-imd-website/icons/social/twitter-default.svg';
-import youtubeIcon from 'volto-sevilla-imd-website/icons/social/youtube-default.svg';
-import instagramIcon from 'volto-sevilla-imd-website/icons/social/instagram-default.svg';
+import facebookIcon from 'volto-sevilla-imd-website/icons/social/facebook-default.png';
+import facebookHoverIcon from 'volto-sevilla-imd-website/icons/social/facebook-hover.png';
+import twitterIcon from 'volto-sevilla-imd-website/icons/social/twitter-default.png';
+import twitterHoverIcon from 'volto-sevilla-imd-website/icons/social/twitter-hover.png';
+import youtubeIcon from 'volto-sevilla-imd-website/icons/social/youtube-default.png';
+import youtubeHoverIcon from 'volto-sevilla-imd-website/icons/social/youtube-hover.png';
+import instagramIcon from 'volto-sevilla-imd-website/icons/social/instagram-default.png';
+import instagramHoverIcon from 'volto-sevilla-imd-website/icons/social/instagram-hover.png';
 
 import clima11Icon from 'volto-sevilla-imd-website/icons/weather/temps/11.png';
 import clima11nIcon from 'volto-sevilla-imd-website/icons/weather/temps/11n.png';
@@ -199,7 +204,7 @@ const Topbar = () => {
       <div className="topbar-content">
         <div className="weather-wrapper">
           {forecast.length === 0 ? (
-            <p>🌡️ <FormattedMessage id="loading_forecast" defaultMessage="Loading forecast... " /></p>
+            <p>🌡️ <FormattedMessage id="loading_forecast" defaultMessage="Loading forecast..." /></p>
           ) : (
             <div className="weather-widget">
               {forecast.slice(0, 1).map((day, i) => (
@@ -235,18 +240,34 @@ const Topbar = () => {
         </div>
         <div className="social-widget">
           <div className="social-icons">
-            <a href="https://facebook.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={facebookIcon} size="24px" />
-            </a>
-            <a href="https://x.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={twitterIcon} size="24px" />
-            </a>
-            <a href="https://youtube.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={youtubeIcon} size="24px" />
-            </a>
-            <a href="https://instagram.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={instagramIcon} size="24px" />
-            </a>
+            <SocialIcon
+              name="Facebook"
+              url="https://facebook.com"
+              defaultIcon={facebookIcon}
+              hoverIcon={facebookHoverIcon}
+              width="24px"
+            />
+            <SocialIcon
+              name="X"
+              url="https://x.com"
+              defaultIcon={twitterIcon}
+              hoverIcon={twitterHoverIcon}
+              width="24px"
+            />
+            <SocialIcon
+              name="YouTube"
+              url="https://youtube.com"
+              defaultIcon={youtubeIcon}
+              hoverIcon={youtubeHoverIcon}
+              width="24px"
+            />
+            <SocialIcon
+              name="Instagram"
+              url="https://instagram.com"
+              defaultIcon={instagramIcon}
+              hoverIcon={instagramHoverIcon}
+              width="24px"
+            />
           </div>
         </div>
       </div>
