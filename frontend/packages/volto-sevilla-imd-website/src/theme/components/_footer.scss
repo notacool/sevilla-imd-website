@@ -173,24 +173,36 @@ $white: #ffffff;
     background-repeat: no-repeat;
     transition: opacity 0.2s ease;
 
-    &:hover {
-      opacity: 0.8;
-    }
-
     &.facebook {
       background-image: url('../static/social/facebook-default.svg');
+    }
+
+    &.facebook:hover {
+      background-image: url('../static/social/facebook-hover.svg');
     }
 
     &.twitter {
       background-image: url('../static/social/twitter-default.svg');
     }
 
+    &.twitter:hover {
+      background-image: url('../static/social/twitter-hover.svg');
+    }
+
     &.youtube {
       background-image: url('../static/social/youtube-default.svg');
     }
 
+    &.youtube:hover {
+      background-image: url('../static/social/youtube-hover.svg');
+    }
+
     &.instagram {
       background-image: url('../static/social/instagram-default.svg');
+    }
+
+    &.instagram:hover {
+      background-image: url('../static/social/instagram-hover.svg');
     }
   }
 }
