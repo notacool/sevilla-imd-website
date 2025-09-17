@@ -1,19 +1,68 @@
+// Variables
+$mobile-breakpoint: 768px;
+$tablet-breakpoint: 992px;
+$computer-breakpoint: 1200px;
+
 // Topbar
 .topbar {
   position: relative;
   width: 100%;
   background-color: $primary-color-topbar;
-  height: 60px;
+  height: 70px;
+
+  // Responsive adjustments
+  &.mobile {
+    height: auto;
+    min-height: 60px;
+    padding: 8px 0;
+  }
+
+  &.tablet {
+    height: auto;
+    min-height: 60px;
+  }
+
+  .container {
+    height: 100%;
+
+    .grid {
+      height: 100%;
+      margin: 0;
+
+      .row {
+        padding: 0;
+      }
+
+      .column {
+        padding: 0;
+      }
+    }
+  }
 }
 
 .topbar-content {
-  position: absolute;
+  // position: absolute;
   display: flex;
   gap: 42px;
   align-items: center;
   justify-content: flex-end;
-  right: 117px;
-  top: 6px;
+  padding: 6px 0;
+
+  @media (min-width: $computer-breakpoint) {
+    position: absolute;
+    right: 117px;
+    top: 6px;
+  }
+
+  @media (max-width: #{$computer-breakpoint - 1px}) {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  @media (max-width: #{$mobile-breakpoint - 1px}) {
+    gap: 16px;
+  }
 }
 
 // Weather Widget
