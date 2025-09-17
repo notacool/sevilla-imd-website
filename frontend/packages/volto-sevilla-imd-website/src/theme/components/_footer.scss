@@ -5,6 +5,11 @@ $secondary-dark: #390114;
 $text-dark: #070500;
 $white: #ffffff;
 
+// Breakpoints
+$mobile-breakpoint: 768px;
+$tablet-breakpoint: 992px;
+$computer-breakpoint: 1200px;
+
 // Footer
 .footer {
   position: relative;
@@ -18,19 +23,51 @@ $white: #ffffff;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    top: 0;
+    top: 44px;
     left: 0;
+    z-index: -1;
+
+    @media (max-width: $mobile-breakpoint) {
+      height: 100%;
+    }
+  }
+
+  // Responsive classes from light-theme
+  &.mobile {
+    .footer-content {
+      padding: 60px 16px 0;
+    }
+  }
+
+  &.tablet {
+    .footer-content {
+      padding: 80px 24px 0;
+    }
   }
 }
 
 // Content Layout
 .footer-content {
   position: relative;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 32px;
-  padding: 117px 104px 0;
+  // display: grid;
+  // grid-template-columns: repeat(4, 1fr);
+  // gap: 32px;
+  // padding: 117px 104px 0;
+  padding-top: 117px !important;
   color: $white;
+  margin: 0 !important;
+
+  .column {
+    padding-bottom: 32px !important;
+  }
+
+  @media (max-width: $tablet-breakpoint) {
+    padding-top: 80px !important;
+  }
+
+  @media (max-width: $mobile-breakpoint) {
+    padding-top: 60px !important;
+  }
 }
 
 // Info Column
@@ -39,7 +76,7 @@ $white: #ffffff;
     margin-bottom: 14px;
 
     h3 {
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-size: 20px;
       line-height: 1.6;
       margin: 0 0 4px;
@@ -69,7 +106,7 @@ $white: #ffffff;
 
 // Links Column
 .links-column {
-  display: flex;
+  display: flex !important;
   flex-direction: column;
   gap: 4px;
 
@@ -85,11 +122,19 @@ $white: #ffffff;
       opacity: 0.8;
     }
   }
+
+  @media (max-width: $mobile-breakpoint) {
+    a {
+      padding: 8px 16px;
+    }
+  }
 }
 
 // Newsletter Column
 .newsletter-column {
-  margin-left: 50px;
+  @media (min-width: $computer-breakpoint) {
+    margin-left: 20px;
+  }
 
   h3 {
     font-size: 20px;
@@ -101,6 +146,7 @@ $white: #ffffff;
     display: flex;
     flex-direction: column;
     gap: 8px;
+    max-width: 100%;
 
     label {
       font-size: 14px;
@@ -116,6 +162,8 @@ $white: #ffffff;
       padding: 0 21px;
       font-size: 16px;
       color: $primary-color;
+      width: 100%;
+      max-width: 100%;
 
       &::placeholder {
         color: $primary-color;
@@ -130,11 +178,11 @@ $white: #ffffff;
       border: 1px solid $primary-color;
       border-radius: 16px;
       padding: 10px 16px;
-      font-family: 'Open Sans', sans-serif;
+      font-family: $page-font-template;
       font-weight: 600;
       font-size: 18px;
       letter-spacing: 1.44px;
-      color: $text-dark;
+      color: #F2A900;
       text-transform: uppercase;
       cursor: pointer;
       transition: all 0.2s ease;
@@ -144,67 +192,75 @@ $white: #ffffff;
       &:hover {
         background-color: $primary-light;
       }
+
+      @media (max-width: $mobile-breakpoint) {
+        width: 100%;
+      }
     }
   }
-}
 
-// Social Section
-.social-section {
-  margin-top: 210px;
-  margin-right: 200px;
+  // Social Section
+  .social-section {
+    @media (min-width: $computer-breakpoint) {
+      margin-left: 5px;
+    }
 
-  h3 {
-    font-size: 20px;
-    line-height: 1.6;
-    margin: 0 0 32px;
+    h3 {
+      font-size: 20px;
+      line-height: 1.6;
+      margin: 0 0 32px;
+    }
+
+    .social-icons {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .social-icon {
+      width: 48px;
+      height: 48px;
+      border: 2px solid $primary-color;
+      border-radius: 50%;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: opacity 0.2s ease;
+      display: block;
+
+      &.facebook {
+        background-image: url('../static/social/facebook-default.svg');
+      }
+
+      &.facebook:hover {
+        background-image: url('../static/social/facebook-hover.svg');
+      }
+
+      &.twitter {
+        background-image: url('../static/social/twitter-default.svg');
+      }
+
+      &.twitter:hover {
+        background-image: url('../static/social/twitter-hover.svg');
+      }
+
+      &.youtube {
+        background-image: url('../static/social/youtube-default.svg');
+      }
+
+      &.youtube:hover {
+        background-image: url('../static/social/youtube-hover.svg');
+      }
+
+      &.instagram {
+        background-image: url('../static/social/instagram-default.svg');
+      }
+
+      &.instagram:hover {
+        background-image: url('../static/social/instagram-hover.svg');
+      }
+    }
   }
 
-  .social-icons {
-    display: flex;
-    gap: 24px;
-  }
-
-  .social-icon {
-    width: 48px;
-    height: 48px;
-    border: 2px solid $primary-color;
-    border-radius: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    transition: opacity 0.2s ease;
-
-    &.facebook {
-      background-image: url('../static/social/facebook-default.svg');
-    }
-
-    &.facebook:hover {
-      background-image: url('../static/social/facebook-hover.svg');
-    }
-
-    &.twitter {
-      background-image: url('../static/social/twitter-default.svg');
-    }
-
-    &.twitter:hover {
-      background-image: url('../static/social/twitter-hover.svg');
-    }
-
-    &.youtube {
-      background-image: url('../static/social/youtube-default.svg');
-    }
-
-    &.youtube:hover {
-      background-image: url('../static/social/youtube-hover.svg');
-    }
-
-    &.instagram {
-      background-image: url('../static/social/instagram-default.svg');
-    }
-
-    &.instagram:hover {
-      background-image: url('../static/social/instagram-hover.svg');
-    }
-  }
 }
 
 // Bottom Area
@@ -213,14 +269,29 @@ $white: #ffffff;
   height: 68px;
   background-color: $secondary-dark;
   margin-top: 220px;
+  padding: 22px 0;
+
+  @media (max-width: $tablet-breakpoint) {
+    margin-top: 150px;
+  }
+
+  @media (max-width: $mobile-breakpoint) {
+    margin-top: 100px;
+    text-align: center;
+  }
 
   p {
     position: absolute;
     left: 117px;
-    top: 22px;
+    top: 25px;
     font-size: 14px;
     line-height: 1.5;
     color: $primary-color;
     margin: 0;
+
+    @media (max-width: $mobile-breakpoint) {
+      position: static;
+      text-align: center;
+    }
   }
 }
