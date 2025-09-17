@@ -1,0 +1,63 @@
+{
+  "@id": "/imagenes",
+  "@type": "Document",
+  "UID": "0049b43af82e438daa9ed40040888bd7",
+  "allow_discussion": null,
+  "blocks": {
+    "144b0ed1-e851-4b25-83d9-46a6579e2ba9": {
+      "@type": "title"
+    },
+    "3d4b2e04-68bd-4e7e-952f-54bbfc8e673b": {
+      "@type": "slate"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "144b0ed1-e851-4b25-83d9-46a6579e2ba9",
+      "3d4b2e04-68bd-4e7e-952f-54bbfc8e673b"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-09-14T15:31:18+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Imagenes genericas",
+  "effective": null,
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "imagenes",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-09-14T15:51:13+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Imagenes",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-09-14T15:31:18+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}
