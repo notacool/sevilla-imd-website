@@ -49,10 +49,6 @@ $computer-breakpoint: 1200px;
 // Content Layout
 .footer-content {
   position: relative;
-  // display: grid;
-  // grid-template-columns: repeat(4, 1fr);
-  // gap: 32px;
-  // padding: 117px 104px 0;
   padding-top: 117px !important;
   color: $white;
   margin: 0 !important;
@@ -182,7 +178,7 @@ $computer-breakpoint: 1200px;
       font-weight: 600;
       font-size: 18px;
       letter-spacing: 1.44px;
-      color: #F2A900;
+      color: $primary-color;
       text-transform: uppercase;
       cursor: pointer;
       transition: all 0.2s ease;
