@@ -22,13 +22,6 @@ import AntifraudeImg from 'volto-sevilla-imd-website/theme/static/images/feature
 const S3 = () => {
   // Sample data for notices
   const notices = [
-    // {
-    //   id: 1,
-    //   title: 'Aprobación definitiva de subvenciones a Escuelas deportivas de iniciación 2025-2026',
-    //   image: AvisosImg,
-    //   buttonText: 'Ver más',
-    //   url: '#',
-    // },
     {
       id: 1,
       title: 'Aprobación definitiva de subvenciones a Escuelas deportivas de iniciación 2025-2026',
