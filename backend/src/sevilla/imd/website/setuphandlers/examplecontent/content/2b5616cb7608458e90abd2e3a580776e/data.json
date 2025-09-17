@@ -1,0 +1,39 @@
+{
+  "@id": "/imagenes/avisos.jpg",
+  "@type": "Image",
+  "UID": "2b5616cb7608458e90abd2e3a580776e",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-09-14T15:51:13+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "avisos.jpg",
+  "image": {
+    "blob_path": "2b5616cb7608458e90abd2e3a580776e/image/avisos.jpg",
+    "content-type": "image/jpeg",
+    "filename": "avisos.jpg",
+    "height": 702,
+    "size": 142760,
+    "width": 1920
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-09-14T15:51:13+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "avisos.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

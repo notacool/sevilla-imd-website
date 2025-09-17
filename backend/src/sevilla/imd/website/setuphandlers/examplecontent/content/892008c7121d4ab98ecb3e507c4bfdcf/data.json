@@ -4,8 +4,131 @@
   "UID": "892008c7121d4ab98ecb3e507c4bfdcf",
   "allow_discussion": null,
   "blocks": {
+    "52cdd7d2-d8a6-4f05-8b00-c24dab9aaf92": {
+      "@type": "slider",
+      "autoplayDelay": 4000,
+      "autoplayEnabled": false,
+      "autoplayJump": false,
+      "slides": [
+        {
+          "@id": "bd152333-c670-4567-9969-d129af18ad49",
+          "flagAlign": "left",
+          "href": [
+            {
+              "@id": "../resolveuid/23bdd3a192a7412a883dc01602161090",
+              "Description": "El IMD",
+              "Title": "El IMD",
+              "hasPreviewImage": null,
+              "image_field": "",
+              "title": "El IMD"
+            }
+          ],
+          "title": "El IMD"
+        },
+        {
+          "@id": "8f7b90ee-9195-4c64-8905-b04b4c95490c",
+          "flagAlign": "left"
+        },
+        {
+          "@id": "8f7d44f1-2699-4faa-bfce-d215f9dfe146",
+          "flagAlign": "left"
+        },
+        {
+          "@id": "d6a3e1fb-c8b4-45c3-ab0a-8b30b196e806",
+          "flagAlign": "left"
+        }
+      ],
+      "styles": {},
+      "theme": "default"
+    },
     "a56a4078-9e47-4183-bbea-9776a9c4083c": {
       "@type": "title"
+    },
+    "c76e69cd-02ab-4739-a4d5-e66edcb0ef38": {
+      "@type": "carousel",
+      "columns": [
+        {
+          "@id": "43f4fc07-360d-42f5-842a-780e2ac30831",
+          "@type": "teaser",
+          "description": "Juegos Deportivos Municipales",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/5f70117e27a2464da7c55f9b2eaa3447",
+              "@type": "Document",
+              "Description": "Juegos Deportivos Municipales",
+              "Title": "Juegos Deportivos Municipales",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "",
+              "title": "Juegos Deportivos Municipales"
+            }
+          ],
+          "overwrite": true,
+          "title": "Juegos Deportivos Municipales"
+        },
+        {
+          "@id": "e6595e8c-818d-4172-9a46-d48381b5482a",
+          "@type": "teaser",
+          "description": "Zurich Marat\u00f3n de Sevilla",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/9902c9fe23af4b7aaedf89fea3750eed",
+              "@type": "Document",
+              "Description": "Zurich Marat\u00f3n de Sevilla",
+              "Title": "Zurich Marat\u00f3n de Sevilla",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "",
+              "title": "Zurich Marat\u00f3n de Sevilla"
+            }
+          ],
+          "overwrite": true,
+          "title": "Zurich Marat\u00f3n de Sevilla"
+        },
+        {
+          "@id": "262a76cb-5cf2-43ab-8bb4-56918dd65d37",
+          "@type": "teaser",
+          "description": "Carrera Nocturna del Guadalquivir KH7",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/32b24f27c90042cdb793ef288e657509",
+              "@type": "Document",
+              "Description": "Carrera Nocturna del Guadalquivir KH7",
+              "Title": "Nocturna del Guadalquivir KH7",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "",
+              "title": "Nocturna del Guadalquivir KH7"
+            }
+          ],
+          "overwrite": true,
+          "title": "Nocturna del Guadalquivir KH7"
+        },
+        {
+          "@id": "b362c83e-50f4-48e4-b06a-af1681e21f3d",
+          "@type": "teaser",
+          "description": "Gala del Deporte",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/1a0392db7e7045df84741bd72ad61f70",
+              "@type": "Document",
+              "Description": "Gala del Deporte",
+              "Title": "Gala del Deporte",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "",
+              "title": "Gala del Deporte"
+            }
+          ],
+          "overwrite": true,
+          "title": "Gala del Deporte"
+        }
+      ],
+      "items_to_show": 2
     },
     "eb13a1cb-3b35-41c1-8f1c-7ec096f2ba61": {
       "@type": "slate"
@@ -14,6 +137,8 @@
   "blocks_layout": {
     "items": [
       "a56a4078-9e47-4183-bbea-9776a9c4083c",
+      "52cdd7d2-d8a6-4f05-8b00-c24dab9aaf92",
+      "c76e69cd-02ab-4739-a4d5-e66edcb0ef38",
       "eb13a1cb-3b35-41c1-8f1c-7ec096f2ba61"
     ]
   },
@@ -37,7 +162,7 @@
     "locked": false,
     "stealable": true
   },
-  "modified": "2025-07-09T15:44:48+00:00",
+  "modified": "2025-08-11T20:27:27+00:00",
   "nav_title": null,
   "preview_caption_link": null,
   "review_state": "published",

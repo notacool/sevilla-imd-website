@@ -1,0 +1,47 @@
+{
+  "@id": "/enlaces-destacados/perfil-del-contratante",
+  "@type": "Link",
+  "UID": "78d1218b90e346ba8c25d260d072e52f",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-09-14T15:35:41+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "perfil-del-contratante",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "link_redirect_view",
+  "lock": {},
+  "modified": "2025-09-14T15:52:22+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "remoteUrl": "https://contrataciondelestado.es/wps/portal/%21ut/p/b0/DcqxDkAwEIDhR7pFDBKDYBQm9LZTbV3UaZri9XX7v-QHhBVQ6GVHiW8hn612Y4JnOatgomXf3pIiJZJkYAEEfDbWpPM-RkeSG9TXDceMhS2nvoZwXc0PITyu0Q%21%21/",
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Perfil del contratante",
+  "type_title": "Link",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-09-14T15:35:41+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

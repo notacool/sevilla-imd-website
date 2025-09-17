@@ -346,6 +346,101 @@
         }
       ]
     },
+    "ac136c03-e85e-40f6-86cb-4090f564dec6": {
+      "@type": "carousel",
+      "columns": [
+        {
+          "@id": "833eab3f-e560-47ee-8406-5eae37509c64",
+          "@type": "teaser",
+          "description": "Enlaces destacados",
+          "href": [
+            {
+              "@id": "resolveuid/78d1218b90e346ba8c25d260d072e52f",
+              "@type": "Link",
+              "Description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+              "Subject": [],
+              "Title": "Perfil del contratante",
+              "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+              "effective": "1969-12-30T22:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "private",
+              "start": null,
+              "title": "Perfil del contratante",
+              "type_title": "Enlace"
+            }
+          ],
+          "overwrite": true,
+          "title": "Enlaces destacados"
+        },
+        {
+          "@id": "cb6f6087-715a-4324-a17b-003f62aab014",
+          "@type": "teaser",
+          "description": "Visita la web del portal de transparencia del Ayuntamiento de Sevilla.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/4eb23403b55c4f42850b2c4bfa965f77",
+              "@type": "Link",
+              "Description": "Visita la web del portal de transparencia del Ayuntamiento de Sevilla.",
+              "Subject": [],
+              "Title": "Portal de transparencia",
+              "description": "Visita la web del portal de transparencia del Ayuntamiento de Sevilla.",
+              "effective": "1969-12-30T22:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "private",
+              "start": null,
+              "title": "Portal de transparencia",
+              "type_title": "Enlace"
+            }
+          ],
+          "overwrite": true,
+          "title": "Portal de transparencia"
+        },
+        {
+          "@id": "36ad5abf-8f53-4b55-a45d-b545138493ae",
+          "@type": "teaser",
+          "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/af120d42417a46c4b7eca797478695df",
+              "@type": "Link",
+              "Description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+              "Subject": [],
+              "Title": "Canal de denuncias antifraude",
+              "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+              "effective": "1969-12-30T22:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "private",
+              "start": null,
+              "title": "Canal de denuncias antifraude",
+              "type_title": "Enlace"
+            }
+          ],
+          "overwrite": true,
+          "title": "Canal de denuncias antifraude"
+        }
+      ],
+      "items_to_show": 2
+    },
     "b4193840-3c95-4b28-a088-f679c11e2dcb": {
       "@type": "slate",
       "plaintext": " Volto is the frontend for Plone written in React. It exposes all these features and communicates with Plone via its mature REST API . Volto can be easily themed and is highly customizable.",
@@ -486,6 +581,52 @@
         }
       ]
     },
+    "fe8c6da9-b9df-408c-ae0a-512d8fbd0b8a": {
+      "@type": "slider",
+      "autoplayDelay": 4000,
+      "autoplayEnabled": false,
+      "autoplayJump": false,
+      "slides": [
+        {
+          "@id": "ecd0ab4b-a665-48ef-a9ad-aa581d7e569d",
+          "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+          "flagAlign": "left",
+          "head_title": "Perfil del contratante",
+          "href": [
+            {
+              "@id": "resolveuid/78d1218b90e346ba8c25d260d072e52f",
+              "Description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+              "Title": "Perfil del contratante",
+              "hasPreviewImage": null,
+              "image_field": "",
+              "title": "Perfil del contratante"
+            }
+          ],
+          "title": "Perfil del contratante"
+        },
+        {
+          "@id": "cb10ee0f-77f3-4e0f-8950-b57236c7e244",
+          "description": "Visita la web del portal de transparencia del Ayuntamiento de Sevilla.",
+          "flagAlign": "left",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "resolveuid/4eb23403b55c4f42850b2c4bfa965f77",
+              "@type": "Link",
+              "Description": "Visita la web del portal de transparencia del Ayuntamiento de Sevilla.",
+              "Title": "Portal de transparencia",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "",
+              "title": "Portal de transparencia"
+            }
+          ],
+          "title": "Portal de transparencia"
+        }
+      ],
+      "styles": {},
+      "theme": "grey"
+    },
     "ffbec3a5-a970-4c43-8897-68cc1022bcb9": {
       "@type": "slate",
       "plaintext": "Create content-types and define their default-layout in the content types controlpanel  Manage Users, Groups and their Roles in the users and groups controlpanels ...and many more settings are available in the Site Setup .",
@@ -581,6 +722,8 @@
   "blocks_layout": {
     "items": [
       "07c273fc-8bfc-4e7d-a327-d513e5a945bb",
+      "fe8c6da9-b9df-408c-ae0a-512d8fbd0b8a",
+      "ac136c03-e85e-40f6-86cb-4090f564dec6",
       "09bd0162-397d-4141-983d-8f03ac2c481c",
       "eec7a1b7-40ab-49e1-a1ba-a8bc3d838598",
       "eb436460-6bd6-418d-b788-a9f09c0a1f73",
@@ -626,6 +769,9 @@
   "logo": null,
   "review_state": null,
   "rights": "",
+  "sticky_menu": [],
+  "sticky_menu_color": null,
+  "sticky_menu_foreground_color": null,
   "subjects": [],
   "title": "Plone Site",
   "type_title": "Plone Site",
