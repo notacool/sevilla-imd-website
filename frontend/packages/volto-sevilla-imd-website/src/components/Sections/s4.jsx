@@ -114,7 +114,6 @@ const S4 = () => {
                       </div>
                     ))}
                 </div>
-              </Grid.Column>
 
                 <div className="slider-controls">
                   <div className="slider-dots">
@@ -123,6 +122,7 @@ const S4 = () => {
                     <span className="dot"></span>
                   </div>
                 </div>
+              </Grid.Column>
             </Grid.Row>
           </Grid>
         </div>
