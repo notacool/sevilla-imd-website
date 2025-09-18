@@ -1,134 +1,122 @@
 .card-events {
-  background-color: #FFEFCB;
   border-radius: 0.885rem; // 14.17px
-  border: 2px solid #FFDD90;
+  border: 2px solid #FFEFCB;
   overflow: hidden;
   width: 100%;
   height: 100%;
 
+  &:hover {
+    background-color: #FFF5DE;
+  }
+
   .card-content {
     display: flex;
     flex-direction: column;
-    gap: 3.875rem; // 62px
+    gap: 1rem; // 16px
     padding: 1rem; // 16px
     position: relative;
     width: 100%;
     height: 100%;
 
-    .card-background {
-      position: absolute;
-      left: 0;
-      top: 0;
+    .event-content {
+      display: flex;
+      gap: 1.5rem; // 24px
+      align-items: center;
       width: 100%;
-      height: 33.0625rem; // 529px
+      height: 10.5rem; // 168px
 
-      .bottom-bg {
-        position: absolute;
-        background-color: #FFFBF2;
-        height: 16.5625rem; // 265px
-        left: 0;
-        bottom: 0;
-        width: 100%;
-      }
+      .event-image {
+        width: 7.5rem; // 120px
+        height: 7.5rem; // 120px
+        flex-shrink: 0;
 
-      .top-bg {
-        position: absolute;
-        height: 17.375rem; // 278px
-        left: 0;
-        top: 0;
-        width: 100%;
-        overflow: hidden;
-        // background-color: #FFFBF2;
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-image: url('../static/images/bg-card-news-default.png');
-
-        img {
+        .image-wrapper {
           width: 100%;
           height: 100%;
-          object-fit: cover;
+          background: #2E2000;
+          border-radius: 0.75rem; // 12px
+          background-position: center;
+          background-size: cover;
+          background-repeat: no-repeat;
         }
       }
-    }
 
-    .card-image {
-      position: relative;
-      width: 31.75rem; // 508px
-      height: 12.5rem; // 200px
-      flex-shrink: 0;
-
-      .image-wrapper {
-        position: absolute;
-        width: 100%;
+      .event-details {
         height: 100%;
-        border-radius: 0.75rem; // 12px
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-      }
-    }
+        width: 23.1875rem; // 371px
+        position: relative;
 
-    .card-text {
-      display: flex;
-      flex-direction: column;
-      gap: 1rem; // 16px
-      width: 31.75rem; // 508px
+        .text-content {
+          display: flex;
+          flex-direction: column;
+          gap: 0.25rem; // 4px
+          width: 100%;
 
-      .indicator-line {
-        width: 5.125rem; // 82px
-        height: 1.25rem; // 20px
-        background: #FFFFFF;
-        border: 1px solid #FFB407;
-      }
+          .event-status {
+            font-family: $page-font-template;
+            font-weight: 400;
+            font-size: 1.125rem; // 18px
+            line-height: 1.6;
+            color: #9A0334;
+            height: 2.125rem; // 34px
+          }
 
-      .card-title {
-        font-family: $page-font-template;
-        font-weight: 700;
-        font-size: 1.5rem; // 24px
-        line-height: 1.6;
-        color: #000000;
-        margin: 0;
-      }
+          .event-title {
+            font-family: $page-font-template;
+            font-weight: 700;
+            font-size: 1.5rem; // 24px
+            line-height: 1.6;
+            color: #070500;
+            margin: 0;
+          }
 
-      .card-description {
-        font-family: $page-font-template;
-        font-weight: 400;
-        font-size: 1.125rem; // 18px
-        line-height: 1.6;
-        color: #000000;
-        margin: 0;
-      }
+          .event-link {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            padding-right: 1rem;
+            text-decoration: none;
+            height: 2.75rem; // 44px
+            border-radius: 6.1875rem; // 99px
 
-      .card-date {
-        font-family: $page-font-template;
-        font-weight: 400;
-        font-size: 0.875rem; // 14px
-        line-height: 1.5;
-        color: #000000;
-        text-align: right;
-        margin: 0;
-      }
-    }
-  }
+            span {
+              font-family: $page-font-template;
+              font-weight: 600;
+              font-size: 1rem; // 16px
+              line-height: 1;
+              color: #F2A900;
+              text-align: center;
+              text-transform: uppercase;
+            }
 
-  &.featured {
-    .card-content {
-      .card-image {
-        height: 25.43rem; // 407px
-      }
+            &:hover {
+              span {
+                color: #070500;
+                text-transform: uppercase;
+              }
+            }
 
-      .card-text {
-        .card-title {
-          font-size: 3.052rem; // Larger size for featured card
-        }
+            .icon {
+              width: 1.5rem; // 24px
+              height: 1.5rem;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              overflow: hidden;
 
-        .card-description {
-          font-size: 2.289rem;
-        }
+              svg {
+                width: 0.9375rem; // 15px
+                height: 0.75rem; // 12px
+                transform: rotate(-30deg);
+              }
+            }
 
-        .card-date {
-          font-size: 1.781rem;
+            &:hover {
+              span {
+                text-decoration: underline;
+              }
+            }
+          }
         }
       }
     }
@@ -138,47 +126,32 @@
 @media screen and (max-width: 768px) {
   .card-events {
     .card-content {
-      gap: 2rem;
+      .event-content {
+        flex-direction: column;
+        height: auto;
+        gap: 1rem;
 
-      .card-image {
-        width: 100%;
-        height: 10rem;
-      }
+        .event-image {
+          width: 100%;
+          height: 12rem;
 
-      .card-text {
-        width: 100%;
-
-        .card-title {
-          font-size: 1.25rem;
-        }
-
-        .card-description {
-          font-size: 1rem;
-        }
-
-        .card-date {
-          font-size: 0.875rem;
-        }
-      }
-    }
-
-    &.featured {
-      .card-content {
-        .card-image {
-          height: 15rem;
-        }
-
-        .card-text {
-          .card-title {
-            font-size: 2rem;
+          .image-wrapper {
+            width: 100%;
+            height: 100%;
           }
+        }
 
-          .card-description {
-            font-size: 1.5rem;
-          }
+        .event-details {
+          width: 100%;
 
-          .card-date {
-            font-size: 1.125rem;
+          .text-content {
+            .event-title {
+              font-size: 1.25rem;
+            }
+
+            .event-status {
+              font-size: 1rem;
+            }
           }
         }
       }
