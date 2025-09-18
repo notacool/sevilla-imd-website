@@ -4,51 +4,56 @@
  */
 
 import React from 'react';
-import classNames from 'classnames';
-import moment from 'moment';
+import { UniversalLink } from '@plone/volto/components';
+import { Image } from 'semantic-ui-react';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
+import ArrowRightDiagonalYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-diagonal-yellow.png';
 
 const CardEvents = ({
+  status,
   title,
-  description,
   image,
-  date,
-  isFeatured = false,
+  link,
+  linkText = 'Hiperlink',
 }) => {
   return (
-    <div className={classNames('card-events', { featured: isFeatured })}>
+    <div className="card-events">
       <div className="card-content">
-        {/* Background Layer */}
-        <div className="card-background">
-          <div className="bottom-bg" />
-          <div className="top-bg" />
-        </div>
+        <div className="event-content">
+          {/* Notification Image */}
+          <div className="event-image">
+            <div
+              className="image-wrapper"
+              style={{
+                backgroundImage: `url(${image || DefaultImageSVG})`,
+              }}
+            />
+          </div>
 
-        {/* Card Image */}
-        <div className="card-image">
-          <div
-            className="image-wrapper"
-            style={{
-              backgroundImage: `url(${image || DefaultImageSVG})`,
-            }}
-          />
-        </div>
+          {/* Notification Details */}
+          <div className="event-details">
+            <div className="text-content">
+              <div className="event-status">
+                {status || 'Inscripción abierta'}
+              </div>
 
-        {/* Card Text Content */}
-        <div className="card-text">
-          <div className="indicator-line" />
+              <h3 className="event-title">
+                {title || 'Zurich Maratón de Sevilla 2026'}
+              </h3>
 
-          <h3 className="card-title">
-            {title || 'Título de la noticia...lorem ipsum neque qui sit amet.'}
-          </h3>
-
-          <p className="card-description">
-            {description || 'Lorem ipsum dolor sit amet consectetur adipiscing elit condim entum justo quis pellen et dignissim amet...'}
-          </p>
-
-          <p className="card-date">
-            {date ? moment(date).format('DD/MM/YYYY') : '00/00/0000'}
-          </p>
+              {link && (
+                <UniversalLink
+                  href={link}
+                  className="event-link"
+                >
+                  <span>{linkText}</span>
+                  <div className="icon">
+                    <Image src={ArrowRightDiagonalYellowIcon} title="Más información" />
+                  </div>
+                </UniversalLink>
+              )}
+            </div>
+          </div>
         </div>
       </div>
     </div>
