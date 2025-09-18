@@ -14,8 +14,8 @@ import cx from 'classnames';
 import verticalLine from 'volto-sevilla-imd-website/icons/vertical-line.svg';
 import facebookIcon from 'volto-sevilla-imd-website/icons/social/facebook-default.png';
 import facebookHoverIcon from 'volto-sevilla-imd-website/icons/social/facebook-hover.png';
-import twitterIcon from 'volto-sevilla-imd-website/icons/social/twitter-default.png';
-import twitterHoverIcon from 'volto-sevilla-imd-website/icons/social/twitter-hover.png';
+import xIcon from 'volto-sevilla-imd-website/icons/social/x-default.png';
+import xHoverIcon from 'volto-sevilla-imd-website/icons/social/x-hover.png';
 import youtubeIcon from 'volto-sevilla-imd-website/icons/social/youtube-default.png';
 import youtubeHoverIcon from 'volto-sevilla-imd-website/icons/social/youtube-hover.png';
 import instagramIcon from 'volto-sevilla-imd-website/icons/social/instagram-default.png';
@@ -253,28 +253,28 @@ const Topbar = (props) => {
                   <div className="social-icons">
                     <SocialIcon
                       name="Facebook"
-                      url="https://facebook.com"
+                      url="https://es-es.facebook.com/imdsevilla/"
                       defaultIcon={facebookIcon}
                       hoverIcon={facebookHoverIcon}
                       width="24px"
                     />
                     <SocialIcon
                       name="X"
-                      url="https://x.com"
-                      defaultIcon={twitterIcon}
-                      hoverIcon={twitterHoverIcon}
+                      url="https://x.com/IMDSevilla"
+                      defaultIcon={xIcon}
+                      hoverIcon={xHoverIcon}
                       width="24px"
                     />
                     <SocialIcon
                       name="YouTube"
-                      url="https://youtube.com"
+                      url="https://www.youtube.com/channel/UCHTovWfy2at-p_Avv1DjHVA"
                       defaultIcon={youtubeIcon}
                       hoverIcon={youtubeHoverIcon}
                       width="24px"
                     />
                     <SocialIcon
                       name="Instagram"
-                      url="https://instagram.com"
+                      url="https://www.instagram.com/imd_sevilla/"
                       defaultIcon={instagramIcon}
                       hoverIcon={instagramHoverIcon}
                       width="24px"
