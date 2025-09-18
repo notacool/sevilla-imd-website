@@ -6,13 +6,11 @@
 import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
 import { Image } from 'semantic-ui-react';
-import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import ArrowRightDiagonalYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-diagonal-yellow.png';
+import CardFavoritedIcon from 'volto-sevilla-imd-website/icons/card-favorited.png';
 
 const CardNotifications = ({
-  status,
   title,
-  image,
   link,
   linkText = 'Hiperlink',
 }) => {
@@ -25,7 +23,7 @@ const CardNotifications = ({
             <div
               className="image-wrapper"
               style={{
-                backgroundImage: `url(${image || DefaultImageSVG})`,
+                backgroundImage: `url(${CardFavoritedIcon})`,
               }}
             />
           </div>
@@ -33,9 +31,6 @@ const CardNotifications = ({
           {/* Notification Details */}
           <div className="notification-details">
             <div className="text-content">
-              <div className="notification-status">
-                {status || 'Inscripción abierta'}
-              </div>
 
               <h3 className="notification-title">
                 {title || 'Zurich Maratón de Sevilla 2026'}
