@@ -6,10 +6,8 @@
 import React from 'react';
 import { Image } from 'semantic-ui-react';
 import { UniversalLink } from '@plone/volto/components';
-import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import NotificationsIcon from 'volto-sevilla-imd-website/icons/notifications.png';
 import FeaturedIcon from 'volto-sevilla-imd-website/icons/featured.png';
-import LinkExternalIcon from 'volto-sevilla-imd-website/icons/link-external.png';
 import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
 import CardFavoritedIcon from 'volto-sevilla-imd-website/icons/card-favorited.png';
@@ -98,7 +96,7 @@ const S3 = () => {
               </div>
               <div className="notice-content">
                 <h3 className="notice-title">{notice.title}</h3>
-                <UniversalLink href="#" className="card-link">
+                <UniversalLink href="#" className="card-link" title={notice.title}>
                   {notice.buttonText} <img src={ArrowRightYellowIcon} alt={notice.buttonText} className="button-icon" />
                 </UniversalLink>
               </div>
@@ -126,7 +124,7 @@ const S3 = () => {
                 <div className={`indicator-line ${highlight.active ? 'active' : ''}`}></div>
                 <h3 className="highlight-title">{highlight.title}</h3>
                 <p className="highlight-description">{highlight.description}</p>
-                <UniversalLink href={highlight.url} className="highlight-link">
+                <UniversalLink href={highlight.url} className="highlight-link" title={highlight.title}>
                   <span>{highlight.buttonText}</span>
                   <div className="arrow-icon">
                     <Image src={ArrowRightSliderDefaultIcon} alt="Ir" />
