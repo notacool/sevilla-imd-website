@@ -7,7 +7,7 @@ import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
 import { Image } from 'semantic-ui-react';
 import ArrowRightDiagonalYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-diagonal-yellow.png';
-import CardFavoritedIcon from 'volto-sevilla-imd-website//icons/card-favorited.png';
+import CardFavoritedIcon from 'volto-sevilla-imd-website/icons/card-favorited.png';
 
 const CardNotifications = ({
   title,
