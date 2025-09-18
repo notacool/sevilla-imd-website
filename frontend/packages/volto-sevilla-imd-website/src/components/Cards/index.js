@@ -3,9 +3,10 @@
  * @module components/Cards
  */
 
-import CardFeatured from './CardFeatured';
+import CardCallToAction from './CardCallToAction';
 import CardEvents from './CardEvents';
+import CardFeatured from './CardFeatured';
 import CardNews from './CardNews';
 import CardNotifications from './CardNotifications';
 
-export { CardFeatured, CardEvents, CardNews, CardNotifications };
+export { CardCallToAction, CardEvents, CardFeatured, CardNews, CardNotifications };
