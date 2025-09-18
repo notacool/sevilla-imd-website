@@ -13,17 +13,10 @@ import ArrowRightYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-ye
 const Footer = (props) => {
   const { className } = props;
 
-  // Try to get responsive info from Redux store safely
-  let responsiveName = '';
-  try {
-    // Use selector with fallback
-    responsiveName = useSelector((state) =>
-      state?.screen?.responsive?.name || 'computer'
-    );
-  } catch (error) {
-    console.error('Error accessing responsive state:', error);
-    responsiveName = 'computer'; // Default to computer if there's an error
-  }
+  // Get responsive info from Redux store safely
+  const responsiveName = useSelector(
+    (state) => state?.screen?.responsive?.name || 'computer'
+  );
 
   return (
     <footer className={cx('footer', className, responsiveName)}>

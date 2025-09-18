@@ -240,7 +240,7 @@ const Topbar = (props) => {
                             <div className="current-temp">
                               <p>{day.tempMax}º</p>
                             </div>
-                            <div className={cx('temp-range', { 'computer only': responsiveName === 'mobile' })}>
+                            <div className={cx('temp-range', { 'hide-on-mobile': responsiveName === 'mobile' })}>
                               <p>{day.tempMin}-{day.tempMax}º</p>
                             </div>
                           </div>
