@@ -8,12 +8,24 @@ $dark-100: #2E2000;
 $dark-200: #070500;
 $yellow-hover-menu: #F2A900;
 
+// Breakpoints
+$mobile-breakpoint: 768px;
+$tablet-breakpoint: 992px;
+$computer-breakpoint: 1200px;
+
+// Topbar Colors
+$primary-color-topbar: #f2a900;
+$primary-light-topbar: #fffbf2;
+$text-dark-topbar: #2e2000;
+$text-accent-topbar: #cb8e00;
+
 $white: #ffffff;
 $black-200: #070500;
 $primary-color-s1: #f2a900;
 $secondary-dark-s1: rgba(57, 1, 20, 0.7);
 $background-light-s1: #f3f3f3;
 
+// Section 2 Colors
 $primary-300-s2: #ffefcb;
 $primary-1600-s2: #cb8e00;
 $primary-1400-s2: #f2a900;
@@ -21,6 +33,12 @@ $ocher-200-s2: #f6f3ed;
 $ocher-400-s2: #e1dac7;
 $ocher-600-s2: #d4c9ad;
 $black-s2: #1a202c;
+
+// Footer Colors
+$primary-color-footer: #f2a900;
+$primary-light-footer: #ffefcb;
+$secondary-dark-footer: #390114;
+$text-dark-footer: #070500;
 
 // Fonts
 $custom-fontname: 'Open Sans' !default;

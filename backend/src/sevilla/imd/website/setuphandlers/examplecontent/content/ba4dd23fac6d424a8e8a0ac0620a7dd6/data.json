@@ -1,0 +1,152 @@
+{
+  "@id": "/enlaces-destacados",
+  "@type": "Document",
+  "UID": "ba4dd23fac6d424a8e8a0ac0620a7dd6",
+  "allow_discussion": null,
+  "blocks": {
+    "5ae15e67-a817-4083-b526-1526796d1289": {
+      "@type": "listing",
+      "headlineTag": "h2",
+      "querystring": {
+        "query": [
+          {
+            "i": "portal_type",
+            "o": "plone.app.querystring.operation.selection.any",
+            "v": [
+              "Link"
+            ]
+          },
+          {
+            "i": "path",
+            "o": "plone.app.querystring.operation.string.absolutePath",
+            "v": "/enlaces-destacados/"
+          }
+        ],
+        "sort_order": "ascending"
+      },
+      "styles": {},
+      "theme": "default",
+      "variation": "summary"
+    },
+    "81d9dcb5-3b9e-489a-b63e-ccab0a865b93": {
+      "@type": "slate"
+    },
+    "e165aeb0-2149-4fb0-8385-88369b4b41d4": {
+      "@type": "carousel",
+      "columns": [
+        {
+          "@id": "0ef2b382-ab4a-4e5c-acea-2f5faf6a156b",
+          "@type": "teaser",
+          "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/78d1218b90e346ba8c25d260d072e52f",
+              "@type": "Link",
+              "Description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+              "Title": "Perfil del contratante",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "title": "Perfil del contratante"
+            }
+          ],
+          "title": "Perfil del contratante"
+        },
+        {
+          "@id": "72dec37e-23eb-40bd-b59f-8b1bcdbe7af1",
+          "@type": "teaser",
+          "description": "Visita la web del portal de transparencia del Ayuntamiento de Sevilla.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/4eb23403b55c4f42850b2c4bfa965f77",
+              "@type": "Link",
+              "Description": "Visita la web del portal de transparencia del Ayuntamiento de Sevilla.",
+              "Title": "Portal de transparencia",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "title": "Portal de transparencia"
+            }
+          ],
+          "title": "Portal de transparencia"
+        },
+        {
+          "@id": "57d225c1-0a21-4ce5-974f-ff7ce45d492b",
+          "@type": "teaser",
+          "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/af120d42417a46c4b7eca797478695df",
+              "@type": "Link",
+              "Description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+              "Title": "Canal de denuncias antifraude",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "title": "Canal de denuncias antifraude"
+            }
+          ],
+          "title": "Canal de denuncias antifraude"
+        }
+      ],
+      "items_to_show": 2
+    },
+    "e9253164-62a6-406a-93c1-84bdad1a6ec1": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e9253164-62a6-406a-93c1-84bdad1a6ec1",
+      "e165aeb0-2149-4fb0-8385-88369b4b41d4",
+      "5ae15e67-a817-4083-b526-1526796d1289",
+      "81d9dcb5-3b9e-489a-b63e-ccab0a865b93"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-09-14T15:29:06+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Enlaces destacados",
+  "effective": null,
+  "exclude_from_nav": true,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "enlaces-destacados",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-09-14T15:59:59+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Enlaces destacados",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-09-14T15:29:06+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

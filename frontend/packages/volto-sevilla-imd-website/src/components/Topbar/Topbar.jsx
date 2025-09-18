@@ -4,14 +4,22 @@
  */
 
 import React, { useEffect, useState } from 'react';
+import { Container, Grid } from 'semantic-ui-react';
 import { FormattedMessage } from 'react-intl';
+import { useSelector } from 'react-redux';
 import moment from 'moment';
 import Icon from '@plone/volto/components/theme/Icon/Icon';
+import SocialIcon from 'volto-sevilla-imd-website/components/SocialIcon';
+import cx from 'classnames';
 import verticalLine from 'volto-sevilla-imd-website/icons/vertical-line.svg';
-import facebookIcon from 'volto-sevilla-imd-website/icons/social/facebook-default.svg';
-import twitterIcon from 'volto-sevilla-imd-website/icons/social/twitter-default.svg';
-import youtubeIcon from 'volto-sevilla-imd-website/icons/social/youtube-default.svg';
-import instagramIcon from 'volto-sevilla-imd-website/icons/social/instagram-default.svg';
+import facebookIcon from 'volto-sevilla-imd-website/icons/social/facebook-default.png';
+import facebookHoverIcon from 'volto-sevilla-imd-website/icons/social/facebook-hover.png';
+import twitterIcon from 'volto-sevilla-imd-website/icons/social/twitter-default.png';
+import twitterHoverIcon from 'volto-sevilla-imd-website/icons/social/twitter-hover.png';
+import youtubeIcon from 'volto-sevilla-imd-website/icons/social/youtube-default.png';
+import youtubeHoverIcon from 'volto-sevilla-imd-website/icons/social/youtube-hover.png';
+import instagramIcon from 'volto-sevilla-imd-website/icons/social/instagram-default.png';
+import instagramHoverIcon from 'volto-sevilla-imd-website/icons/social/instagram-hover.png';
 
 import clima11Icon from 'volto-sevilla-imd-website/icons/weather/temps/11.png';
 import clima11nIcon from 'volto-sevilla-imd-website/icons/weather/temps/11n.png';
@@ -126,9 +134,13 @@ const getWeatherIcon = (skyStateText, hour) => {
   return weatherIcons[cleanStateText] || clima11Icon;  // Default to clima11Icon if no match
 };
 
-const Topbar = () => {
+const Topbar = (props) => {
+  const { className } = props;
   const [forecast, setForecast] = useState([]);
   const [currentTime, setCurrentTime] = useState(moment());
+
+  // Get responsive information from Redux store
+  const responsiveName = useSelector((state) => state?.screen?.responsive?.name || 'computer');
 
   // Effect to update time every minute
   useEffect(() => {
@@ -195,61 +207,85 @@ const Topbar = () => {
   }, []);
 
   return (
-    <div className="topbar" data-name="topbar">
-      <div className="topbar-content">
-        <div className="weather-wrapper">
-          {forecast.length === 0 ? (
-            <p>🌡️ <FormattedMessage id="loading_forecast" defaultMessage="Loading forecast... " /></p>
-          ) : (
-            <div className="weather-widget">
-              {forecast.slice(0, 1).map((day, i) => (
-                <div key={i} className="weather-data">
-                  <div className="weather-icon">
-                    <img
-                      src={getWeatherIcon(day.skyStateText, currentTime.hour())}
-                      alt={day.skyStateDescripcion || "Descripción de clima"}
+    <div className={cx('topbar', className, responsiveName)} data-name="topbar">
+      <Container>
+        <Grid>
+          <Grid.Row>
+            <Grid.Column mobile={16} tablet={16} computer={16}>
+              <div className="topbar-content">
+                <div className="weather-wrapper">
+                  {forecast.length === 0 ? (
+                    <p>🌡️ <FormattedMessage id="loading_forecast" defaultMessage="Loading forecast..." /></p>
+                  ) : (
+                    <div className="weather-widget">
+                      {forecast.slice(0, 1).map((day, i) => (
+                        <div key={i} className="weather-data">
+                          <div className="weather-icon">
+                            <img
+                              src={getWeatherIcon(day.skyStateText, currentTime.hour())}
+                              alt={day.skyStateDescripcion || "Descripción de clima"}
+                            />
+                          </div>
+                          <div className="weather-divider">
+                            <div className="divider-line">
+                              <div className="divider-line-inner">
+                                <Icon name={verticalLine} size="24px" />
+                              </div>
+                            </div>
+                          </div>
+                          <div className="weather-city">
+                            <p>{day.provinceName || "Sevilla"}</p>{/* {currentTime.format('HH')} */}
+                          </div>
+                          <div className="weather-temperature">
+                            <div className="current-temp">
+                              <p>{day.tempMax}º</p>
+                            </div>
+                            <div className={cx('temp-range', { 'hide-on-mobile': responsiveName === 'mobile' })}>
+                              <p>{day.tempMin}-{day.tempMax}º</p>
+                            </div>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+                <div className="social-widget">
+                  <div className="social-icons">
+                    <SocialIcon
+                      name="Facebook"
+                      url="https://facebook.com"
+                      defaultIcon={facebookIcon}
+                      hoverIcon={facebookHoverIcon}
+                      width="24px"
+                    />
+                    <SocialIcon
+                      name="X"
+                      url="https://x.com"
+                      defaultIcon={twitterIcon}
+                      hoverIcon={twitterHoverIcon}
+                      width="24px"
+                    />
+                    <SocialIcon
+                      name="YouTube"
+                      url="https://youtube.com"
+                      defaultIcon={youtubeIcon}
+                      hoverIcon={youtubeHoverIcon}
+                      width="24px"
+                    />
+                    <SocialIcon
+                      name="Instagram"
+                      url="https://instagram.com"
+                      defaultIcon={instagramIcon}
+                      hoverIcon={instagramHoverIcon}
+                      width="24px"
                     />
                   </div>
-                  <div className="weather-divider">
-                    <div className="divider-line">
-                      <div className="divider-line-inner">
-                        <Icon name={verticalLine} size="24px" />
-                      </div>
-                    </div>
-                  </div>
-                  <div className="weather-city">
-                    <p>{day.provinceName || "Sevilla"}</p>{/* {currentTime.format('HH')} */}
-                  </div>
-                  <div className="weather-temperature">
-                    <div className="current-temp">
-                      <p>{day.tempMax}º</p>
-                    </div>
-                    <div className="temp-range">
-                      <p>{day.tempMin}-{day.tempMax}º</p>
-                    </div>
-                  </div>
                 </div>
-              ))}
-            </div>
-          )}
-        </div>
-        <div className="social-widget">
-          <div className="social-icons">
-            <a href="https://facebook.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={facebookIcon} size="24px" />
-            </a>
-            <a href="https://x.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={twitterIcon} size="24px" />
-            </a>
-            <a href="https://youtube.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={youtubeIcon} size="24px" />
-            </a>
-            <a href="https://instagram.com" className="social-icon" target="_blank" rel="noopener noreferrer">
-              <Icon name={instagramIcon} size="24px" />
-            </a>
-          </div>
-        </div>
-      </div>
+              </div>
+            </Grid.Column>
+          </Grid.Row>
+        </Grid>
+      </Container>
     </div>
   );
 }

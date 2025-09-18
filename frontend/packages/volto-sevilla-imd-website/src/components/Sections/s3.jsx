@@ -4,8 +4,7 @@
  */
 
 import React from 'react';
-import { Container, Grid, Header, Image, Card } from 'semantic-ui-react';
-import { flattenToAppURL } from '@plone/volto/helpers';
+import { Image } from 'semantic-ui-react';
 import { UniversalLink } from '@plone/volto/components';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import NotificationsIcon from 'volto-sevilla-imd-website/icons/notifications.png';
@@ -13,167 +12,141 @@ import FeaturedIcon from 'volto-sevilla-imd-website/icons/featured.png';
 import LinkExternalIcon from 'volto-sevilla-imd-website/icons/link-external.png';
 import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
+import CardFavoritedIcon from 'volto-sevilla-imd-website/icons/card-favorited.png';
+import ArrowRightYellowIcon from 'volto-sevilla-imd-website/icons/arrow-right-yellow.png';
 import AvisosImg from 'volto-sevilla-imd-website/theme/static/images/featured/avisos.jpg';
 import PerfilImg from 'volto-sevilla-imd-website/theme/static/images/featured/perfil.jpg';
 import TransparenciaImg from 'volto-sevilla-imd-website/theme/static/images/featured/transparencia.jpg';
 import AntifraudeImg from 'volto-sevilla-imd-website/theme/static/images/featured/antifraude.jpg';
 
 const S3 = () => {
+  // Sample data for notices
+  const notices = [
+    {
+      id: 1,
+      title: 'Aprobación definitiva de subvenciones a Escuelas deportivas de iniciación 2025-2026',
+      image: CardFavoritedIcon,
+      buttonText: 'Ver más',
+      url: '#',
+    },
+    {
+      id: 2,
+      title: 'Fechas de inscripción de los Juegos Deportivos Municipales 2025-2026',
+      image: CardFavoritedIcon,
+      buttonText: 'Ver más',
+      url: '#',
+    },
+  ];
+
+  // Sample data for highlighted content
+  const highlights = [
+    {
+      id: 1,
+      title: 'Perfil del contratante',
+      description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
+      image: PerfilImg,
+      buttonText: 'Visita su web',
+      url: '#',
+      active: false,
+    },
+    {
+      id: 2,
+      title: 'Portal de transparencia',
+      description: 'Visita la web del portal de transparencia del Ayuntamiento de Sevilla.',
+      image: TransparenciaImg,
+      buttonText: 'Visita su web',
+      url: '#',
+      active: false,
+    },
+    {
+      id: 3,
+      title: 'Canal de denuncias antifraude',
+      description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
+      image: AntifraudeImg,
+      buttonText: 'Visita su web',
+      url: '#',
+      active: true,
+    },
+  ];
+
   return (
     <div className="section-s3">
-      {/* <Container> */}
-        <div className="section-header">
-          <Header as="h2" className="section-title">
-            Actualidad
-          </Header>
+      {/* Main Title */}
+      <div className="section-title">
+        <h2>Actualidad</h2>
+      </div>
+
+      {/* Avisos Section */}
+      <div className="section-container">
+        <div className="section-subtitle">
+          <div className="icon">
+            <Image src={NotificationsIcon} alt="Avisos" />
+          </div>
+          <div className="text">Avisos</div>
         </div>
 
-        <div className="news-section">
-          <div className="section-subtitle">
-            <div className="icon">
-              <Image src={NotificationsIcon} alt="Avisos" />
+        <div className="notices-container">
+            <div className="notice-card">
+              <div className="notifications-image">
+                <Image src={AvisosImg} alt="Avisos" />
+              </div>
             </div>
-            <Header as="h3">AVISOS</Header>
-          </div>
+          {notices.map((notice) => (
+            <div key={notice.id} className="notice-card">
+              <div className="notice-image">
+                <Image src={notice.image} alt={notice.title} />
+              </div>
+              <div className="notice-content">
+                <h3 className="notice-title">{notice.title}</h3>
+                <UniversalLink href="#" className="card-link">
+                  {notice.buttonText} <img src={ArrowRightYellowIcon} alt={notice.buttonText} className="button-icon" />
+                </UniversalLink>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
 
-          <Grid columns={3}>
-            <Grid.Row>
-              <Grid.Column>
-                <Card>
-                  <div className="card-content">
-                    <Image src={AvisosImg} />
-                    <div className="card-body">
-                      <p className="card-label">Inscripción abierta</p>
-                      <Header as="h4">Zurich Maratón de Sevilla 2026</Header>
-                      <UniversalLink href="#" className="card-link">
-                        Más información
-                        <span className="icon-arrow">
-                          <Image src={LinkExternalIcon} alt="Visita su web" />
-                        </span>
-                      </UniversalLink>
-                    </div>
-                  </div>
-                </Card>
-              </Grid.Column>
-              <Grid.Column>
-                <Card>
-                  <div className="card-content">
-                    <Image src={DefaultImageSVG} />
-                    <div className="card-body">
-                      <p className="card-label">Inscripción abierta</p>
-                      <Header as="h4">Carrera Parque de María Luísa Coca-Cola</Header>
-                      <UniversalLink href="#" className="card-link">
-                        Más información
-                        <span className="icon-arrow">
-                          <Image src={LinkExternalIcon} alt="Visita su web" />
-                        </span>
-                      </UniversalLink>
-                    </div>
-                  </div>
-                </Card>
-              </Grid.Column>
-              <Grid.Column>
-                <Card>
-                  <div className="card-content">
-                    <Image src={DefaultImageSVG} />
-                    <div className="card-body">
-                      <p className="card-label">Inscripción abierta</p>
-                      <Header as="h4">Otros eventos deportivos</Header>
-                      <UniversalLink href="#" className="card-link">
-                        Más información
-                        <span className="icon-arrow">
-                          <Image src={LinkExternalIcon} alt="Visita su web" />
-                        </span>
-                      </UniversalLink>
-                    </div>
-                  </div>
-                </Card>
-              </Grid.Column>
-            </Grid.Row>
-          </Grid>
+      {/* Destacamos Section */}
+      <div className="section-container">
+        <div className="section-subtitle">
+          <div className="icon">
+            <Image src={FeaturedIcon} alt="Te destacamos" />
+          </div>
+          <div className="text">Te destacamos</div>
         </div>
 
-        <div className="featured-section">
-          <div className="section-subtitle">
-            <div className="icon">
-              <Image src={FeaturedIcon} alt="TE DESTACAMOS" />
+        <div className="highlights-container">
+          {highlights.map((highlight) => (
+            <div key={highlight.id} className={`highlight-card ${highlight.active ? 'active' : ''}`}>
+              <div className="highlight-image">
+                <Image src={highlight.image} alt={highlight.title} />
+              </div>
+              <div className="highlight-content">
+                <div className={`indicator-line ${highlight.active ? 'active' : ''}`}></div>
+                <h3 className="highlight-title">{highlight.title}</h3>
+                <p className="highlight-description">{highlight.description}</p>
+                <UniversalLink href={highlight.url} className="highlight-link">
+                  <span>{highlight.buttonText}</span>
+                  <div className="arrow-icon">
+                    <Image src={ArrowRightSliderDefaultIcon} alt="Ir" />
+                  </div>
+                </UniversalLink>
+              </div>
             </div>
-            <Header as="h3">TE DESTACAMOS</Header>
-          </div>
-
-          <div className="slider-controls">
-            <div className="slider-arrows">
-              <button className="arrow prev">
-                <Image src={ArrowLeftSliderDefaultIcon} alt="Anterior" />
-              </button>
-              <button className="arrow next">
-                <Image src={ArrowRightSliderDefaultIcon} alt="Siguiente" />
-              </button>
-            </div>
-          </div>
-
-          <Grid columns={3}>
-            <Grid.Row>
-              {[
-                {
-                  title: 'Perfil del contratante',
-                  description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
-                  image: PerfilImg,
-                  link: '#',
-                },
-                {
-                  title: 'Portal de transparencia',
-                  description: 'Visita la web del portal de transparencia del Ayuntamiento de Sevilla.',
-                  image: TransparenciaImg,
-                  link: '#',
-                },
-                {
-                  title: 'Canal de denuncias antifraude',
-                  description: 'Visita la web de la Plataforma de contratación del Ministerio de Hacienda.',
-                  image: AntifraudeImg,
-                  link: '#',
-                }
-              ].map((item, index) => (
-                <Grid.Column key={index}>
-                  <Card className="featured-card">
-                    <div className="card-content">
-                      {!item?.image && (
-                        <img src={DefaultImageSVG} alt="Default Image" />
-                      )}
-                      {item?.image && (
-                        <img
-                          // src={flattenToAppURL(item.image)}
-                          src={item.image}
-                          alt={item.title}
-                        />
-                      )}
-                      <div className="card-body">
-                        <div className="card-line"></div>
-                        <Header as="h4">{item.title}</Header>
-                        <p>{item.description}</p>
-                        <UniversalLink href={item.link} className="card-link">
-                          Visita su web
-                          <span className="icon-arrow">
-                            <Image src={LinkExternalIcon} alt="Visita su web" />
-                          </span>
-                        </UniversalLink>
-                      </div>
-                    </div>
-                  </Card>
-                </Grid.Column>
-              ))}
-            </Grid.Row>
-          </Grid>
-
-          <div className="slider-controls">
-            <div className="slider-dots">
-              <span className="dot active"></span>
-              <span className="dot"></span>
-              <span className="dot"></span>
-            </div>
-          </div>
+          ))}
         </div>
-      {/* </Container> */}
+
+        {/* Navigation */}
+        <div className="navigation-controls">
+          <button className="nav-button prev">
+            <Image src={ArrowLeftSliderDefaultIcon} alt="Anterior" />
+          </button>
+          <button className="nav-button next">
+            <Image src={ArrowRightSliderDefaultIcon} alt="Siguiente" />
+          </button>
+        </div>
+      </div>
     </div>
   );
 };

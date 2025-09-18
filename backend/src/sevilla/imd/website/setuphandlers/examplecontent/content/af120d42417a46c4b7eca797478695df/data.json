@@ -1,0 +1,47 @@
+{
+  "@id": "/enlaces-destacados/canal-de-denuncias-antifraude",
+  "@type": "Link",
+  "UID": "af120d42417a46c4b7eca797478695df",
+  "allow_discussion": null,
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-09-14T15:42:13+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Visita la web de la Plataforma de contrataci\u00f3n del Ministerio de Hacienda.",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "canal-de-denuncias-antifraude",
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "link_redirect_view",
+  "lock": {},
+  "modified": "2025-09-14T15:54:29+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "remoteUrl": "https://planderecuperacion.gob.es/buzon-antifraude-canal-de-denuncias-del-mecanismo-para-la-recuperacion-y-resiliencia",
+  "review_state": "private",
+  "rights": "",
+  "subjects": [],
+  "title": "Canal de denuncias antifraude",
+  "type_title": "Link",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-09-14T15:42:13+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

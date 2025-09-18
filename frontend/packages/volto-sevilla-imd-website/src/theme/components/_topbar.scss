@@ -1,30 +1,67 @@
-// Variables
-$primary-color: #f2a900;
-$primary-light: #fffbf2;
-$text-dark: #2e2000;
-$text-accent: #cb8e00;
-
 // Topbar
 .topbar {
   position: relative;
   width: 100%;
-  background-color: $primary-color;
-  height: 60px;
+  background-color: $primary-color-topbar;
+  height: 70px;
+
+  // Responsive adjustments
+  &.mobile {
+    height: auto;
+    min-height: 60px;
+    padding: 8px 0;
+  }
+
+  &.tablet {
+    height: auto;
+    min-height: 60px;
+  }
+
+  .container {
+    height: 100%;
+
+    .grid {
+      height: 100%;
+      margin: 0;
+
+      .row {
+        padding: 0;
+      }
+
+      .column {
+        padding: 0;
+      }
+    }
+  }
 }
 
 .topbar-content {
-  position: absolute;
   display: flex;
   gap: 42px;
   align-items: center;
   justify-content: flex-end;
-  right: 117px;
-  top: 6px;
+  padding: 6px 0;
+
+  @media (min-width: $computer-breakpoint) {
+    position: absolute;
+    right: 117px;
+    top: 6px;
+  }
+
+  @media (max-width: #{$computer-breakpoint - 1px}) {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  @media (max-width: #{$mobile-breakpoint - 1px}) {
+    gap: 16px;
+  }
 }
 
 // Weather Widget
 .weather-widget {
-  background-color: $primary-light;
+  background-color: $primary-light-topbar;
   border-radius: 42px;
   box-sizing: border-box;
   padding: 6px 16px;
@@ -60,6 +97,7 @@ $text-accent: #cb8e00;
   height: 24px;
   width: 0;
   position: relative;
+
   .divider-line {
     position: absolute;
     bottom: 0;
@@ -69,10 +107,12 @@ $text-accent: #cb8e00;
     display: flex;
     align-items: center;
     justify-content: center;
+
     &-inner {
       // height: 1px;
       width: 24px;
       transform: rotate(0deg);
+
       svg {
         display: block;
         max-width: none;
@@ -86,10 +126,10 @@ $text-accent: #cb8e00;
 .weather-city {
   padding: 8px 0;
   p {
-    font-family: 'Open Sans', sans-serif;
+    font-family: $page-font-template;
     font-weight: normal;
     font-size: 16px;
-    color: $text-dark;
+    color: $text-dark-topbar;
     line-height: 1.6;
     margin: 0;
     white-space: pre;
@@ -101,7 +141,7 @@ $text-accent: #cb8e00;
   gap: 8px;
   align-items: center;
   justify-content: flex-start;
-  font-family: 'Open Sans', sans-serif;
+  font-family: $page-font-template;
   width: 100px;
   text-wrap: nowrap;
 }
@@ -110,7 +150,7 @@ $text-accent: #cb8e00;
   p {
     font-size: 24px;
     font-weight: bold;
-    color: $text-dark;
+    color: $text-dark-topbar;
     line-height: 1.6;
     margin: 0;
     white-space: pre;
@@ -121,7 +161,7 @@ $text-accent: #cb8e00;
   p {
     font-size: 16px;
     font-weight: bold;
-    color: $text-accent;
+    color: $text-accent-topbar;
     margin: 0;
     white-space: pre;
   }
@@ -129,7 +169,7 @@ $text-accent: #cb8e00;
 
 // Social Widget
 .social-widget {
-  border: 1px solid $primary-light;
+  border: 1px solid $primary-light-topbar;
   border-radius: 42px;
   box-sizing: border-box;
   padding: 6px 16px;
@@ -145,22 +185,4 @@ $text-accent: #cb8e00;
   gap: 16px;
   align-items: center;
   justify-content: flex-end;
-}
-
-.social-icon {
-  width: 24px;
-  height: 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  img {
-    width: 100%;
-    height: 100%;
-    display: block;
-    max-width: none;
-  }
-  &:hover {
-    opacity: 0.8;
-    transition: opacity 0.2s ease-in-out;
-  }
 }

@@ -1,6 +1,10 @@
 {
   "__version__": "1.0.0",
   "_blob_files_": [
+    "4d3273ab1b57491f81ab98bedf30437d/image/antifraude.jpg",
+    "2b5616cb7608458e90abd2e3a580776e/image/avisos.jpg",
+    "6af9ba865ee3433e8fb3fc2045303c4e/image/perfil.jpg",
+    "1e9fc86c17ed463896cdbaa0db89e950/image/transparencia.jpg",
     "ed59eedc893141eb9ac7333f5bb497db/image/Alta competici\u00f3n",
     "1e361df0ab0f4fc48fd32019b3c6fb09/image/Background",
     "b1897bda56a2416e80f541a28363cb69/image/Clubes deportivos de \u00e9lite",
@@ -48,6 +52,15 @@
     "c4e5ab6be09948fc90087b53ec6ec967/data.json",
     "20ffb595ff6d45d7a80088f20a262385/data.json",
     "a6e800fb51ed4c84be066391b5117090/data.json",
+    "ba4dd23fac6d424a8e8a0ac0620a7dd6/data.json",
+    "af120d42417a46c4b7eca797478695df/data.json",
+    "78d1218b90e346ba8c25d260d072e52f/data.json",
+    "4eb23403b55c4f42850b2c4bfa965f77/data.json",
+    "0049b43af82e438daa9ed40040888bd7/data.json",
+    "4d3273ab1b57491f81ab98bedf30437d/data.json",
+    "2b5616cb7608458e90abd2e3a580776e/data.json",
+    "6af9ba865ee3433e8fb3fc2045303c4e/data.json",
+    "1e9fc86c17ed463896cdbaa0db89e950/data.json",
     "55bfe1cf26ac4e44925f8f5124e3a6b4/data.json",
     "21e3fa5b3285419abf86f6b8ea43dab6/data.json",
     "19be15b01e734e33ba1244f1ad2c936c/data.json",
@@ -100,18 +113,21 @@
   "default_page": {},
   "local_permissions": {
     "002e1678756e409da03c1f180d1ecc8f": {},
+    "0049b43af82e438daa9ed40040888bd7": {},
     "0e9542c0ac014690bc6c8bb3039c8a41": {},
     "159e3ea4588349b79161120ec4ab9b4e": {},
     "19be15b01e734e33ba1244f1ad2c936c": {},
     "1a0392db7e7045df84741bd72ad61f70": {},
     "1d4cfbab8e744b2daee5fa00b40b42e7": {},
     "1e361df0ab0f4fc48fd32019b3c6fb09": {},
+    "1e9fc86c17ed463896cdbaa0db89e950": {},
     "20ffb595ff6d45d7a80088f20a262385": {},
     "21e3fa5b3285419abf86f6b8ea43dab6": {},
     "23bdd3a192a7412a883dc01602161090": {},
     "26dbd651d6644b779f25288ea108330b": {},
     "28eb285d3e8045679d2868cba60b2c77": {},
     "2a05709736dd4d18bb7fe9052821dad3": {},
+    "2b5616cb7608458e90abd2e3a580776e": {},
     "2e4b11ec4a734c1db8ee2808ad6a0c90": {},
     "2ed93a4531e14e7e96aae1a0e1b478eb": {},
     "32b24f27c90042cdb793ef288e657509": {},
@@ -119,7 +135,9 @@
     "37b2b99a56564916b1b111e3d0b62fd0": {},
     "3c3a5b0b8f504dcfb69bfc444c3ae424": {},
     "40e2260ff5744ce9885f8e1edd242150": {},
+    "4d3273ab1b57491f81ab98bedf30437d": {},
     "4d9aa48f924843ff82de77a6da4b4de3": {},
+    "4eb23403b55c4f42850b2c4bfa965f77": {},
     "52d2a1a66006438aba98f77c8e08560b": {},
     "55906a3f89f34276b894581ed2b925de": {},
     "55bfe1cf26ac4e44925f8f5124e3a6b4": {},
@@ -133,10 +151,12 @@
     "632a7fa79425409eb0d1ba33b124e1e0": {},
     "698d8601ae224e148c5981893514368a": {},
     "6a148d0e99084b738cae51b83b002af0": {},
+    "6af9ba865ee3433e8fb3fc2045303c4e": {},
     "6b2d4979f85845d9bd614c964cf73f65": {},
     "6be165e665c54987a3363a60f681c971": {},
     "6c347ce82266405b97584f127d4e8e3e": {},
     "78acd38784d7436b9b1f5e7f93a0b638": {},
+    "78d1218b90e346ba8c25d260d072e52f": {},
     "81a4f653dc954a89abad9ca718c285e1": {},
     "8294f5b3d2cd4647b5bd5511516bdac1": {},
     "8744b20c487a487f8e2e98105a64499f": {},
@@ -148,9 +168,11 @@
     "9b1459f1eaf74267998308f2c5abe108": {},
     "a56ff14195114eedabcf206b3b46f7a7": {},
     "a6e800fb51ed4c84be066391b5117090": {},
+    "af120d42417a46c4b7eca797478695df": {},
     "b1897bda56a2416e80f541a28363cb69": {},
     "b378109504864ce7b7f81691f8497e6e": {},
     "b4440181d2c94fe9982255d46874f3cc": {},
+    "ba4dd23fac6d424a8e8a0ac0620a7dd6": {},
     "ba515f06843948bb87ba79c4eca43621": {},
     "bb3930c538084f73b77f9f37b60e4e8e": {},
     "c1cc503181e54e339869546afe5525ac": {},
@@ -234,6 +256,13 @@
         ]
       }
     },
+    "0049b43af82e438daa9ed40040888bd7": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
     "0e9542c0ac014690bc6c8bb3039c8a41": {
       "local_roles": {
         "admin": [
@@ -276,6 +305,13 @@
         ]
       }
     },
+    "1e9fc86c17ed463896cdbaa0db89e950": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
     "20ffb595ff6d45d7a80088f20a262385": {
       "local_roles": {
         "admin": [
@@ -312,6 +348,13 @@
       }
     },
     "2a05709736dd4d18bb7fe9052821dad3": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "2b5616cb7608458e90abd2e3a580776e": {
       "local_roles": {
         "admin": [
           "Owner"
@@ -367,7 +410,21 @@
         ]
       }
     },
+    "4d3273ab1b57491f81ab98bedf30437d": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
     "4d9aa48f924843ff82de77a6da4b4de3": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "4eb23403b55c4f42850b2c4bfa965f77": {
       "local_roles": {
         "admin": [
           "Owner"
@@ -465,6 +522,13 @@
         ]
       }
     },
+    "6af9ba865ee3433e8fb3fc2045303c4e": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
     "6b2d4979f85845d9bd614c964cf73f65": {
       "local_roles": {
         "admin": [
@@ -487,6 +551,13 @@
       }
     },
     "78acd38784d7436b9b1f5e7f93a0b638": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "78d1218b90e346ba8c25d260d072e52f": {
       "local_roles": {
         "admin": [
           "Owner"
@@ -570,6 +641,13 @@
         ]
       }
     },
+    "af120d42417a46c4b7eca797478695df": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
     "b1897bda56a2416e80f541a28363cb69": {
       "local_roles": {
         "admin": [
@@ -585,6 +663,13 @@
       }
     },
     "b4440181d2c94fe9982255d46874f3cc": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "ba4dd23fac6d424a8e8a0ac0620a7dd6": {
       "local_roles": {
         "admin": [
           "Owner"
@@ -755,18 +840,21 @@
   },
   "ordering": {
     "002e1678756e409da03c1f180d1ecc8f": 6,
+    "0049b43af82e438daa9ed40040888bd7": 53,
     "0e9542c0ac014690bc6c8bb3039c8a41": 7,
     "159e3ea4588349b79161120ec4ab9b4e": 1,
     "19be15b01e734e33ba1244f1ad2c936c": 50,
     "1a0392db7e7045df84741bd72ad61f70": 6,
     "1d4cfbab8e744b2daee5fa00b40b42e7": 3,
     "1e361df0ab0f4fc48fd32019b3c6fb09": 6,
+    "1e9fc86c17ed463896cdbaa0db89e950": 3,
     "20ffb595ff6d45d7a80088f20a262385": 7,
     "21e3fa5b3285419abf86f6b8ea43dab6": 47,
     "23bdd3a192a7412a883dc01602161090": 0,
     "26dbd651d6644b779f25288ea108330b": 2,
     "28eb285d3e8045679d2868cba60b2c77": 6,
     "2a05709736dd4d18bb7fe9052821dad3": 5,
+    "2b5616cb7608458e90abd2e3a580776e": 1,
     "2e4b11ec4a734c1db8ee2808ad6a0c90": 3,
     "2ed93a4531e14e7e96aae1a0e1b478eb": 8,
     "32b24f27c90042cdb793ef288e657509": 3,
@@ -774,7 +862,9 @@
     "37b2b99a56564916b1b111e3d0b62fd0": 5,
     "3c3a5b0b8f504dcfb69bfc444c3ae424": 10,
     "40e2260ff5744ce9885f8e1edd242150": 0,
+    "4d3273ab1b57491f81ab98bedf30437d": 0,
     "4d9aa48f924843ff82de77a6da4b4de3": 1,
+    "4eb23403b55c4f42850b2c4bfa965f77": 1,
     "52d2a1a66006438aba98f77c8e08560b": 3,
     "55906a3f89f34276b894581ed2b925de": 4,
     "55bfe1cf26ac4e44925f8f5124e3a6b4": 49,
@@ -788,10 +878,12 @@
     "632a7fa79425409eb0d1ba33b124e1e0": 1,
     "698d8601ae224e148c5981893514368a": 5,
     "6a148d0e99084b738cae51b83b002af0": 1,
+    "6af9ba865ee3433e8fb3fc2045303c4e": 2,
     "6b2d4979f85845d9bd614c964cf73f65": 8,
     "6be165e665c54987a3363a60f681c971": 7,
     "6c347ce82266405b97584f127d4e8e3e": 4,
     "78acd38784d7436b9b1f5e7f93a0b638": 6,
+    "78d1218b90e346ba8c25d260d072e52f": 0,
     "81a4f653dc954a89abad9ca718c285e1": 8,
     "8294f5b3d2cd4647b5bd5511516bdac1": 1,
     "8744b20c487a487f8e2e98105a64499f": 46,
@@ -803,9 +895,11 @@
     "9b1459f1eaf74267998308f2c5abe108": 7,
     "a56ff14195114eedabcf206b3b46f7a7": 1,
     "a6e800fb51ed4c84be066391b5117090": 4,
+    "af120d42417a46c4b7eca797478695df": 2,
     "b1897bda56a2416e80f541a28363cb69": 0,
     "b378109504864ce7b7f81691f8497e6e": 4,
     "b4440181d2c94fe9982255d46874f3cc": 2,
+    "ba4dd23fac6d424a8e8a0ac0620a7dd6": 52,
     "ba515f06843948bb87ba79c4eca43621": 1,
     "bb3930c538084f73b77f9f37b60e4e8e": 0,
     "c1cc503181e54e339869546afe5525ac": 10,

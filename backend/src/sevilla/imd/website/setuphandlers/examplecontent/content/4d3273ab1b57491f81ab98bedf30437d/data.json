@@ -1,0 +1,39 @@
+{
+  "@id": "/imagenes/antifraude.jpg",
+  "@type": "Image",
+  "UID": "4d3273ab1b57491f81ab98bedf30437d",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-09-14T15:51:12+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "antifraude.jpg",
+  "image": {
+    "blob_path": "4d3273ab1b57491f81ab98bedf30437d/image/antifraude.jpg",
+    "content-type": "image/jpeg",
+    "filename": "antifraude.jpg",
+    "height": 362,
+    "size": 153615,
+    "width": 920
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-09-14T15:51:12+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "antifraude.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
