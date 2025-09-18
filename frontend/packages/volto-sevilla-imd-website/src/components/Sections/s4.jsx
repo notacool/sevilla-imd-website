@@ -42,13 +42,12 @@ const S4 = () => {
 
   return (
     <div className="section-s4">
-      {/* <Container> */}
+      <Container>
         {/* Title Section */}
         <div className="section-header">
-          {/* <Header as="h2" className="section-title">
+          <Header as="h2" className="section-title">
             Noticias y eventos
-          </Header> */}
-          <h2 className="section-title">Noticias y eventos</h2>
+          </Header>
         </div>
 
         <div className="slider-controls">
@@ -62,11 +61,13 @@ const S4 = () => {
           </div>
         </div>
 
+        <br />
+
         <div className="news-grid">
           <Grid>
             <Grid.Row>
               {/* Featured News */}
-              <Grid.Column width={10}>
+              <Grid.Column width={8}>
                 {newsItems
                   .filter(item => item.isFeatured)
                   .map(item => (
@@ -90,7 +91,7 @@ const S4 = () => {
               </Grid.Column>
 
               {/* Regular News */}
-              <Grid.Column width={6}>
+              <Grid.Column width={2}>
                 <div className="regular-news">
                   {newsItems
                     .filter(item => !item.isFeatured)
@@ -113,6 +114,7 @@ const S4 = () => {
                       </div>
                     ))}
                 </div>
+              </Grid.Column>
 
                 <div className="slider-controls">
                   <div className="slider-dots">
@@ -121,7 +123,6 @@ const S4 = () => {
                     <span className="dot"></span>
                   </div>
                 </div>
-              </Grid.Column>
             </Grid.Row>
           </Grid>
         </div>
@@ -132,7 +133,7 @@ const S4 = () => {
             MÁS NOTICIAS
           </Button>
         </div>
-      {/* </Container> */}
+      </Container>
     </div>
   );
 };
