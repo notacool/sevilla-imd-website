@@ -69,7 +69,7 @@ const Footer = (props) => {
               <h3>Permanece en contacto</h3>
               <div className="social-icons">
                 <a href="https://es-es.facebook.com/imdsevilla/" className="social-icon facebook" title="Facebook" target="_blank" rel="noopener noreferrer"></a>
-                <a href="https://twitter.com/IMDSevilla" className="social-icon twitter" title="Twitter" target="_blank" rel="noopener noreferrer"></a>
+                <a href="https://x.com/IMDSevilla" className="social-icon x" title="X" target="_blank" rel="noopener noreferrer"></a>
                 <a href="https://www.youtube.com/channel/UCHTovWfy2at-p_Avv1DjHVA" className="social-icon youtube" title="YouTube" target="_blank" rel="noopener noreferrer"></a>
                 <a href="https://www.instagram.com/imd_sevilla/" className="social-icon instagram" title="Instagram" target="_blank" rel="noopener noreferrer"></a>
               </div>
