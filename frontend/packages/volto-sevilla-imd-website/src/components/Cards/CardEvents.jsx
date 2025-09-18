@@ -45,10 +45,11 @@ const CardEvents = ({
                 <UniversalLink
                   href={link}
                   className="event-link"
+                  title="Más información"
                 >
                   <span>{linkText}</span>
                   <div className="icon">
-                    <Image src={ArrowRightDiagonalYellowIcon} title="Más información" />
+                    <Image src={ArrowRightDiagonalYellowIcon} alt="Más información" />
                   </div>
                 </UniversalLink>
               )}
