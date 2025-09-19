@@ -9,17 +9,10 @@
     height: 100%;
     top: 0;
     left: 0;
-    // background-color: #FFFBF2;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url('../static/images/bg-cover-first-level.jpg');
-
-    // img {
-    //   width: 100%;
-    //   height: 100%;
-    //   object-fit: cover;
-    // }
   }
 
   .breadcrumbs {
@@ -82,7 +75,7 @@
     h1 {
       font-family: $page-font-template;
       font-weight: 700;
-      font-size: 5rem; // 80px
+      font-size: 3rem; // 48px
       color: #070500;
       margin: 0;
       line-height: 1.2;
