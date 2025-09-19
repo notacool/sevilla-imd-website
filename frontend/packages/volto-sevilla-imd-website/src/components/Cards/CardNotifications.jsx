@@ -40,7 +40,7 @@ const CardNotifications = ({
                 <UniversalLink
                   href={link}
                   className="notification-link"
-                  title={title || "Más información" }
+                  title={title || "Más información"}
                 >
                   <span>{linkText}</span>
                   <div className="icon">
