@@ -42,7 +42,8 @@ PLONE_PORT=8080
 # Volto frontend
 VOLTO_VERSION=18.23.0
 VOLTO_PORT=3000
-RAZZLE_INTERNAL_API_PATH=http://backend:8080/Plone
+# Razzle API URL
+RAZZLE_INTERNAL_API_PATH=http://192.168.1.33:8080/Plone
 VOLTO_ROBOTSTXT="User-agent: *\nDisallow: /slides/\nDisallow: /te-destacamos/\nDisallow: /avisos/\nDisallow: /background\nDisallow: /ficheros/\nDisallow: /selects/\nDisallow: /fotos-uso-privado/\nDisallow: /area-privada/\nDisallow: /app/carreras/clasificaciones/\nDisallow: /app/maraton/"
 
 # PostgreSQL Server
@@ -67,9 +68,53 @@ You need either a Ubuntu or Debian based system for [imd.notacoolcompany.com](ht
 
 Execute the following to start container orchestration using ``docker compose`` for building PostgreSQL database and Plone CMS backend images:
 
+#### Backend Docker starting
+
 ```shell
 make stack-backend-start
 ```
+
+So far you build the Docker image, the Docker container called ``backend`` and start the Zope server.
+
+##### Create the Website
+
+Now, you must create a Website called ``Plone``.
+
+Go to the URL address: http://localhost:8080/ with the username ``admin`` and the password ``admin``.
+
+Go to ``Create a new site`` > ``Plone Site (Volto)`` and click on the ``Create`` button.
+
+At the ``Create a Plone site`` form, please, verify:
+
+- The ``Path Identifier*`` field value as ``Plone``.
+
+- The ``Language`` field value as ``Español``.
+
+- The ``Timezone`` field value as ``Madrid (Europe/Madrid)``.
+
+- The ``Create Example Content`` option without unmarked.
+
+And click on the ``Submit`` button.
+
+So far you created the ``Plone`` Website at the Zope server.
+
+##### Install the policy package
+
+Now, you must install the policy package called ``Web del IMD de Sevilla: Instalar`` into the ``Plone`` Website.
+
+Go to the ``Complementos`` panel: http://localhost:8080/Plone/prefs_install_products_form find the ``Web del IMD de Sevilla: Instalar`` addon and click on the ``Instalar`` button.
+
+So far you installed the policy package into the ``Plone`` Website.
+
+##### Install the content structure
+
+Now, you must install the content structure into the ``Plone`` Website.
+
+Go to the ``Site Configuration Full Import`` (``portal_setupe``) tool into ``Interfaz de Administración``: http://localhost:8080/Plone/portal_setup/manage_fullImport find the ``Select a profile by title:`` field, select ``Web del IMD de Sevilla: Ejemplos de Contenidos`` option from the list and click on the ``Import all steps`` button.
+
+This way, you already have the Zope/Plone backend server correctly installed and configured.
+
+#### Backend Docker status
 
 Execute the following command to check the status of the Backend Docker :
 
@@ -77,11 +122,15 @@ Execute the following command to check the status of the Backend Docker :
 make stack-backend-status
 ```
 
+#### Backend Docker stoping
+
 Execute the following command to stop Backend Docker stack:
 
 ```shell
 make stack-backend-stop
 ```
+
+#### Backend Docker removing
 
 Execute the following command to remove the Backend services, volumes and networks:
 
@@ -89,13 +138,19 @@ Execute the following command to remove the Backend services, volumes and networ
 make stack-backend-rm
 ```
 
+---
+
 #### Volto Frontend Maquine(s)
 
 Execute the following to start container orchestration using ``docker compose`` for building Volto app client Frontend image:
 
+#### Frontend Docker starting
+
 ```shell
 make stack-frontend-start
 ```
+
+#### Frontend Docker status
 
 Execute the following command to check the status of the Frontend Docker :
 
@@ -103,17 +158,23 @@ Execute the following command to check the status of the Frontend Docker :
 make stack-frontend-status
 ```
 
+#### Frontend Docker stoping
+
 Execute the following command to stop Frontend Docker stack:
 
 ```shell
 make stack-frontend-stop
 ```
 
+#### Frontend Docker removing
+
 Execute the following command to remove the Frontend services, volumes and networks:
 
 ```shell
 make stack-frontend-rm
 ```
+
+---
 
 ### Log Monitoring
 
