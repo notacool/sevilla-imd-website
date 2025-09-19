@@ -8,6 +8,7 @@ import { Container, Grid, Header, Image, Button } from 'semantic-ui-react';
 import { UniversalLink } from '@plone/volto/components';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 import moment from 'moment';
+import CardNews from 'volto-sevilla-imd-website/components/Cards/CardNews';
 import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
 import ArrowRightSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-right-slider-default.png';
 
@@ -71,10 +72,18 @@ const S4 = () => {
                 {newsItems
                   .filter(item => item.isFeatured)
                   .map(item => (
+                    // <CardNews
+                    //   id={item.id}
+                    //   title={item.title}
+                    //   description={item.description}
+                    //   image={item.image}
+                    //   date={item.date}
+                    //   isFeatured={item.isFeatured}
+                    // />
                     <div key={item.id} className="news-card featured">
                       <div className="card-content">
                         <div className="image-wrapper">
-                          <img src={DefaultImageSVG}
+                          <img src={item.image || DefaultImageSVG}
                             alt={item.title}
                             className="news-image"
                           />
@@ -96,10 +105,18 @@ const S4 = () => {
                   {newsItems
                     .filter(item => !item.isFeatured)
                     .map(item => (
+                      // <CardNews
+                      //   id={item.id}
+                      //   title={item.title}
+                      //   description={item.description}
+                      //   image={item.image}
+                      //   date={item.date}
+                      //   isFeatured={item.isFeatured}
+                      // />
                       <div key={item.id} className="news-card">
                         <div className="card-content">
                           <div className="image-wrapper">
-                            <img src={DefaultImageSVG}
+                            <img src={item.image || DefaultImageSVG}
                               alt={item.title}
                               className="news-image"
                             />
