@@ -21,7 +21,7 @@ const CardNews = ({
   link,
 }) => {
   return (
-    <div key={id} className={classNames('card-news', { featured: isFeatured }, className)}>
+    <div className={classNames('card-news', { featured: isFeatured }, className)}>
       <div className="card-content">
         {/* Background Layer */}
         <div className="card-background">
