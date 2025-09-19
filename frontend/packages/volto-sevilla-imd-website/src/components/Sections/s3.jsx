@@ -6,6 +6,8 @@
 import React from 'react';
 import { Image } from 'semantic-ui-react';
 import { UniversalLink } from '@plone/volto/components';
+import CardNotifications from 'volto-sevilla-imd-website/components/Cards/CardNotifications';
+import CardFeatured from 'volto-sevilla-imd-website/components/Cards/CardFeatured';
 import NotificationsIcon from 'volto-sevilla-imd-website/icons/notifications.png';
 import FeaturedIcon from 'volto-sevilla-imd-website/icons/featured.png';
 import ArrowLeftSliderDefaultIcon from 'volto-sevilla-imd-website/icons/arrow-left-slider-default.png';
@@ -101,6 +103,7 @@ const S3 = () => {
                 </UniversalLink>
               </div>
             </div>
+            // <CardNotifications title={notice.title} link={notice.url} linkText={notice.buttonText} />
           ))}
         </div>
       </div>
@@ -116,6 +119,13 @@ const S3 = () => {
 
         <div className="highlights-container">
           {highlights.map((highlight) => (
+            // <CardFeatured
+            //   title={highlight.title}
+            //   description={highlight.description}
+            //   // image={highlight.image}
+            //   link={highlight.url}
+            //   linkText="Visita su web"
+            // />
             <div key={highlight.id} className={`highlight-card ${highlight.active ? 'active' : ''}`}>
               <div className="highlight-image">
                 <Image src={highlight.image} alt={highlight.title} />
