@@ -7,6 +7,7 @@ import React from 'react';
 import SidebarPortal from '@plone/volto/components/manage/Sidebar/SidebarPortal';
 import { BlockDataForm } from '@plone/volto/components/manage/Form';
 import { useIntl } from 'react-intl';
+// import S1 from 'volto-sevilla-imd-website/components/Sections/s1';
 
 const TeaserFeaturedEdit = (props) => {
   const {
@@ -30,6 +31,7 @@ const TeaserFeaturedEdit = (props) => {
 
   return (
     <>
+      {/* <S1 /> */}
       <section style={style} className="hero-section">
         <div className="hero-background">
           <div className="bg-overlay"></div>

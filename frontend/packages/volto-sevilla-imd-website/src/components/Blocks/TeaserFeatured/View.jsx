@@ -5,11 +5,12 @@
 
 import React from 'react';
 import { UniversalLink } from '@plone/volto/components';
+// import S1 from 'volto-sevilla-imd-website/components/Sections/s1';
 
 const TeaserFeatured = (props) => {
   const { data, className } = props;
-  // const href = data.href[0]['@id'] || "/sobre-nosotros";
   return (
+    // <S1 />
     <section className="hero-section">
       <div className="hero-background">
         <div className="bg-overlay"></div>
