@@ -73,7 +73,7 @@ const S4 = () => {
                   .filter(item => item.isFeatured)
                   .map(item => (
                     // <CardNews
-                    //   key={item.id}
+                    //   id={item.id}
                     //   title={item.title}
                     //   description={item.description}
                     //   image={item.image}
@@ -106,7 +106,7 @@ const S4 = () => {
                     .filter(item => !item.isFeatured)
                     .map(item => (
                       // <CardNews
-                      //   key={item.id}
+                      //   id={item.id}
                       //   title={item.title}
                       //   description={item.description}
                       //   image={item.image}

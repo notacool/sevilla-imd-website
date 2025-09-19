@@ -11,7 +11,7 @@ import moment from 'moment';
 import DefaultImageSVG from '@plone/volto/components/manage/Blocks/Listing/default-image.svg';
 
 const CardNews = ({
-  key,
+  id,
   title,
   description,
   image,
@@ -21,7 +21,7 @@ const CardNews = ({
   link,
 }) => {
   return (
-    <div key={key} className={classNames('card-news', { featured: isFeatured }, className)}>
+    <div key={id} className={classNames('card-news', { featured: isFeatured }, className)}>
       <div className="card-content">
         {/* Background Layer */}
         <div className="card-background">
@@ -43,8 +43,7 @@ const CardNews = ({
         <div className="card-text">
           <div className="indicator-line" />
 
-          {link && (
-            <UniversalLink
+            {/* <UniversalLink
               href={link}
               className="notification-link"
               title={title || "Más información"}
@@ -52,12 +51,11 @@ const CardNews = ({
               <h3 className="card-title">
                 {title || 'Título de la noticia...lorem ipsum neque qui sit amet.'}
               </h3>
-            </UniversalLink>
-          )}
+            </UniversalLink> */}
 
-            {/* <h3 className="card-title">
+            <h3 className="card-title">
               {title || 'Título de la noticia...lorem ipsum neque qui sit amet.'}
-            </h3> */}
+            </h3>
 
           <p className="card-description">
             {description || 'Lorem ipsum dolor sit amet consectetur adipiscing elit condim entum justo quis pellen et dignissim amet...'}
@@ -73,7 +71,7 @@ const CardNews = ({
 };
 
 CardNews.propTypes = {
-  key: PropTypes.string,
+  id: PropTypes.string,
   title: PropTypes.string,
   description: PropTypes.string,
   image: PropTypes.string,
