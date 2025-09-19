@@ -1,5 +1,5 @@
 /**
- * Logo component.
+ * LogoImdAyto component.
  * @module components/Logo/LogoImdAyto
  */
 
@@ -27,7 +27,7 @@ const LogoImdAyto = ({ className }) => {
       src={ImdAytoLogo}
       alt={intl.formatMessage(messages.ayto_sevilla)}
       title={intl.formatMessage(messages.ayto_sevilla)}
-      className={`logoConf logoImdAyto ${className}`}
+      className={`logoImdAyto ${className}`}
       width={'235px'}
       height={'68px'}
     />
